@@ -41,9 +41,9 @@
     * 3.1.1 Powerpoint的工作环境及界面
     * 3.1.2 Powerpoint的文档操作
   * 3.2 在Powerpoint课件中添加文字、图像和图形
-    * 3.2.1在课件中添加文字
+    * [3.2.1在课件中添加文字](321zai-ke-jian-zhong-tian-jia-wen-zi.md)
     * 3.2.2在课件中添加图像
-    * 3.2.3在课件中添加图形
+    * [3.2.3在课件中添加图形](323zai-ke-jian-zhong-tian-jia-tu-xing.md)
 * 第4章  Flash课件的制作
   * 学习目标与知识图谱
 * 第5章  微课型课件的制作
