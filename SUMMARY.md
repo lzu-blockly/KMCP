@@ -30,6 +30,10 @@
     * [2.3.1动画素材简介](di-2-zhang-you-er-yuan-duo-mei-ti-ke-jian-su-cai-de-huo-qu-yu-chu-li/231dong-hua-su-cai-jian-jie.md)
     * [2.3.2动画的获取与处理](di-2-zhang-you-er-yuan-duo-mei-ti-ke-jian-su-cai-de-huo-qu-yu-chu-li/232dong-hua-de-huo-qu-yu-chu-li.md)
     * [2.3.3动画素材的制作要求](di-2-zhang-you-er-yuan-duo-mei-ti-ke-jian-su-cai-de-huo-qu-yu-chu-li/233dong-hua-su-cai-de-zhi-zuo-yao-qiu.md)
+  * 2.4 视频素材的获取与处理
+    * [2.4.1视频素材简介](di-2-zhang-you-er-yuan-duo-mei-ti-ke-jian-su-cai-de-huo-qu-yu-chu-li/241shi-pin-su-cai-jian-jie.md)
+    * [2.4.2视频信息的采集与编辑](di-2-zhang-you-er-yuan-duo-mei-ti-ke-jian-su-cai-de-huo-qu-yu-chu-li/242shi-pin-xin-xi-de-cai-ji-yu-bian-ji.md)
+    * [2.4.3视频素材的制作要求](di-2-zhang-you-er-yuan-duo-mei-ti-ke-jian-su-cai-de-huo-qu-yu-chu-li/243shi-pin-su-cai-de-zhi-zuo-yao-qiu.md)
 * 第3章  Powerpoint课件的制作
   * 学习目标与知识图谱
 * 第4章  Flash课件的制作
