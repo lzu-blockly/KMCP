@@ -7,8 +7,14 @@
     * [1.1.1多媒体课件的概念](chapter1/111duo-mei-ti-ke-jian-de-gai-nian.md)
     * [1.1.2多媒体课件的结构](chapter1/112duo-mei-ti-ke-jian-de-jie-gou.md)
     * [1.1.3多媒体课件的类型](chapter1/113duo-mei-ti-ke-jian-de-lei-xing.md)
-  * 1.2幼儿园多媒体课件设计的理论基础
+  * [1.2幼儿园多媒体课件设计的理论基础](chapter1/12you-er-yuan-duo-mei-ti-ke-jian-she-ji-de-li-lun-ji-chu.md)
+    * 1.2.1现代教育思想及其指导意义
+    * 1.2.2学习理论及其指导意义
+    * 1.2.3美学理论及其指导意义
   * 1.3幼儿园多媒体课件的制作工具、规范和评价
+    * [1.3.1幼儿园多媒体课件的制作工具](chapter1/131you-er-yuan-duo-mei-ti-ke-jian-de-zhi-zuo-gong-ju.md)
+    * [1.3.2幼儿园多媒体课件的制作规范](chapter1/132you-er-yuan-duo-mei-ti-ke-jian-de-zhi-zuo-gui-fan.md)
+    * [1.3.3幼儿园多媒体课件的评价](chapter1/133you-er-yuan-duo-mei-ti-ke-jian-de-ping-jia.md)
   * 本章习题
 * [第2章  幼儿园多媒体课件素材的获取与处理](di-2-zhang-you-er-yuan-duo-mei-ti-ke-jian-su-cai-de-huo-qu-yu-chu-li.md)
   * 学习目标与知识图谱
