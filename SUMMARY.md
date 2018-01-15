@@ -94,8 +94,8 @@
   * 4.5 利用逐帧动画制作课件
   * 4.6 利用形状补间动画制作课件
   * 4.7 利用运动补间动画制作课件
-  * 4.8 利用引导线动画制作课件
-  * 4.9 利用遮罩动画制作课件
+  * [4.8 利用引导线动画制作课件](48-li-yong-yin-dao-xian-dong-hua-zhi-zuo-ke-jian.md)
+  * [4.9 利用遮罩动画制作课件](49-li-yong-zhe-zhao-dong-hua-zhi-zuo-ke-jian.md)
   * 本章习题
 * 第5章  微课型课件的制作
   * 学习目标与知识图谱
@@ -103,7 +103,7 @@
     * [5.1.1微课的概念](511wei-ke-de-gai-nian.md)
     * [5.1.2微课制作流程](512wei-ke-zhi-zuo-liu-cheng.md)
     * [5.1.3微课制作方法](513wei-ke-zhi-zuo-fang-fa.md)
-    * 5.1.4微课制作环境
+    * [5.1.4微课制作环境](514wei-ke-zhi-zuo-huan-jing.md)
   * 5.2 制作微课的简单方法
     * 5.2.1使用手机拍摄微课
     * 5.2.2使用Camtasia Studio编辑微课
