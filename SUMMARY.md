@@ -16,8 +16,6 @@
   * [2.2 声音素材的获取与处理](di-2-zhang-you-er-yuan-duo-mei-ti-ke-jian-su-cai-de-huo-qu-yu-chu-li/22-sheng-yin-su-cai-de-huo-qu-yu-chu-li.md)
   * [2.3 动画素材的获取与处理](di-2-zhang-you-er-yuan-duo-mei-ti-ke-jian-su-cai-de-huo-qu-yu-chu-li/23-dong-hua-su-cai-de-huo-qu-yu-chu-li.md)
   * [2.4 视频素材的获取与处理](di-2-zhang-you-er-yuan-duo-mei-ti-ke-jian-su-cai-de-huo-qu-yu-chu-li/24-shi-pin-su-cai-de-huo-qu-yu-chu-li.md)
-    * [2.4.2视频信息的采集与编辑](di-2-zhang-you-er-yuan-duo-mei-ti-ke-jian-su-cai-de-huo-qu-yu-chu-li/242shi-pin-xin-xi-de-cai-ji-yu-bian-ji.md)
-    * [2.4.3视频素材的制作要求](di-2-zhang-you-er-yuan-duo-mei-ti-ke-jian-su-cai-de-huo-qu-yu-chu-li/243shi-pin-su-cai-de-zhi-zuo-yao-qiu.md)
   * 本章习题
 * [第3章  Powerpoint课件的制作](di-3-zhang-powerpoint-ke-jian-de-zhi-zuo.md)
   * 学习目标与知识图谱
