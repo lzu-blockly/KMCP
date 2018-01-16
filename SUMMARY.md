@@ -24,7 +24,7 @@
   * [3.3 在Powerpoint课件中添加影音和图表](33-zai-powerpoint-ke-jian-zhong-tian-jia-ying-yin-he-tu-biao.md)
   * 3.4 Powerpoint课件的美化
   * 3.5 Powerpoint课件的动画设置
-  * 3.6 使用课件中对象产生交互
+  * [3.6 使用课件中对象产生交互](36-shi-yong-ke-jian-zhong-dui-xiang-chan-sheng-jiao-hu.md)
   * 3.7 课件中使用菜单和按键产生交互
   * 3.8 课件中使用触发器产生交互
   * 3.9 Powerpoint课件的输出
@@ -32,7 +32,7 @@
 * 第4章  Flash课件的制作
   * 学习目标与知识图谱
   * 4.1 Flash简介
-  * 4.2 Flash基本操作
+  * [4.2 Flash基本操作](42-flashji-ben-cao-zuo.md)
   * 4.3 在Flash课件中添加文字、图像和图形
   * 4.4 在Flash课件中添加音频和视频
   * [4.5 利用逐帧动画制作课件](45-li-yong-zhu-zheng-dong-hua-zhi-zuo-ke-jian.md)
