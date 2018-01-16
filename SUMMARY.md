@@ -22,7 +22,7 @@
   * [3.4 Powerpoint课件的美化](34-powerpointke-jian-de-mei-hua.md)
   * [3.5 Powerpoint课件的动画设置](35-powerpointke-jian-de-dong-hua-she-zhi.md)
   * [3.6 使用课件中对象产生交互](36-shi-yong-ke-jian-zhong-dui-xiang-chan-sheng-jiao-hu.md)
-  * 3.7 课件中使用菜单和按键产生交互
+  * [3.7 课件中使用菜单和按键产生交互](37-ke-jian-zhong-shi-yong-cai-dan-he-an-jian-chan-sheng-jiao-hu.md)
   * [3.8 课件中使用触发器产生交互](38-ke-jian-zhong-shi-yong-hong-fa-qi-chan-sheng-jiao-hu.md)
   * 3.9 Powerpoint课件的输出
   * 本章习题
