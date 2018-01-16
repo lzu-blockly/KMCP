@@ -73,7 +73,7 @@
   * 4.4 在Flash课件中添加音频和视频
     * 4.4.1声音的应用
     * 4.4.2视频的应用
-  * 4.5 利用逐帧动画制作课件
+  * [4.5 利用逐帧动画制作课件](45-li-yong-zhu-zheng-dong-hua-zhi-zuo-ke-jian.md)
   * 4.6 利用形状补间动画制作课件
   * 4.7 利用运动补间动画制作课件
   * [4.8 利用引导线动画制作课件](48-li-yong-yin-dao-xian-dong-hua-zhi-zuo-ke-jian.md)
