@@ -1,60 +1,120 @@
 #1.3幼儿园多媒体课件的制作工具、规范和评价
+
+<iframe frameborder="0" width="640" height="498" src="https://v.qq.com/iframe/player.html?vid=g0534lomfzo&tiny=0&auto=0" allowfullscreen></iframe>
+
 ##1.3.1幼儿园多媒体课件的制作工具
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;课件的制作是在课件设计的基础上，用编程语言或编著软件将课件的内容按预定的结构和方式组成一个完整的课件程序，并经过必要的后期处理，形成课件成品的过程。在这个过程中使用的制作工具包括硬件和软件，我们常见的硬件工具有电脑、手机、摄像机、录音机等；对于幼儿教师来说，幼儿园课件制作主要采用课件编著软件。大部分的编著软件界面友好、使用方法简单，经过简单的培训就能掌握。这方面的软件很多，可分为基于图标和流程线的多媒体编著软件、基于卡片和页面的多媒体编著软件、基于时间轴的多媒体编著软件和基于网页制作的多媒体编著软件。本书主要介绍PPT、Flash、Camtasia Studio三种。
+
 ###1.PPT
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PPT 全名为 Microsoft Power Point，主要用于播放演示文稿，如在教学、产品展示以及演讲的过程中，非常实用。操作简单，用起来方便。在制作课件时，能将图片、声音、视频等功能融为一体，很好的吸引了幼儿的注意力。Power Point最初并不是微软公司发明的，而是美国名校伯克利大学一位叫Robert Gaskins的博士生发明的，之后微软通过收购的方式将Power Point收入麾下，最终成为的办公软件系列（office）重要组件之一（还有Excel,Word等）。
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;一套完整的PPT文件一般包含：片头动画、PPT封面、前言、目录、过渡页、图表页、图片页、文字页、封底、片尾动画等；所采用的素材有：文字、图片、图表、动画、声音、影片等；近年来，中国的PPT应用水平逐步提高，应用领域越来越广；PPT正成为人们工作生活的重要组成部分，在教育、工作汇报、企业宣传、产品推介、婚礼庆典、项目竞标、管理咨询等领域广泛应用。
+
 ###2.Flash
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Flash 最初是 Macromedia 公司推出的，后来被 Adobe 公司收购。是一款动画制作软件，它的三大基本功能为图像的绘制、动画的制作和脚本编程，且它的表现力非常强。Flash是一个非常优秀的矢量动画制作软件，制作的动画具有短小精悍的特点，所以被广泛应用于网页动画的设计中，以成为当前网页动画设计最为流行的软件之一。Flash特别适用于创建通过Internet提供的内容，因为它的文件非常小。Flash是通过广泛使用矢量图形做到这一点的。与位图图形相比，矢量图形需要的内存和存储空间小很多，因为它们是以数学公式而不是大型数据集来表示的。位图图形之所以更大，是因为图像中的每个像素都需要一组单独的数据来表示。
+
 ###3.Cs
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Camtasia Studio是一款专门捕捉屏幕影音的工具软件。Camtasia Studio能在任何颜色模式下轻松地记录屏幕动作，包括影像、音效、鼠标移动的轨迹，解说声音等等。同时Camtasia Studio还具有即时播放和编辑压缩的功能，用户可以对视频片段进行剪接、添加转场效果。同时，Camtasia Studio还是一个视频编辑工具，可以将图像和视频剪辑成电影，输出格式有多种选择，可以是 GIF 动画、AVI、RM、QuickTime 电影等，并可将电影文件打包成 EXE 文件，在没有播放器的机器上也可以进行播放，软件附带了一个功能强大的屏幕动画抓取工具，内置一个简单的媒体播放器。
+
 ##1.3.2幼儿园多媒体课件的制作规范
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;幼儿园的孩子大多是三到六岁，这个阶段的孩子活泼好动，好奇心强，自制力差，容易被新鲜的事物吸引。幼儿以具体形象思维为主，抽象思维较差。而多媒体课件以文字、声音、动画相结合的方式，将抽象的内容变为具体，让静止的内容活动起来，更易使幼儿理解教学内容，所以多媒体课件对幼儿园教育教学活动有极大的辅助作用，然而，要创作出令人满意的多媒体课件，使课件与幼儿教育教学活动达到完美的结合却并非易事。在幼儿多媒体课件的制作过程中应遵循以下几点。
+
 ###1.形象化
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;幼儿的各方面经验都比较少, 思维形象具体, 但想像力非常丰富, 学习时需要适当的引导和点拨。 多媒体课件可以把枯燥的知识变得形象化,引导孩子建构客观事物，架起了幼儿思维与客观事物联结的桥梁。
+
 ###2.趣味性
+
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;趣味性就是指课件要富有一定的童趣。在制作课件中, 教师应结合幼儿的心理特征，不仅要让抽象的内容变为具体使孩子更易接受, 而且要考虑如何激发起幼儿的兴趣。让孩子在活动中愉快地学习,这是我们制作课件的最终目的。
+
 ###3.简洁性
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;幼儿的自制能力较差，容易受无关事物的影响， 过于花哨的背景, 热闹的场面都能在课堂上起到分散孩子注意力的负面作用。所以在多媒体课件中，与教学内容无关的事物最好不要出现, 这样更能集中孩子们的注意力, 突出主题。此外还应注意课件中信息量不要过多，应结合幼儿的接受能力合理设计课件中的信息量。
+
 ###4.完整性
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;课件制作要完整主要是指声音、文字、图片、动画等素材要完整。完全没有必要在电脑旁边再放一个录音机、录像机、VCD等。此外，还应重视与教材的联系以及与教学活动设计的配合，形成最佳组合的整体效应。
+
 ###5.突出性
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;多媒体课件的设计要突出教学的重点、难点。教师应该着重设计教学内容的重点和难点，帮助幼儿理解较抽象的概念，化深为浅，化难为易。
+
 ###6.科学性
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;制作多媒体课件，要选择那些具有典型性、代表性、真实性的材料；阐述的科学原理，引用的资料、名词、术语、计算单位等都要准确、可靠；表现的图像、声音、色彩要真实；示范性操作、表演等也要准确规范。决不能为了追求视觉的华丽而忽略教学内容的准确性。
+
 ###7.交互性
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;要抓住孩子兴趣的最高点,把孩子想了解、想看的内容及时快速地呈现在孩子面前，使孩子的兴趣得以延伸。另外在制作课件的过程中, 要注意课件的交互灵活性，也就是说课件能够根据教学过程的各个具体环节, 实际变化需要, 把场景或片段及时地展现在孩子们的面前，没有中间环节。
+
 ##1.3.3幼儿园多媒体课件的评价
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;我们可以从不同角度对课件进行评价。从评价实施的时期和目的来分有诊断性评价、形成性评价和总结性评价；从评价的对照标准来分有比较性评价、常模参照性评价和目标参照性评价；从课件评价的主体不同分为专家评价和学生试用评价等。我们在以上评价和制订评价标准过程中，必须遵守一些必要原则。
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(1)科学性与导向性原则
-科学性要求评价体系能完整地反映教育价值的本质属性。科学性与导向性是指所建立的标准必须能反映教学的目标和客观规律，课件能抓住影响和制约教学的关键性因素。
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;科学性要求评价体系能完整地反映教育价值的本质属性。科学性与导向性是指所建立的标准必须能反映教学的目标和客观规律，课件能抓住影响和制约教学的关键性因素。
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(2)完备性与独立性原则
-完备性与独立性是指评价标准中的指标要全面反映教学目标和教学管理目标。 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;完备性与独立性是指评价标准中的指标要全面反映教学目标和教学管理目标。 
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(3)可操作性与可测性原则 
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;评价的指标必须是一些具体化的目标，既可以通过实际的观察、测量、评定等方式进行度量，又便于在实际的评价过程中进行操作。
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;一般的多媒体课件可以从科学性、教学性、技术性、艺术性和实用性五个方面予以评价：
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**一、 科学性**
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.描述概念的科学性：课件的取材适宜，内容科学、正确、规范。
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.问题表述的准确性：课件中所有表述的内容要准确无误。
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.引用资料的正确性：课件中引用的资料正确。
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.认知逻辑的合理性：课件的演示符合现代教育理念。
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**二、 教育性**
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.直观性：课件的制作直观、形象，利于学生理解知识。
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.趣味性：有利于调动学生学习的积极性和主动性。
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.新颖性：课件的设计新颖，进一步调动学生的学习热情。
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.启发性：课件在课堂教学中具有较大的启发性。
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5.针对性：课件的针对性强，内容完整。
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**三、 技术性**
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.多媒体效果：课件的制作和使用上是否恰当运用了多媒体效果。
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.稳定性：课件在调试、运行过程中不应出现故障。
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.合理性：课件是否恰当的选择了软件的类型。
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.交互性：在多媒体课件中应充分发挥计算机的交互功能。
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**四、 艺术性**
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.画面艺术：画面制作应具有较高艺术性，整体标准相对统一。
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.语言文字：课件所展示的语言文字应规范、简洁、明了。
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.声音效果：声音清晰，无杂音，对课件有充实作用。
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**五、实用性**
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.易操作性：操作简便、快捷。
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.可移植性：移植是否方便，能否在不同配置的机器上正常运行。
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.适用性：课件是否适用于教师日常教学。
 
