@@ -1,4 +1,6 @@
 #4.5 利用逐帧动画制作课件
+<iframe frameborder="0" width="640" height="498" src="https://v.qq.com/iframe/player.html?vid=f0534g8ewn7&tiny=0&auto=0" allowfullscreen></iframe>
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;逐帧动画是一种常见的动画形式(Frame By Frame)，其原理是在"连续的关键帧"中分解动画动作，也就是在时间轴的每帧上逐帧绘制不同的内容，使其连续播放而成动画。逐帧动画具有非常大的灵活性，几乎可以表现任何想表现的内容。它类似于电影的播放模式，很适合表演细腻的动画，例如人物走路、说话等。
 **学习目的**
 本节你将学习掌握以下内容： 
