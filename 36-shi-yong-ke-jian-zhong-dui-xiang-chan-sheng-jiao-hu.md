@@ -1,2 +1,4 @@
 #3.6 使用课件中对象产生交互
-<iframe height=498 width=510 src='http://player.youku.com/embed/XMzMyMTg2MjY4MA==' frameborder=0 'allowfullscreen'></iframe>
+
+
+<iframe frameborder="0" width="640" height="498" src="https://v.qq.com/iframe/player.html?vid=l0534cxhfq8&tiny=0&auto=0" allowfullscreen></iframe>
