@@ -16,11 +16,11 @@
   * 本章习题
 * [第3章  Powerpoint课件的制作](di-3-zhang-powerpoint-ke-jian-de-zhi-zuo.md)
   * 学习目标与知识图谱
-  * 3.1 Powerpoint简介
+  * [3.1 Powerpoint简介](31-powerpointjian-jie.md)
   * [3.2 在Powerpoint课件中添加文字、图像和图形](32-zai-powerpoint-ke-jian-zhong-tian-jia-wen-zi-3001-tu-xiang-he-tu-xing.md)
   * [3.3 在Powerpoint课件中添加影音和图表](33-zai-powerpoint-ke-jian-zhong-tian-jia-ying-yin-he-tu-biao.md)
   * 3.4 Powerpoint课件的美化
-  * 3.5 Powerpoint课件的动画设置
+  * [3.5 Powerpoint课件的动画设置](35-powerpointke-jian-de-dong-hua-she-zhi.md)
   * [3.6 使用课件中对象产生交互](36-shi-yong-ke-jian-zhong-dui-xiang-chan-sheng-jiao-hu.md)
   * 3.7 课件中使用菜单和按键产生交互
   * [3.8 课件中使用触发器产生交互](38-ke-jian-zhong-shi-yong-hong-fa-qi-chan-sheng-jiao-hu.md)
