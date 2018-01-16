@@ -1,5 +1,5 @@
 #3.2 在Powerpoint课件中添加文字、图像和图形
-本节具体介绍如何在PPT课件中添加教学内容，包括文字、图形、图像等。
+<iframe height=498 width=510 src='http://player.youku.com/embed/XMzMyMzI2OTgwOA==' frameborder=0 'allowfullscreen'></iframe>
 ##3.2.1  在课件中添加文字
 在PPT中我们不可以滥用文字，但是文字也必不可少。对于幼儿，使用一些文字是有必要的，但是我们应该合理控制使用文字的数量。幻灯片上不能直接输入文字，只能在占位符或文本框中输入文字。
 ###1.添加一般文字
