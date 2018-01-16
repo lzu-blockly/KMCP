@@ -1,4 +1,5 @@
 #2.2 声音素材的获取与处理
+<iframe height=498 width=510 src='http://player.youku.com/embed/XMzMyMTg2MDA5Ng==' frameborder=0 'allowfullscreen'></iframe>
 ## 2.2.1声音素材简介
 
 在多媒体课件中，语言解说和背景音乐是课件的重要组成部分。按照声音的内容不同，可以将多媒体课件中的声音划分为解说、效果声与音乐声等类型。
