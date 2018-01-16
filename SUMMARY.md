@@ -31,7 +31,7 @@
   * 4.1 Flash简介
   * [4.2 Flash基本操作](42-flashji-ben-cao-zuo.md)
   * [4.3 在Flash课件中添加文字、图像和图形](43-zai-flash-ke-jian-zhong-tian-jia-wen-zi-3001-tu-xiang-he-tu-xing.md)
-  * 4.4 在Flash课件中添加音频和视频
+  * [4.4 在Flash课件中添加音频和视频](44-zai-flash-ke-jian-zhong-tian-jia-yin-pin-he-shi-pin.md)
   * [4.5 利用逐帧动画制作课件](45-li-yong-zhu-zheng-dong-hua-zhi-zuo-ke-jian.md)
   * 4.6 利用形状补间动画制作课件
   * 4.7 利用运动补间动画制作课件
