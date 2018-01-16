@@ -24,7 +24,7 @@
   * [3.6 使用课件中对象产生交互](36-shi-yong-ke-jian-zhong-dui-xiang-chan-sheng-jiao-hu.md)
   * [3.7 课件中使用菜单和按键产生交互](37-ke-jian-zhong-shi-yong-cai-dan-he-an-jian-chan-sheng-jiao-hu.md)
   * [3.8 课件中使用触发器产生交互](38-ke-jian-zhong-shi-yong-hong-fa-qi-chan-sheng-jiao-hu.md)
-  * 3.9 Powerpoint课件的输出
+  * [3.9 Powerpoint课件的输出](39-powerpointke-jian-de-shu-chu.md)
   * 本章习题
 * 第4章  Flash课件的制作
   * 学习目标与知识图谱
