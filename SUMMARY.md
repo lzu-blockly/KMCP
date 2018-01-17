@@ -28,7 +28,7 @@
   * 本章习题
 * 第4章  Flash课件的制作
   * 学习目标与知识图谱
-  * 4.1 Flash简介
+  * [4.1 Flash简介](41-flashjian-jie.md)
   * [4.2 Flash基本操作](42-flashji-ben-cao-zuo.md)
   * [4.3 在Flash课件中添加文字、图像和图形](43-zai-flash-ke-jian-zhong-tian-jia-wen-zi-3001-tu-xiang-he-tu-xing.md)
   * [4.4 在Flash课件中添加音频和视频](44-zai-flash-ke-jian-zhong-tian-jia-yin-pin-he-shi-pin.md)
