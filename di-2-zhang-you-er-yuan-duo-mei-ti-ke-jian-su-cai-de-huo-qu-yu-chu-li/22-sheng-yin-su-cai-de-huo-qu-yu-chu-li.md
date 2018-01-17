@@ -76,16 +76,16 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;制作多媒体课件的过程中，可以通过用麦克风录制声音文件、截取正在运行的程序中的声音等方法来录制声音，井保存为WAV格式文件。  
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**1\)用麦克风录制声音文件** 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**(1)用麦克风录制声音文件** 
  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\(1\) 准备: 首先将麦克风插入声卡的麦克风\(MIC\)插口，打开Audition软件。  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\(2\) 录音:单击菜单栏上的【文件】\|【新建】\|【新建音频文件】。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;① 准备: 首先将麦克风插入声卡的麦克风\(MIC\)插口，打开Audition软件。  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;② 录音:单击菜单栏上的【文件】\|【新建】\|【新建音频文件】。
 
 ![](/assets/2-2-5.png)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**图2-2-5  “新建音频文件”面板  **
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;为该文件命名，选择需要的采样率，一般说来，采样频率越高，采样位数越大，声音质量就越好，但相应的声音文件也越大。在这里，我们选择44100Hz，单击【确定】，单击编辑器的“录音按钮”●，此时即可通过麦克风进行录音，完毕后，单击“停止按钮”■即可结東录音，
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;为该文件命名，选择需要的采样率，一般说来，采样频率越高，采样位数越大，声音质量就越好，但相应的声音文件也越大。在这里，我们选择44100Hz，单击【确定】，单击编辑器的![](/assets/2-2-22.png)【录音】按钮，此时即可通过麦克风进行录音，完毕后，单击![](/assets/2-2-23.png)【停止】按钮即可结東录音。
 
 ![](/assets/2-2-6.png)
 
