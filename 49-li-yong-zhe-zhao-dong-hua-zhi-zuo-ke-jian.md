@@ -50,7 +50,7 @@
 
 ![](/assets/4-8-8.png)![](/assets/4-8-9.png)
 
-**图4-9-6  制作遮罩**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**图4-9-6  制作遮罩**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**7.制作动画**  在第10帧处插入一个关键帧（如图4-9-7-1），在第30帧处插入一个关键帧，将椭圆移到第一个tip上并用任意变形工具调整椭圆大小，使它能刚好覆盖其内容（如图4-9-7-2）。在第50帧处插入一个关键帧，将椭圆移到第二个tip上（如图4-9-7-3）。在第70帧处插入一个关键帧，将椭圆移到第四个tip上（如图4-9-7-4）。在第90帧处插入一个关键帧，将椭圆移到第三个tip上（如图4-9-7-5）。
 
@@ -74,7 +74,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**图4-9-7—5  移动遮罩层至（5）**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**8.制作补间动画**  在“遮罩层”的每个关键帧之间，单击右键添加传统补间。如图4.9.8所示。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**8.制作补间动画**  在“遮罩层”的每个关键帧之间，单击右键添加传统补间。如图4-9-8所示。
 
 ![](/assets/4-8-15.png)
 
@@ -84,7 +84,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**10.测试动画**   选择“控制”→“测试影片”命令（或按Ctrl+Enter键），预览效果，并保存课件。
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**知识库**
+###知识库
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**1.“遮罩动画”的原理**
 
