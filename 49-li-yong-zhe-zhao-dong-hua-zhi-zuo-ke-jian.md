@@ -1,10 +1,10 @@
-##4.9利用遮罩动画制作课件
+#4.9利用遮罩动画制作课件
 
-<iframe height=498 width=510 src='http://player.youku.com/embed/XMzMyMTg2NTA2NA==' frameborder=0 'allowfullscreen'></iframe>
+<iframe frameborder="0" width="640" height="498" src="https://v.qq.com/iframe/player.html?vid=j0534gnuxmw&tiny=0&auto=0" allowfullscreen></iframe>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;上大班的孩子好奇心比较强，因此在教学过程中适当的增加一些遮罩动画的实例，能有助于提高孩子的注意力，帮助教师进行教学。遮罩动画是利用特殊的图层——遮罩层来创建的动画。使用遮罩层后，遮罩层下面图片的内容就像透过一个窗口显示出来一样，这个窗口的形状和大小就是遮罩层中的内容的形状和大小。在课件中制作中能将动画演示限制在一个形状或区域内，可以实现某些特殊的效果。
 
-###实例  保护鼻子
+##实例  保护鼻子
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;本例对应大班（上）《健康》第六节保护鼻子。课件运行界面如图4-9-1所示，该课件向大家演示保护鼻子的方法。
 
@@ -101,6 +101,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;②要在场景中显示遮罩效果，可以锁定遮罩层和被遮罩层。
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;③可以用Actions动作语句建立遮罩，但这种情况下只能有一个“被遮罩层”，同时，不能设置Alpha属性。
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;④不能用一个遮罩层试图遮蔽另一个遮罩层。
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⑤遮罩可以应用在GIF动画上。
