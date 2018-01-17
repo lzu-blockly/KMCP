@@ -10,33 +10,33 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;图像素材的常用文件类型包括以下几种:
 
-**1.BMP 格式**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**1.BMP 格式**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BMP(Bit Map Picture)格式是Windows 使用的基本图像格式，是一种位图格式文件，用一组数据(8--24 位)来表示一个像素的色彩。大多数图像软件都支持BMP 格式。BMP 格式文件的规模比较大。
 
-**2.PNG格式**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2.PNG格式**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;采用无损压缩编码，能获得较高的压缩比，文件尺寸较小，支持多种颜色深度。
 
-**3.JPG格式**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**3.JPG格式**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;JPG（Joint Photographic Expert Group)格式也称JPEG 格式是一种十分流行的图像格式，它采用了JPG方法进行压缩，因此文件可以非常小，而且可以通过降低压缩比来获得较高质量的图像资料。但JPG格式是一种有损压缩，因此不适于存储珍贵的图像资料或原始素材。
 
-**4.TIFF格式**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**4.TIFF格式**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;支持多种压缩方案、多种颜色深度、能提供专业级印刷质量的图像。
 
-**5.GIF 格式**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**5.GIF 格式**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GIF(Graphics Interchange Format )格式是目前因特网上使用最普遍的图像文件格式之一，主要用于在不同平台上进行图像交流传输。GIF 格式文件的压缩比比较高，文件规模较小，但它仅能表达256 色图像。目前的GIF 格式文件还支持图像内的小型动画，它使得因特网上的网页显得生动活泼。
 
 ## 2.1.2 图像的获取与编辑
 
-**1.图像的获取 ** 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**1.图像的获取 ** 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;图像是多媒体课件中必不可少的素材，在课件制作中，除了自己绘制图像外，还可以使用屏幕捕捉软件、扫描仪等工具来获取现有的图像。 
  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1\)捕捉屏幕上的图像
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(1)捕捉屏幕上的图像
   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;用于屏幕捕捉的软件很多，Hyper Snap-DX、Capture Professional、SnagIt都是不错的抓取软件，功能相当强大。它们不仅可以捕捉屏幕上的静态图像，还可以捕捉动态屏幕影像和屏幕文字。  
 
@@ -46,29 +46,29 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**图2-1-1 键盘**  
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（1）Print Screen功能键，直接按下即可捕捉电脑屏幕图像，截图我们所看到的显示器显示的所有界面。  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;① Print Screen功能键，直接按下即可捕捉电脑屏幕图像，截图我们所看到的显示器显示的所有界面。  
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（2）使用Alt + Print Screen键实现活动截图，即可完成当前活动区域的界面截图。  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;② 使用Alt + Print Screen键实现活动截图，即可完成当前活动区域的界面截图。  
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（3）同时按下Ctrl+ Alt+ A键可实现选择区域截图（该快捷键需要在登陆QQ后才可以使用）此时，我们可以任意拖动鼠标来选择区域截图。  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;③ 同时按下Ctrl+ Alt+ A键可实现选择区域截图（该快捷键需要在登陆QQ后才可以使用）此时，我们可以任意拖动鼠标来选择区域截图。  
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;以上三种方法中，我们要看到或要保存所截图像，都需要打开画板或Word或其他编辑器→【Ctrl+ V】粘贴→另存为图像。  
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2\)通过扫描仪获取图像  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(2)通过扫描仪获取图像  
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;要从书本、杂志、照片等非数码资源中获取图像，扫描仪是一类最常用的工具。扫描仪的工作原理和复印机相似。用一列光传感器电子化地捕捉图像。传感器每次把一行光转换成颜色和光强，直到整个页面被扫过。各类扫描仪的性能有很大的不同，在分辨率方面可以达到100dpi\(每英寸的点数\)至1000dpi的质量。 
  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;扫描仪由软件控制，这些软件将计算机与扫描仪连接起来。由软件管理传感器的预热，控制扫描仪的机械运动，将扫描出来的图像经过转换后保存到硬盘上。该扫描软件由于扫描仪的类型不同而不同，但是无论使用哪种扫描软件，扫描图像的步骤基本上是一样的: 预扫描→设定扫描区域→扫描→保存图像。  
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3）利用数码照相机拍摄数字图像  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(3）利用数码照相机拍摄数字图像  
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;利用数码照相机可以直接拍摄数字化图像素材。通过数码照相机获取的数字图像通常存放在存储卡内再通过数据线将其输入到计算机中使用。
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4）通过下载  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(4）通过下载  
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;有许多专门的软件用于图像搜索，搜索到需要的图像资源后可以使用下载工具，如迅雷下载下来。或者直接在网页中下载即可。 
 
-**2.图像的编辑**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2.图像的编辑**  
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;通过上述手段获取了数字化图像以后，通常还需要对图像进行编辑或加工。图像编辑工具十分丰富，从Windows自带的“画笔”软件到功能十分强大的Photoshop软件都可选用。利用它们能完成基本的绘制图像功能，并具有对从外部文件输入的图像数据进行编辑修改的能力。 
  
