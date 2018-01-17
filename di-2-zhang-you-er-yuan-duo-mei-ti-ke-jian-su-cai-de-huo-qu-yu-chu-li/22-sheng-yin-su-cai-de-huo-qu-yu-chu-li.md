@@ -91,105 +91,105 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**图2-2-6  录音按钮  **
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2\) 截取正在运行的程序中的声音** 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**(2) 截取正在运行的程序中的声音** 
  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（1）做好录音前的准备工作，打开Audition软件，其方法如前所述。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;①做好录音前的准备工作，打开Audition软件，其方法如前所述。
   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（2）打开所要运行的程序\(如课件、游戏软件等\)，并找到想要录制的内容。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;②打开所要运行的程序\(如课件、游戏软件等\)，并找到想要录制的内容。
 
 ![](/assets/2-2-7.png)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**图2-2-7  “首选项”面板**  
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（3）单击【编辑】\|【首选项】\|【音频硬件】，在默认输入的下拉菜单中选择“立体声混音”，单击【确定】。 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;③单击【编辑】→【首选项】→【音频硬件】，在默认输入的下拉菜单中选择“立体声混音”，单击【确定】。 
  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\(4\) 其余步骤与用麦克风录制声音文件相同。 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;④ 其余步骤与用麦克风录制声音文件相同。 
  
 ###2.声音文件的编辑
 
-**1\)声音编辑**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**(1)声音编辑**  
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\(1\)删除  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;①删除  
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在声音素材的编辑过程中，有时需要删除一些空白或者错误的部分，操作如下:选中需要删除的部分，按下键盘上的Delete键，即可删除。  
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\(2\)粘贴  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;②粘贴  
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;如果需要把声音文件一部分粘贴到另一个位置，操作如下：选择想要粘贴的部分，同时按下键盘上的Ctrl+c键，单击想要粘贴的位置，再同时按下键盘上的Ctrl+v键即可。  
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2\)声音效果的处理**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**(2)声音效果的处理**  
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（1）降噪  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;①降噪  
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在录制声音素材时，不可避免的会出现一些噪声，这时，我们可以通过降噪处理处理声音素材，操作如下：  
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.将该声音文件的波形放大，直到能够清楚地看到该声音文件的低频噪声的波形选中该波段。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A.将该声音文件的波形放大，直到能够清楚地看到该声音文件的低频噪声的波形选中该波段。
   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.选择【效果】\|【降噪/恢复】\|【降噪（处理）】，打开效果-降噪面板。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B.选择【效果】→【降噪/恢复】→【降噪（处理）】，打开效果"降噪"面板。
 
 ![](/assets/2-2-8.png)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**图2-2-8  “效果-降噪”面板** 
  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.单击![](/assets/2-2-9.png) ，此时，软件会对噪声样本进行分析，接着，单击![](/assets/2-2-10.png) ，此时，整个声音素材文件都被选中，接下来，单击面板上的![](/assets/2-2-11.png)按钮，就可以试听降噪的效果了。  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C.单击![](/assets/2-2-9.png) ，此时，软件会对噪声样本进行分析，接着，单击![](/assets/2-2-10.png) ，此时，整个声音素材文件都被选中，接下来，单击面板上的![](/assets/2-2-11.png)按钮，就可以试听降噪的效果了。  
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.如果觉得声音失真，可以通过调节“降噪”和“降噪幅度”来设置。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;D.如果觉得声音失真，可以通过调节“降噪”和“降噪幅度”来设置。
 
 ![](/assets/2-2-12.png)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**图2-2-9  “降噪”和“降噪幅度”选项**
   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5.如果觉得效果已经理想，单击“应用”按钮，即可完成降噪处理。 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;E.如果觉得效果已经理想，单击“应用”按钮，即可完成降噪处理。 
  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（2）淡入淡出 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;②淡入淡出 
  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在声音素材的开始和结束部分，我们通常需要进行淡入淡出处理来使声音的产生和消失不那么突兀，具体操作如下：  
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.向右拖动编辑面板上左上角的淡入标识，即可对声音素材进行淡入处理；
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A.向右拖动编辑面板上左上角的淡入标识，即可对声音素材进行淡入处理；
 
 ![](/assets/2-2-13.png)
 
 **图2-2-10  “淡入”标识** 
  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.向左拖动编辑面板上右上角的淡出标识（与淡入标识相同），即可对声音素材进行淡出处理。  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B.向左拖动编辑面板上右上角的淡出标识（与淡入标识相同），即可对声音素材进行淡出处理。  
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**3\)音频的修复** 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**(3)音频的修复** 
  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在录制声音素材的过程中，可能会混入一些杂音，如电话铃声，上课铃声，此时我们就需要进行声音的修复，具体操作如下： 
  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（1）单击工具栏的“显示频谱频率显示器” ![](/assets/2-2-14.png)，调出该声音素材的频谱图。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;①单击工具栏的“显示频谱频率显示器” ![](/assets/2-2-14.png)，调出该声音素材的频谱图。
 
 ![](/assets/2-2-15.png)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**图2-2-11 频谱图**
   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（2）单击工具栏的“框选工具”![](/assets/2-2-16.png)，对电话铃声部分进行框选，接着，按下键盘上的Delete键进行删除。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;②单击工具栏的“框选工具”![](/assets/2-2-16.png)，对电话铃声部分进行框选，接着，按下键盘上的Delete键进行删除。
 
 ![](/assets/2-2-17.png)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**图2-2-12  用框选工具进行框选 ** 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\(3\) 对于框选不干净的部分，我们可以使用套索工具，单击工具栏的“套索选择工具”![](/assets/2-2-18.png) ，将需要删除的部分选出，通过键盘上的Delete键进行清除。  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;③对于框选不干净的部分，我们可以使用套索工具，单击工具栏的“套索选择工具”![](/assets/2-2-18.png) ，将需要删除的部分选出，通过键盘上的Delete键进行清除。  
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**4）声音的合成  **
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**（4）声音的合成  **
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在多媒体课件中，我们自行录制的声音素材往往需要配上合适的背景音乐或音效，才能达到良好的教学效果，具体操作如下：  
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（1）单击【文件】\|【新建】\|【多轨会话】，新建一个多轨会话文件，命名该文件，单击“确定”按钮，此时会出现新建多轨会话的面板。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;①单击【文件】→【新建】→【多轨会话】，新建一个多轨会话文件，命名该文件，单击“确定”按钮，此时会出现新建多轨会话的面板。
 
 ![](/assets/2-2-19.png)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**图2-2-13  “新建多轨会话”面板**  
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（2）将之前录制的《云朵与风儿》的朗读拖到轨道1上，将背景音乐拖到轨道2上，根据朗读声音素材的长度调整背景音乐的长度。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;②将之前录制的《云朵与风儿》的朗读拖到轨道1上，将背景音乐拖到轨道2上，根据朗读声音素材的长度调整背景音乐的长度。
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（3）上下拖动“音量线条”来调节声音素材的音量，通过“淡入”、“淡出”标识对声音素材进行淡入、淡出处理，直到达到理想的效果。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;③上下拖动“音量线条”来调节声音素材的音量，通过“淡入”、“淡出”标识对声音素材进行淡入、淡出处理，直到达到理想的效果。
 
 ![](/assets/2-2-20.png)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**图2-2-14  音量标识**  
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（4）单击【文件】\|【导出】\|【多轨混音】\|【整个文件】，打开“导出多轨混音”面板，选择需要的“格式”、“位置”，单击“确定”，就可以得到配有背景音乐的朗诵了。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;④单击【文件】→【导出】→【多轨混音】→【整个文件】，打开“导出多轨混音”面板，选择需要的“格式”、“位置”，单击“确定”，就可以得到配有背景音乐的朗诵了。
 
 ![](/assets/2-2-21.png)
 
