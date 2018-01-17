@@ -8,11 +8,11 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;通过动作交互可实现鼠标单击（或经过）任何幻灯片对象来触发跳转。动作交互对象可以是一个图片、按钮，甚至可以是一个文本框，单击（或经过）幻灯片对象时它会发生跳转或打开课件、网页或文件等的操作。通过实例学习动作交互。
 
-实例1   种子的传播
+###实例1   种子的传播
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;课件“种子的传播”是幼儿园大班《科学》（上）的内容，本实例置换了课本图片，通过介绍在第1张幻灯片使用动作交互制作导航菜单的方法，达到单击各菜单按钮时链接到课件内相应位置幻灯片的效果，如单击首页“自体传播”菜单按钮链接到第3张幻灯片。效果图如图3-6-1和3-6-2所示。
-
-**图3-6-1 效果图(1)**
+![](/assets/3-6-1.png)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**图3-6-1 效果图(1)**
 
  
 **图3-6-2 效果图(2)**
