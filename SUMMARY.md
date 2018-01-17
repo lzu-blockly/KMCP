@@ -8,7 +8,7 @@
   * [1.3幼儿园多媒体课件的制作工具、规范和评价](chapter1/13you-er-yuan-duo-mei-ti-ke-jian-de-zhi-zuo-gong-ju-3001-gui-fan-he-ping-jia.md)
   * 本章习题
 * [第2章  幼儿园多媒体课件素材的获取与处理](di-2-zhang-you-er-yuan-duo-mei-ti-ke-jian-su-cai-de-huo-qu-yu-chu-li.md)
-  * 学习目标与知识图谱
+  * [学习目标与知识图谱](di-2-zhang-you-er-yuan-duo-mei-ti-ke-jian-su-cai-de-huo-qu-yu-chu-li/xue-xi-mu-biao-yu-zhi-shi-tu-pu.md)
   * [2.1 图像素材的获取与处理](di-2-zhang-you-er-yuan-duo-mei-ti-ke-jian-su-cai-de-huo-qu-yu-chu-li/21-tu-xiang-su-cai-de-huo-qu-yu-chu-li.md)
   * [2.2 声音素材的获取与处理](di-2-zhang-you-er-yuan-duo-mei-ti-ke-jian-su-cai-de-huo-qu-yu-chu-li/22-sheng-yin-su-cai-de-huo-qu-yu-chu-li.md)
   * [2.3 动画素材的获取与处理](di-2-zhang-you-er-yuan-duo-mei-ti-ke-jian-su-cai-de-huo-qu-yu-chu-li/23-dong-hua-su-cai-de-huo-qu-yu-chu-li.md)

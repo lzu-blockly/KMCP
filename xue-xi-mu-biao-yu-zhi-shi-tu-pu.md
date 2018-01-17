@@ -1,4 +1,4 @@
-###学习目标：
+###学习目标
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.熟悉Powerpoint的工作环境及界面。
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.熟练Powerpoint课件制作的基础操作。
@@ -11,6 +11,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6.掌握Powerpoint课件播放效果的设置方法及课件打包的方法。
 
-###知识导图：
+###知识导图
 
 ![](/assets/3-0-1.jpg)
