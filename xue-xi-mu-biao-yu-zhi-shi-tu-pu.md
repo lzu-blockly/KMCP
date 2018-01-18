@@ -9,4 +9,4 @@
 
 ###知识图谱
 
-![](/assets/5-0-1.jpg)
+<div align="center"><img src="/assets/5-0-1.jpg"></div>
