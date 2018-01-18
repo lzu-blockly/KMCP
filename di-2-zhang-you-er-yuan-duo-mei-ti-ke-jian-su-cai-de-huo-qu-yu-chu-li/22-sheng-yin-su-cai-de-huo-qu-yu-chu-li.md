@@ -1,5 +1,7 @@
 #2.2 声音素材的获取与处理
 
+##教学微视频
+
 <iframe frameborder="0" width="640" height="498" src="https://v.qq.com/iframe/player.html?vid=u0534eizkhq&tiny=0&auto=0" allowfullscreen></iframe>
 
 ## 2.2.1声音素材简介
@@ -76,7 +78,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;制作多媒体课件的过程中，可以通过用麦克风录制声音文件、截取正在运行的程序中的声音等方法来录制声音，井保存为WAV格式文件。  
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**(1)用麦克风录制声音文件** 
+**(1)用麦克风录制声音文件** 
  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;① 准备: 首先将麦克风插入声卡的麦克风\(MIC\)插口，打开Audition软件。  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;② 录音:单击菜单栏上的【文件】\|【新建】\|【新建音频文件】。
@@ -91,7 +93,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**图2-2-6  录音按钮  **
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**(2) 截取正在运行的程序中的声音** 
+**(2) 截取正在运行的程序中的声音** 
  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;①做好录音前的准备工作，打开Audition软件，其方法如前所述。
   
@@ -107,7 +109,7 @@
  
 ###2.声音文件的编辑
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**(1)声音编辑**  
+**(1)声音编辑**  
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;①删除  
 
@@ -117,7 +119,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;如果需要把声音文件一部分粘贴到另一个位置，操作如下：选择想要粘贴的部分，同时按下键盘上的Ctrl+c键，单击想要粘贴的位置，再同时按下键盘上的Ctrl+v键即可。  
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**(2)声音效果的处理**  
+**(2)声音效果的处理**  
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;①降噪  
 
@@ -153,7 +155,7 @@
  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B.向左拖动编辑面板上右上角的淡出标识（与淡入标识相同），即可对声音素材进行淡出处理。  
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**(3)音频的修复** 
+**(3)音频的修复** 
  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在录制声音素材的过程中，可能会混入一些杂音，如电话铃声，上课铃声，此时我们就需要进行声音的修复，具体操作如下： 
  
@@ -171,7 +173,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;③对于框选不干净的部分，我们可以使用套索工具，单击工具栏的“套索选择工具”![](/assets/2-2-18.png) ，将需要删除的部分选出，通过键盘上的Delete键进行清除。  
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**（4）声音的合成  **
+**（4）声音的合成  **
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在多媒体课件中，我们自行录制的声音素材往往需要配上合适的背景音乐或音效，才能达到良好的教学效果，具体操作如下：  
 
