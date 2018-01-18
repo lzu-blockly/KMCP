@@ -11,6 +11,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6.掌握Powerpoint课件播放效果的设置方法及课件打包的方法。
 
-###知识导图
+###知识图谱
 
 ![](/assets/3-0-1.jpg)

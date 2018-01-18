@@ -6,6 +6,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.了解多媒体课件的制作工具、制作规范和评价。
 
-###知识导图
+###知识图谱
 
 ![](/assets/1-0-1.jpg)
