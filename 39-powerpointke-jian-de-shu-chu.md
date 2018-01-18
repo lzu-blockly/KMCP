@@ -6,9 +6,10 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;幻灯片切换包括预览、切换到此幻灯片和计时三个部分，如图3-9-1所示。幻灯片切换效果的设置相对来说比较简单易懂，读者可以根据自己的兴趣进行设置和练习。
 
-![](/assets/3-9-1.jpg)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**图3-9-1 幻灯片的切换**
+<div align="center"><img src="/assets/3-9-1.jpg"></div>
+===
+<div align="center"><span style="font-size:10px">图3-9-1 幻灯片的切换</span></div>
+===
 
 ##2.课件的打包
 
@@ -16,18 +17,22 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（1）在PowerPoint中打开想要打包的课件，依次选择“文件”菜单中的“保存并发送”—“将演示文稿打包成CD”—“打包成CD”，如图3-9-2所示。
 
-![](/assets/3-9-2.png)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**图3-9-2 课件打包步骤一**
+<div align="center"><img src="/assets/3-9-1.png"></div>
+===
+<div align="center"><span style="font-size:10px">图3-9-2 课件打包步骤一</span></div>
+===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（2）在弹出的“打包成CD”窗口中，既可以选择添加更多的Powerpoint文档一起打包，也可以删除不要的Powerpoint文档。鼠标左键单击“复制到文件夹”按钮，如图3-9-3所示。
 
-![](/assets/3-9-3.jpg)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**图3-9-3 课件打包步骤二**
+<div align="center"><img src="/assets/3-9-3.jpg"></div>
+===
+<div align="center"><span style="font-size:10px">图3-9-3 课件打包步骤二</span></div>
+===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（3）在弹出的窗口中，选择路径和演示文稿打包后的文件夹名称，根据需求选择想要存放的位置路径，也可以保存默认不变，最后单击“确定”按钮，如图3-9-4所示。
 
-![](/assets/3-9-4.jpg)
+<div align="center"><img src="/assets/3-9-4.jpg"></div>
+===
+<div align="center"><span style="font-size:10px">图 3-9-4  课件打包步骤三</span></div>
+===
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**图 3-9-4  课件打包步骤三**
