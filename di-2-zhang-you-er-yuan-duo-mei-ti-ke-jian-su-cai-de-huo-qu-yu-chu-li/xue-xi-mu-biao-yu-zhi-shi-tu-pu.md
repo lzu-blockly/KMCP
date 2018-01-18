@@ -10,4 +10,6 @@
 
 ###知识图谱
 
-![](/assets/2-0-1.jpg)
+<div align="center"><img src="/assets/2-0-1.jpg"></div>
+===
+
