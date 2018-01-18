@@ -16,17 +16,19 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;采样是指将时间上连续的信号每隔一定的时间间隔抽取出一个信号的幅度样本，把连续的模拟量用一个个离散的点表示出来，使其成为时间上离散的信号。每秒钟采样的次数称为采样频率，用f表示，单位是赫兹\(Hz\)；两次采样之间的时间间隔称为采样周期，用T表示，则T=1/f。如图2-2-1是一些常见的采样频率。
 
-![](/assets/2-2-1.png)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**图2-2-1 常见的采样频率 ** 
+<div align="center"><img src="/assets/2-2-1.png"></div>
+===
+<div align="center"><span style="font-size:10px">图2-2-1 常见的采样频率</span></div>
+===
 
 **（2）量化**  
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;采样得到的幅度值依然是无穷多个实数值中的一个，因此幅度还是连续的。量化是将采样后信号的幅度值用确定的有限位二进制数表示出来的过程。量化的二进制位数称为量化精度或量化位数。量化精度为16bit时称为高保真录音质量，要获得立体声效果，就需要用32bit来保存两个16bit样本。
 
-![](/assets/2-2-2.png)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**图2-2-2  8位量化和16位量化 ** 
+<div align="center"><img src="/assets/2-2-2.png"></div>
+===
+<div align="center"><span style="font-size:10px">图2-2-2  8位量化和16位量化</span></div>
+===
 
 **（3）编码 ** 
 
@@ -34,9 +36,10 @@
  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;模拟、量化和编码后所形成的二进制序列就是数字音频信号，可以将其以文件的形式保存在计算机的存储设备中，这样的文件通常称之为数字音频文件。
 
-![](/assets/2-2-3.png)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**图2-2-3   模数转换的过程**
+<div align="center"><img src="/assets/2-2-3.png"></div>
+===
+<div align="center"><span style="font-size:10px">图2-2-3  模数转换的过程</span></div>
+===
 
 ### 2.音频压缩
 
@@ -70,9 +73,10 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在制作多媒体课件时，通常都是利用上述声卡及专用软件来完成声音的录制和播放。Adobe公司开发的Adobe Audition软件就是其中功能比较强大的一款，下面我们以幼儿园大班（上）音乐教材中的《云彩和风儿》的朗读素材为例，对Adobe Audition软件的操作作简单介绍。
 
-![](/assets/2-2-4.png)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**图2-2-4   Adobe Audition的工作界面**  
+<div align="center"><img src="/assets/2-2-4.png"></div>
+===
+<div align="center"><span style="font-size:10px">图2-2-4   Adobe Audition的工作界面</span></div>
+===
 
 ###1.声音的录制
 
@@ -81,17 +85,19 @@
 **(1)用麦克风录制声音文件** 
  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;① 准备: 首先将麦克风插入声卡的麦克风\(MIC\)插口，打开Audition软件。  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;② 录音:单击菜单栏上的【文件】\|【新建】\|【新建音频文件】。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;② 录音:单击菜单栏上的【文件】→【新建】→【新建音频文件】。
 
-![](/assets/2-2-5.png)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**图2-2-5  “新建音频文件”面板  **
+<div align="center"><img src="/assets/2-2-5.png"></div>
+===
+<div align="center"><span style="font-size:10px">图2-2-5  “新建音频文件”面板</span></div>
+===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;为该文件命名，选择需要的采样率，一般说来，采样频率越高，采样位数越大，声音质量就越好，但相应的声音文件也越大。在这里，我们选择44100Hz，单击【确定】，单击编辑器的![](/assets/2-2-22.png)【录音】按钮，此时即可通过麦克风进行录音，完毕后，单击![](/assets/2-2-23.png)【停止】按钮即可结東录音。
 
-![](/assets/2-2-6.png)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**图2-2-6  录音按钮  **
+<div align="center"><img src="/assets/2-2-6.png"></div>
+===
+<div align="center"><span style="font-size:10px">图2-2-6  录音按钮</span></div>
+===
 
 **(2) 截取正在运行的程序中的声音** 
  
@@ -99,9 +105,10 @@
   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;②打开所要运行的程序\(如课件、游戏软件等\)，并找到想要录制的内容。
 
-![](/assets/2-2-7.png)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**图2-2-7  “首选项”面板**  
+<div align="center"><img src="/assets/2-2-7.png"></div>
+===
+<div align="center"><span style="font-size:10px">图2-2-7  “首选项”面板</span></div>
+=== 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;③单击【编辑】→【首选项】→【音频硬件】，在默认输入的下拉菜单中选择“立体声混音”，单击【确定】。 
  
@@ -129,17 +136,19 @@
   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B.选择【效果】→【降噪/恢复】→【降噪（处理）】，打开效果"降噪"面板。
 
-![](/assets/2-2-8.png)
+<div align="center"><img src="/assets/2-2-8.png"></div>
+===
+<div align="center"><span style="font-size:10px">图2-2-8  “效果-降噪”面板</span></div>
+===
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**图2-2-8  “效果-降噪”面板** 
- 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C.单击![](/assets/2-2-9.png) ，此时，软件会对噪声样本进行分析，接着，单击![](/assets/2-2-10.png) ，此时，整个声音素材文件都被选中，接下来，单击面板上的![](/assets/2-2-11.png)按钮，就可以试听降噪的效果了。  
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;D.如果觉得声音失真，可以通过调节“降噪”和“降噪幅度”来设置。
 
-![](/assets/2-2-12.png)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**图2-2-9  “降噪”和“降噪幅度”选项**
+<div align="center"><img src="/assets/2-2-12.png"></div>
+===
+<div align="center"><span style="font-size:10px">图2-2-9  “降噪”和“降噪幅度”选项</span></div>
+===
   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;E.如果觉得效果已经理想，单击“应用”按钮，即可完成降噪处理。 
  
@@ -149,10 +158,11 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A.向右拖动编辑面板上左上角的淡入标识，即可对声音素材进行淡入处理；
 
-![](/assets/2-2-13.png)
+<div align="center"><img src="/assets/2-2-13.png"></div>
+===
+<div align="center"><span style="font-size:10px">图2-2-10  “淡入”标识</span></div>
+===
 
-**图2-2-10  “淡入”标识** 
- 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B.向左拖动编辑面板上右上角的淡出标识（与淡入标识相同），即可对声音素材进行淡出处理。  
 
 **(3)音频的修复** 
@@ -161,15 +171,17 @@
  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;①单击工具栏的“显示频谱频率显示器” ![](/assets/2-2-14.png)，调出该声音素材的频谱图。
 
-![](/assets/2-2-15.png)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**图2-2-11 频谱图**
+<div align="center"><img src="/assets/2-2-15.png"></div>
+===
+<div align="center"><span style="font-size:10px">图2-2-11 频谱图</span></div>
+===
   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;②单击工具栏的“框选工具”![](/assets/2-2-16.png)，对电话铃声部分进行框选，接着，按下键盘上的Delete键进行删除。
 
-![](/assets/2-2-17.png)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**图2-2-12  用框选工具进行框选 ** 
+<div align="center"><img src="/assets/2-2-17.png"></div>
+===
+<div align="center"><span style="font-size:10px">图2-2-12  用框选工具进行框选</span></div>
+===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;③对于框选不干净的部分，我们可以使用套索工具，单击工具栏的“套索选择工具”![](/assets/2-2-18.png) ，将需要删除的部分选出，通过键盘上的Delete键进行清除。  
 
@@ -179,23 +191,26 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;①单击【文件】→【新建】→【多轨会话】，新建一个多轨会话文件，命名该文件，单击“确定”按钮，此时会出现新建多轨会话的面板。
 
-![](/assets/2-2-19.png)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**图2-2-13  “新建多轨会话”面板**  
+<div align="center"><img src="/assets/2-2-19.png"></div>
+===
+<div align="center"><span style="font-size:10px">图2-2-13  “新建多轨会话”面板</span></div>
+===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;②将之前录制的《云朵与风儿》的朗读拖到轨道1上，将背景音乐拖到轨道2上，根据朗读声音素材的长度调整背景音乐的长度。
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;③上下拖动“音量线条”来调节声音素材的音量，通过“淡入”、“淡出”标识对声音素材进行淡入、淡出处理，直到达到理想的效果。
 
-![](/assets/2-2-20.png)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**图2-2-14  音量标识**  
+<div align="center"><img src="/assets/2-2-20.png"></div>
+===
+<div align="center"><span style="font-size:10px">图2-2-14  音量标识</span></div>
+===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;④单击【文件】→【导出】→【多轨混音】→【整个文件】，打开“导出多轨混音”面板，选择需要的“格式”、“位置”，单击“确定”，就可以得到配有背景音乐的朗诵了。
 
-![](/assets/2-2-21.png)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**图2-2-15  “导出多轨混音”面板**
+<div align="center"><img src="/assets/2-2-21.png"></div>
+===
+<div align="center"><span style="font-size:10px">图2-2-15  “导出多轨混音”面板</span></div>
+===
 
 ##2.2.3 声音素材的制作要求
 
