@@ -59,21 +59,21 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;我们可以从不同角度对课件进行评价。从评价实施的时期和目的来分有诊断性评价、形成性评价和总结性评价；从评价的对照标准来分有比较性评价、常模参照性评价和目标参照性评价；从课件评价的主体不同分为专家评价和学生试用评价等。我们在以上评价和制订评价标准过程中，必须遵守一些必要原则。
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**1.科学性与导向性原则**
+**1.科学性与导向性原则**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;科学性要求评价体系能完整地反映教育价值的本质属性。科学性与导向性是指所建立的标准必须能反映教学的目标和客观规律，课件能抓住影响和制约教学的关键性因素。
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2.完备性与独立性原则**
+**2.完备性与独立性原则**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;完备性与独立性是指评价标准中的指标要全面反映教学目标和教学管理目标。 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**3.可操作性与可测性原则 **
+**3.可操作性与可测性原则 **
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;评价的指标必须是一些具体化的目标，既可以通过实际的观察、测量、评定等方式进行度量，又便于在实际的评价过程中进行操作。
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;一般的多媒体课件可以从科学性、教学性、技术性、艺术性和实用性五个方面予以评价：
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**1. 科学性**
+**1. 科学性**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（1）描述概念的科学性：课件的取材适宜，内容科学、正确、规范。
 
@@ -83,7 +83,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（4）认知逻辑的合理性：课件的演示符合现代教育理念。
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2. 教育性**
+**2. 教育性**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（1）直观性：课件的制作直观、形象，利于学生理解知识。
 
@@ -95,7 +95,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（5）针对性：课件的针对性强，内容完整。
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**3. 技术性**
+**3. 技术性**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（1）多媒体效果：课件的制作和使用上是否恰当运用了多媒体效果。
 
@@ -105,7 +105,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（4）交互性：在多媒体课件中应充分发挥计算机的交互功能。
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**4. 艺术性**
+**4. 艺术性**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（1）画面艺术：画面制作应具有较高艺术性，整体标准相对统一。
 
@@ -113,7 +113,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（3）声音效果：声音清晰，无杂音，对课件有充实作用。
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**5.实用性**
+**5.实用性**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（1）易操作性：操作简便、快捷。
 

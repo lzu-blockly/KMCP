@@ -134,14 +134,14 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;④“文字方向”的操作如图3-1-9所示。
 
-<div align="center"><img src="/assets/3-1-9.png"></div>
+<div align="center"><img src="/assets/3-1-9.jpg"></div>
 ===
 <div align="center"><span style="font-size:10px">图3-1-9  “文字方向”的操作</span></div>
 ===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⑤转换为SmartArt图形的操作如图3-1-10所示。
 
-<div align="center"><img src="/assets/3-1-10.png"></div>
+<div align="center"><img src="/assets/3-1-10.jpg"></div>
 ===
 <div align="center"><span style="font-size:10px">图3-1-10  SmartArt图形</span></div>
 ===
@@ -150,7 +150,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“绘图”主要包括如图3-1-11所示的几个部分。
 
-<div align="center"><img src="/assets/3-1-11.png"></div>
+<div align="center"><img src="/assets/3-1-11.jpg"></div>
 ===
 <div align="center"><span style="font-size:10px">图3-1-11  “绘图”模块</span></div>
 ===
