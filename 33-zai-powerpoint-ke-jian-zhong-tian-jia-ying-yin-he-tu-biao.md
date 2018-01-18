@@ -20,6 +20,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;【音频选项】组有【音量】、【开始】、【循环播放，直到停止】、【放映时隐藏】和【播放完返回开头】5个选项，这些命令可以控制音频的播放。其中【音量】选项中有【低】、【中】、【高】和【静音】选项，【开始】选项中有【自动】、【单击时】和【跨幻灯片播放】。 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;自动：指幻灯片播放时，音乐同时自动播放。 
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;单击时：指幻灯片播放时，单击【小喇叭】图标，音乐才能播放。如果设置了触发器，则单击触发器才能播放。 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;跨幻灯片播放：指音乐播放时，幻灯片往下切换，但音乐会继续播放，不会中断，直到音乐结束。
@@ -33,6 +34,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**图 3-3-2 插入视频 **
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;①直接插入视频文件
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;插入文件视频。选择【媒体】工具，插入视频文件。
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;设置窗口大小和位置。运用调整图片的方法，调整视频窗口大小和位置。
@@ -110,6 +112,9 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⑦打开【开始】选项卡，将鼠标指针移到绘图区，调整至合适位置后进行文字图形的美化，如图3-3-6所示。
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PowerPoint 2016提供了18种标准的图表类型，每一种都具有多种组合和变换。在遵循简单、直观、清晰、明了的基本原则下，可根据数据和使用要求的不同，选择不同类型的图表。下面介绍一些常见图表的应用规则；
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;①柱形图：由一系列垂直条组成。柱形图用于显示一段时间内的数据变化或显示各项之间的比较情况。
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;②折线图：用来显示一段时间内的趋势，例如数据在一段时间内是呈现增长趋势的，在另一段时间内是处于下降趋势的，可以通过折线图，对将来进行预测；
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;③饼形图：饼形图可以用来将数据点显示为数据总额的百分比。整个饼代表总和，每一个数据点用一个楔形或者薄片表示。但是，当多个数据点的数据值都小于饼形图的5%时，区分各个扇区将十分困难。
