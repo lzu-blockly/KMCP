@@ -8,4 +8,5 @@
 
 ###知识图谱
 
-![](/assets/1-0-1.jpg)
+<div align="center"><img src="assets/1-0-1.jpg"></div>
+===
