@@ -28,7 +28,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(2)鼠标右键单击该图层，从弹出的【菜单】中选择【添加传统引导层】命令，即可在所选图层上面创建一个运动引导层（此时，创建的引导层前面会出现一个图标![](/assets/4-9-3.png)），并且将原来所选图层设为引导层，如图4-8-3所示。
 
-<div align="center"><img src="/assets/4-9-3.png"></div>
+<div align="center"><img src="/assets/4-9-4.png"></div>
 ===
 <div align="center"><span style="font-size:10px">图4-8-3 创建传统引导层</span></div>
 ===

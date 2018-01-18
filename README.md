@@ -1,6 +1,6 @@
 <div align="center"><img src="assets/0-1.jpg"></div>
 ===
-<div align="center"><span style="font-size:24px">前言</span></div>
+<div align="center"><span style="font-size:36px">前言</span></div>
 ===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;幼儿园多媒体课件的制作涉及到幼儿教育学理论、心理学理论、学习理论、教学设计、美学等多方面的知识，课件的制作工具也层出不穷，各有特色。如何综合运用相关理论和工具，设计并制作出具有教育性、实用性、适宜性、艺术性和交互性的幼儿园多媒体课件，是本教程关注的焦点问题。教程选取新编幼儿园大班教材中的实例，由浅入深地介绍了幼儿园多媒体课件的设计方法和课件制作工具的使用技巧，方便学前教育专业学生和幼儿园教师学习和参考。 
