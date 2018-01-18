@@ -24,7 +24,7 @@
   * [3.8 课件中使用触发器产生交互](38-ke-jian-zhong-shi-yong-hong-fa-qi-chan-sheng-jiao-hu.md)
   * [3.9 Powerpoint课件的输出](39-powerpointke-jian-de-shu-chu.md)
 * 第4章  Flash课件的制作
-  * 学习目标与知识图谱（4）
+  * [学习目标与知识图谱（4）](xue-xi-mu-biao-yu-zhi-shi-tu-pu-ff08-4.md)
   * [4.1 Flash简介](41-flashjian-jie.md)
   * [4.2 Flash基本操作](42-flashji-ben-cao-zuo.md)
   * [4.3 在Flash课件中添加文字、图像和图形](43-zai-flash-ke-jian-zhong-tian-jia-wen-zi-3001-tu-xiang-he-tu-xing.md)
