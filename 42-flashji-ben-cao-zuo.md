@@ -1,11 +1,10 @@
 #4.2 Flash基本操作
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在使用Flash制作课件的过程中，需要经常对图层、帧、元件和场景等进行操作，因此掌握这些概念和基本操作方法是制作Flash课件的基础。
-
 ##教学微视频
 
 <iframe frameborder="0" width="640" height="498" src="https://v.qq.com/iframe/player.html?vid=b0534p11xwp&tiny=0&auto=0" allowfullscreen></iframe>
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在使用Flash制作课件的过程中，需要经常对图层、帧、元件和场景等进行操作，因此掌握这些概念和基本操作方法是制作Flash课件的基础。
 
 ##4.2.1图层
 
@@ -13,24 +12,30 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**1.添加图层：**打开时间轴窗口-单击左下角的新建按钮（如图4.2-1）
 
-![](/assets/4-2-1.png)
+<div align="center"><img src="/assets/4-2-1.png"></div>
+===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2.选中并删除图层：**选中要删除的图层-单击左下角的删除按钮（删除图层后，该图层所包含的对象也会被一并从舞台中删除，所以删除图层时一定要慎重。）（如图4.2-2）
-![](/assets/4-2-2.png)
+
+<div align="center"><img src="/assets/4-2-2.png"></div>
+===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**3.重命名图层：**双击想要重命名的图层进行修改。（如图4.2-3）
 
-![](/assets/4-2-3.png)
+<div align="center"><img src="/assets/4-2-3.png"></div>
+===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**4.移动图层：**选中并拖动图层即可。
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**5.锁定图层：**选中要锁定的图层-单击后方的锁定按钮。（图层被锁定后，舞台上位于该图层中的对象也被锁定，无法被选中，也无法进行移动和编辑。要解除锁定，单击图层名后的图层按钮即可）。（如图4.2-4）
 
-![](/assets/4-2-4.png)
+<div align="center"><img src="/assets/4-2-4.png"></div>
+===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**6.隐藏图层：**选中要隐藏的图层-单击后方的隐藏/显示按钮。（图层被隐藏后，舞台上位于该图层中的对象被隐藏起来，要显示该图层内容，只需要单击此图层的×按钮即可）（如图4.2-5）
 
-![](/assets/4-2-5.png)
+<div align="center"><img src="/assets/4-2-5.png"></div>
+===
 
 ##4.2.2帧
 
@@ -42,10 +47,13 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**3.普通帧：**普通帧也称为静态帧，用于延长前面一帧的状态，在关键帧后面的普通帧为灰色，在空白关键帧后的普通帧为白色。
 
-![](/assets/4-2-6.png)
+<div align="center"><img src="/assets/4-2-6.png"></div>
+===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**4.过渡帧：**在两个关键帧之间，Flash自动完成渐变过渡画面的帧叫做过渡帧。Flash可处理两种类型的渐变：运动渐变和形状渐变。形状过渡帧（浅绿色）运动过渡帧（蓝紫色）。（如图4.2-7）
-![](/assets/4-2-7.png)
+
+<div align="center"><img src="/assets/4-2-7.png"></div>
+===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**5.插入帧：**F6插入关键帧，F5插入普通帧。
 
@@ -77,4 +85,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**3.复制场景：**单击场景窗口的左下角的复制按钮。
 
-![](/assets/4-2-8.png)
+<div align="center"><img src="/assets/4-2-8.png"></div>
+===
+
