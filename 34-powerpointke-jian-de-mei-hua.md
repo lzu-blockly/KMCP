@@ -32,7 +32,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;常用的色环有24个色调，为了使读者阅读方便，这里选用的是12色调的色环，如图3-4-3所示。24个色调是基于三原色，即红、黄、蓝，这三个分别组合，则是新的颜色，即橙、绿、紫。看这个色环，不难找出其中色彩组合的规律。那么，在课件的色彩搭配中应该怎么运用这个色环呢？
 
-<div align="center"><img src="/assets/3-4-3.png"></div>
+<div align="center"><img src="/assets/3-4-3.jpg"></div>
 ===
 <div align="center"><span style="font-size:10px">图3-4-3 色环</span></div>
 ===
