@@ -1,5 +1,7 @@
 #4.5 利用逐帧动画制作课件
 
+##教学微视频
+
 <iframe frameborder="0" width="640" height="498" src="https://v.qq.com/iframe/player.html?vid=f0534g8ewn7&tiny=0&auto=0" allowfullscreen></iframe>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;逐帧动画是一种常见的动画形式(Frame By Frame)，其原理是在"连续的关键帧"中分解动画动作，也就是在时间轴的每帧上逐帧绘制不同的内容，使其连续播放而成动画。逐帧动画具有非常大的灵活性，几乎可以表现任何想表现的内容。它类似于电影的播放模式，很适合表演细腻的动画，例如人物走路、说话等。
@@ -16,19 +18,23 @@
 【对齐面板】的使用方法
 
 ##1.相关概念
+
 ###(1)空帧
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;如图4-5-1，空帧在时间轴上就是一个个方格，表示图层中动画的结束。
 ![](/assets/4-5-1.png)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**图4-5-1 空帧**
 
 ###(2)关键帧
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;关键帧是制作课件时非常重要的帧，是用来定义动画变化、状态更改的帧。Flash会根据用户正确定义的关键帧，自动完成两个关键帧之间的一些指定的过渡效果。所以只有正确定义了关键帧，才能实现动画制作中的一些由电脑自动完成的过程。如图4-5-2都是关键帧。
 ![](/assets/4-5-2.png)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**图4-5-2 关键帧**
 
 ###(3)普通帧
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;普通帧也称为静态帧，用于延长前面一帧的状态，在关键帧后面的普通帧为灰色，在空白关键帧后的普通帧为白色，如图4-5-3。
 
 ![](/assets/4-5-3.png)
@@ -76,6 +82,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(5)【输入How is the weather】  新建图层，改名为【How is the weather】，在该图层中我们将实现动态文字的效果，即内容How is the weather按单词顺序依次出现。
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(6)【延续帧】  将所有图层的帧利用F5设置帧延续的第100帧，在图层【How is the weather】的第35帧设置关键帧，如图4-5-8。
+
 ![](/assets/4-5-7.png)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**图4-5-8 延续帧**
@@ -83,6 +90,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(7)【制作动态文字效果】
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;①【添加文本框】  按图 所示操作，在“How is the weather ”图层的第35帧上绘制一个文本框，如图4-5-9所示。
+
 ![](/assets/4-5-8.png)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**图4-5-9 添加文本框**
@@ -143,6 +151,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(4)【进行绘图 】
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;①【画椭圆】在【cloudy】图层的第一帧设置关键帧，在舞台上用椭圆工具绘制一个没有填充颜色的椭圆，如图4-5-18和4-5-19。
+
 ![](/assets/4-5-18.png)
 
 **图4-5-18  椭圆工具**
@@ -152,6 +161,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**图4-5-19 画椭圆**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;②【椭圆组合】  在第二帧设置关键帧，复制之前绘制的椭圆，将两个椭圆接在一起，重复几次，如图4-5-20。
+
 ![](/assets/4-5-20.png)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**图4-5-20 椭圆组合**
@@ -175,9 +185,10 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**图4-5-24  时间轴**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（5）【被遮住的太阳】  在【cloudy】元件中新建图层【被遮住的太阳】,将新图层放在【cloudy】图层下方，单击【cloudy】图层在【时间轴】面板小黄锁下方的黑点，对此图层进行加锁，如图4-5-25所示。
+
 ![](/assets/4-5-25.png)
 
-**图4-5-25 锁定**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**图4-5-25 锁定**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**提示：在进行多帧编辑时，编辑的是场景中全部对象，为了避免错误操作，所以要将一些不需要编辑的图层进行锁定。**
 
@@ -222,8 +233,10 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在前面的动画中，我们利用实例讲解了【对齐面板】中的上对齐功能，还讲解了【绘画纸】里的【绘图纸外观】按钮![](/assets/4-5-43.jpg)的使用方法。下面详细的讲解一下【绘画纸】的功能、【对齐面板】的应用，并给大家归纳总结创建逐帧动画的方法。
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(1)【绘画纸】的功能
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;【绘画纸】是一个帮助定位和编辑动画的辅助功能，这个功能对制作逐帧动画特别有用。通常情况下，Flash 在舞台中一次只能显示动画序列的单个帧。使用绘画纸功能后，你就可以在舞台中一次查看两个或多个帧了。
-如图4-5-30所示，这是使用【绘画纸】功能后的场景，可以看出，当前帧中内容用全彩色显示，其它帧内容以半透明显示，它使我们看起来好像所有帧内容是画在一张半透明的绘图纸上，这些内容相互层叠在一起。当然，这时你只能编辑当前帧的内容。
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;如图4-5-30所示，这是使用【绘画纸】功能后的场景，可以看出，当前帧中内容用全彩色显示，其它帧内容以半透明显示，它使我们看起来好像所有帧内容是画在一张半透明的绘图纸上，这些内容相互层叠在一起。当然，这时你只能编辑当前帧的内容。
 
 ![](/assets/4-5-30.png)
 
@@ -251,7 +264,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(2)【对齐面板】的应用
 
-使用【对齐面板】，可以对编辑区中多个对像进行排列、分布、匹配大小、调整间隔等操作，使布局整齐美观，如图4-5-31所示。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;使用【对齐面板】，可以对编辑区中多个对像进行排列、分布、匹配大小、调整间隔等操作，使布局整齐美观，如图4-5-31所示。
 
 ![](/assets/4-5-35.png)
 
