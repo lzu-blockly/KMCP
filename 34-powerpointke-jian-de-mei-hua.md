@@ -120,20 +120,62 @@
 
 ##3.4.4课件的主题设置
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在工具栏点击【设计】进入根据需要选择格式
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在PowerPoint课件中，使用主题颜色、字体和效果，可以使课件具有统一的风格。如果每一张幻灯片都有不同的背景，而且字体、颜色、字号都不一样，看起来就会非常杂乱。这个时候，就能发现Powerpoint主题的作用了。
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;当课件中的幻灯片背景改变时，幻灯片上的文字、图片、图形等颜色，以及字体和效果也需要随之改变，才能保证搭配协调，如果这样边想边改，工作量就会非常大。为了减少工作量，使用预先设计好的主题，便可以轻松快捷的更改课件的整体外观。系统提供了多种内置的主题颜色、字体和效果，读者可以根据自己的喜好进行选择。
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;接下来通过一个例子来说明如何设置主题。
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.新建幻灯片。 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.单击【设计】选项卡，选择合适的主题。
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.设计主题的颜色和字体，单击【颜色】，按照图3-4-15所示的步骤进行操作。这里需要强调的一点是，这里的颜色不是Powerpoint里边字体的颜色，而是整体风格，也就是主题的颜色。颜色和字体都可以根据需要或者个人喜好进行选择。
 
 ![](/assets/3-4-15.png)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**图3-4-15 更改主题**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**图3-4-15 主题颜色和字体的设置**
 
-##3.4.5课件的模板设置
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.单击“单击此处添加标题”，输入“神秘的天体——地球的公转”。单击“单击此处添加副标题”，输入“制作者：雏菊组”。这样，如图3-4-16所示，一个简单的标题页就完成了。接下来按照这种方式，完成所有幻灯片的制作。
 
 ![](/assets/3-4-16.png)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**图3-4-16 下载模板**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**图3-4-16 添加标题与副标题**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在相应部分加入教学内容，删除作者等无关信息
+##3.4.5课件的模板设置
 
-![](/assets/3-4-17.jpg)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;通常在网上可以搜到很多Powerpoint的模板，也有Powerpoint自带的。网上下载的模板用起来很方便，可以节省很多的时间。但是需要注意一点，一定要把原制作者的信息删除掉，这些信息一般以水印或者脚本的方式出现在Powerpoint中，如图3-4-17所示，虽然原作者的信息（雁滩小学 2014.2.26）非常小，但是放在那里很“难看”，会让学习者觉得不受重视，影响了整个讲演的效果。
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**图3-4-17 套用模板**
+![](/assets/3-4-17.png)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**图3-4-17 删除原作者信息**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;一个完整的Powerpoint模板从功能上分为首页、概述页、过渡页、内容页和结束页。它们扮演着不同的角色，都是为了Powerpoint的整体服务的。具体来讲，无论它们是什么功能，字体、字号、底色等基本的设计风格应该一致；但从功能上考虑，还是要有所区别。
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;首先，首页的主要功能是说明讲什么，谁来讲。其次，概述页的主要功能是使听众在正式内容前有一个全局观。过渡页的功能是说明下一章节的内容，一般适用于篇幅较长的课件。内容页的功能就是陈述主要内容以及观众最关心的内容，要多使用简单完整句。最后，千万别忘了感谢听众，我们一般把这部分内容放到结束页中。
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;不论是在网站上下载模板，还是自己设计模板，都要考虑到这几种版式的特征。先把它们的布局固定下来，然后在整个课件里进行到底，以保持一致性。
+
+**1.课件首页的设置**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;首页是给人的第一印象，所以在制作的过程中要格外注意。
+   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（1）大标题抓住听众的眼球，吸引听众的注意力。
+   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（2）副标题可以起到画龙点睛的作用，是主标题的一个呼应、补充，使标题看起来更饱满，更丰富。但是课件不一定都需要副标题。
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（3）制作者可以是一个人，也可以是一个团队。如果是教师上课用的课件，那么制作者就应该是教师本人。如果是一个报告，尤其是一个项目的结项报告，制作者一定是整个团队。千万别小看这个细节，这是Powerpoint团结群众的法宝。如果可以，还需要区分承担工作责任轻重，甚至具体到谁是材料整理者，谁是核心成员，谁是主讲者。如果不写清楚，所有的工作都可能会归于演讲者。看似简单的署名，一定程度上也能反映一个人的人品，所以一定要慎重对待。
+   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（4）单位LOGO标志。比如说我是雁滩小学的教师，我需要做一个课件，那么在我的课件里边就应该有雁滩小学的LOGO标志。代表哪个地方，就应该有哪个地方的标志，不论是学校还是公司，这样看起来会比较专业一些，当然也更能赢得听众的尊重。
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（5）日期。及时的修改日期，可以使听众感受到你对他们的重视，让他们不好意思睡觉。比如说，学校请了一个全国很有名的专家来给学生做报告，结果专家的课件首页的日期竟然是5年以前的。在这种情况下，不难想到，学生对这次报告失去了兴趣，不论这个专家多么有名，内容多么精彩了。
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（6）图片。Powerpoint的独到之处就是图文并茂，吸引读者兴趣。所以在课件的首页，放上一张合时宜的图片，则会使课件熠熠生辉，锦上添花。
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;以上六点可以说是课件首页比较重要的几个部分，当然也可以加上主讲人或者团队的联系方式，这样就会更“亲民”一些。当然，六要素中标题和制作者是最主要的。如图3-4-18所示，首页只有标题，不仅没有单位LOGO、没有时间、没有图片，甚至连制作者都没有。就像一顿饭，虽然不要求色香味俱全，但是没有盐还是吃不下去，道理是一样的。
+
+![](/assets/3-4-18.png)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**图3-4-18 不合格的首页**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;对于初学者来说，首页的制作不一定要面面俱到，但是一定要“看的下去”。如图3-4-19所示，不一定很美观，但是很实用。
