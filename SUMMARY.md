@@ -42,6 +42,5 @@
   * [学习目标与知识图谱（5）](xue-xi-mu-biao-yu-zhi-shi-tu-pu.md)
   * [5.1 微课概述](51-wei-ke-gai-shu.md)
   * [5.2 制作微课的简单方法](52-zhi-zuo-wei-ke-de-jian-dan-fang-fa.md)
-  * 本章习题
 * [参考文献](can-kao-wen-xian.md)
 
