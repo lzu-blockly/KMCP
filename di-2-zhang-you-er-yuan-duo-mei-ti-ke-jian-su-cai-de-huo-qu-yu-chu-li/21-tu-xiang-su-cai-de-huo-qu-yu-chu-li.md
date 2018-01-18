@@ -44,9 +44,10 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;除了借助屏幕捕捉的软件，我们还可以利用键盘上的快捷键直接截取图像，键盘如图2-1-1（适用于使用台式键盘的电脑，而笔记本快捷键是：FN + Prtsc）。
 
-![](/assets/2-1-1.png)  
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**图2-1-1 键盘**  
+<div align="center"><img src="/assets/2-1-1.png"></div>
+===
+<div align="center"><span style="font-size:10px">图2-1-1 键</span></div>
+=== 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;① Print Screen功能键，直接按下即可捕捉电脑屏幕图像，截图我们所看到的显示器显示的所有界面。  
 
