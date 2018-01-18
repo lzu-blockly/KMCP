@@ -10,35 +10,40 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;本例对应大班（下）《音乐》主要介绍在课件中导入声音并播放的过程，效果如图4-4-1所示。
 
-![](/assets/4-4-1.png)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**图 4-4-1 放学歌实例效果图**
+<div align="center"><img src="/assets/4-4-1.png"></div>
+===
+<div align="center"><span style="font-size:10px">图 4-4-1 放学歌实例效果图</span></div>
+===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;制作此课件，需要先导入课件中所要用到的素材，然后将图片和文字放到合适的位置，最后再设置声音。
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**1.新建文档**  运行flash软件，按图4-4-2所示操作，新建一个flash文档。
 
-![](/assets/4-4-2.png)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**图 4-4-2 新建文档**
+<div align="center"><img src="/assets/4-4-2.png"></div>
+===
+<div align="center"><span style="font-size:10px">图 4-4-2 新建文档</span></div>
+===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2.导入音频**  选择“文件”→“导入”→“导入到库”命令，按图4-4-3所示操作，导入素材到“库”面板。
 
-![](/assets/4-4-3.png)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**图 4-4-3 导入音频**
+<div align="center"><img src="/assets/4-4-3.png"></div>
+===
+<div align="center"><span style="font-size:10px">图 4-4-3 导入音频</span></div>
+===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**3.拖入背景图像粘贴文字内容** 按图4-4-4所示操作，从“库”面板中将背景图像拖入舞台。在“属性”面板中输入舞台上背景图片的大小，位置的参数值，使图片真好与舞台等大。选择文本工具，在背景图片中的圆角矩形上脱出一个等宽的文本框将文字内容粘贴到文本框中。
 
-![](/assets/4-4-4.png)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**图 4-4-4 拖入背景图像**
+<div align="center"><img src="/assets/4-4-4.png"></div>
+===
+<div align="center"><span style="font-size:10px">图 4-4-4 拖入背景图像</span></div>
+===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**4.添加声音** 在“时间轴”面板上单机“图层1”的第一帧，按图4-4-5所示操作，在关键帧的第一帧上添加声音。
 
-![](/assets/4-4-5.png)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**图 4-4-5 添加音频** 
+<div align="center"><img src="/assets/4-4-5.png"></div>
+===
+<div align="center"><span style="font-size:10px">图 4-4-5 添加音频</span></div>
+===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**5.保存并测试课件** 选择 “文件”→“保存”命令，保存课件文档，再选择“控制”→“测试影片”命令，播放并测试课件。
 
@@ -48,9 +53,10 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**1.编辑封套** 通过在“编辑封套”中进行调整，按图4-4-6所示操作，可以设置声音的播放效果，还可以改变声音开始和结束播放的位置。
 
-![](/assets/4-4-6.png)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**图 4-4-6 编辑封套**
+<div align="center"><img src="/assets/4-4-6.png"></div>
+===
+<div align="center"><span style="font-size:10px">图 4-4-6 编辑封套</span></div>
+===
 
 ##4.4.2 导入视频文件
 
@@ -62,9 +68,12 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在【选择视频】对话框中，单击【浏览】按钮，在弹出的对话框中选择FLV 视频文件。然后，使用默认地【使用回放组件加载外部视频】选项，并单击【下一步】按钮。在【外观】对话框中，用户可以从【外观】下拉列表中选择所需的播放控制器外观。然后，单击其右侧的【颜色】按钮，可以更改该播放控制器的外观颜色。图4-4-7所示操作。
 
-![](/assets/4-4-7.png)![](/assets/4-4-8.png)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**图 4-4-7 使用播放组建加载外部视频**
+<div align="center"><img src="/assets/4-4-7.png"></div>
+===
+<div align="center"><img src="/assets/4-4-8.png"></div>
+===
+<div align="center"><span style="font-size:10px">图 4-4-7 使用播放组建加载外部视频</span></div>
+===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在【完成视频导入】对话框中，将会显示导入视频文件的相关信息，如本地计算机中视频文件的路径、相对于Flash文档的路径等。
 
@@ -72,10 +81,12 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在【选择视频】对话框中，选择所要导入的视频文件后，启用【在SWF 中插入FLV 并在时间轴中播放】单选按钮，并单击【下一步】按钮。图4-4-8
 
-![](/assets/4-4-9.png)![](/assets/4-4-10.png)
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**图 4-8 嵌入FLV格式视频**
+<div align="center"><img src="/assets/4-4-9.png"></div>
+===
+<div align="center"><img src="/assets/4-4-10.png"></div>
+===
+<div align="center"><span style="font-size:10px">图 4-8 嵌入FLV格式视频</span></div>
+===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在【嵌入】对话框中，可以选择用于将视频嵌入到Flash 文档的元件类型，以及是否放置在舞台等选项。
 
