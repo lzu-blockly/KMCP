@@ -6,15 +6,15 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;下面介绍几种常见的动画格式。
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**1.GIF动画格式**
+**1.GIF动画格式**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;作为动画展示，GIF(Graphics Interchange Format)图像由于采用了无损数据压缩方法中压缩率较高的LZW算法，文件尺寸较小，因此被广泛采用。GIF动画格式可以同时存储若干幅静止图像并进而形成连续的动画，目前Internet上大量采用的彩色动画文件多为这种格式的GIF文件。很多图像浏览器如“看图王”“看图精灵”等都可以直接观看此类动画文件。
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2.FLIC/FLI/FLC格式**
+**2.FLIC/FLI/FLC格式**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;FLIC是Autodesk公司在其出品的Autodesk Animator / Animator Pro / 3D Studio等2D/3D动画制作软件中采用的彩色动画文件格式，FLIC是FLC和FLI的统称，其中，FLI是最初的基于320×200像素的动画文件格式，而FLC则是FLI的扩展格式，采用了更高效的数据压缩技术，其分辨率也不再局限于320×200像素。FLIC文件采用行程编码(RLE)算法和Delta算法进行无损数据压缩，首先压缩并保存整个动画序列中的第一幅图像，然后逐帧计算前后两幅相邻图像的差异或改变部分，并对这部分数据进行RLE压缩，由于动画序列中前后相邻图像的差别通常不大，因此可以得到相当高的数据压缩率。它被广泛用于动画图形中的动画序列、计算机辅助设计和计算机游戏应用程序。
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**3.SWF格式**
+**3.SWF格式**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SWF(Shock Wave Flash)是由Micromedia公司的产品Flash软件生成的矢量动画图形格式，由于它不是由点阵组成内容，而是采用曲线方程描述其内容，所以SWF的动画文件虽然体积小，但是在缩放时却不会失真，非常适合描述由几何图形组成的动画，如教学演示等。由于这种格式的动画可以与HTML文件充分结合，并能添加MP3音乐，因此被广泛地应用于网页上，成为一种“准”流式媒体文件。大多数多媒体课件开发平台也能很好的兼容此种格式，诸多优点使其正在成为多媒体课件开发的大热门。
 
