@@ -26,9 +26,10 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;多媒体计算机的视频采集\(捕捉\)系统由计算机、视频采集卡，以及外部视频设备如录像机、摄像机等组成，如图2-4-1所示。视频采集卡的作用是将录像带、光盘等视频源上的模拟视频信息转换成数字视频信息。在视频采集卡中，模数转换器负责把从视频源传来的模拟视频流转换成数字视频流，音频捕捉线路所捕捉的数字音频信息可以和数字视频信息结合在一起，通过硬件压缩芯片执行某种压缩算法，输出的便是经过压缩的视频数据文件。也有的视频采集卡不带硬件压缩芯片，而通过压缩软件对视频数据进行压缩。
 
-![](/assets/2-4-1.jpg)  
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**图2-4-1 多媒体计算机的视频采集系统**  
+<div align="center"><img src="/assets/2-4-1.jpg"></div>
+===
+<div align="center"><span style="font-size:10px">图2-4-1 多媒体计算机的视频采集系统</span></div>
+===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;一般来说，视频采集卡提供了连续采集、单帧采集和视频图像的数字化播放等功能。为了对数字化视频信息进行编辑加工，可以采用专门的视频编辑软件。例如，Adobe公司的Premiere软件。  
 
@@ -38,25 +39,28 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;当启动Premiere cc 2017时，就会出现如图2-4-2所示的程序界面，其中【源监视器窗口】用于源素材的播放和预剪辑；【节目监视器窗口】用于播放时间线上的内容；【时间线窗口】是进行视音频编辑的工作区域；【工程项目窗口】是用于管理素材源的工作面板；【工具面板】提供了如选择工具，剃刀工具，比率拉伸工具等多种在非线性编辑中所用到的剪辑工具；【效果面板】提供了Premiere的几十种视频效果，音频效果及音视频过渡效果；【效果控件面板】用于时间线上素材效果的精确编辑。
 
-![](/assets/2-4-2.jpg)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**图2-4-2 Premiere程序界面**
+<div align="center"><img src="/assets/2-4-2.jpg"></div>
+===
+<div align="center"><span style="font-size:10px">图2-4-2 Premiere程序界面</span></div>
+===
 
 **2.素材的采集和导入**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;如图2-4-3所示，通过【文件】--【捕捉】命令，借助编辑平台上的视音频捕捉卡，可以采集来自各种介质的上的视音频素材；或者通过【文件】-【导入】命令，直接导入计算机硬盘中各种格式的视音频素材，包括AVI，MP4格式的视频文件，WAV，MP3格式的音频数据文件，动画FLC格式文件，PTL格式字幕文件，BMP，JPG，PNG，JIF格式的图像文件等。所有采集和导入都出现在工程项目窗口中。
 
-![](/assets/2-4-3.png)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**图2-4-3**
+<div align="center"><img src="/assets/2-4-3.png"></div>
+===
+<div align="center"><span style="font-size:10px">图2-4-3</span></div>
+===
 
 **3.素材的加载**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;时间线窗口有多个轨道放置视频和音频素材，是用于把素材汇编成影视作品的，用鼠标选取工程项目中的想要素材，然后拖到时间线的相应音视频轨上，即实现了素材的加载。如图2-4-4。
 
-![](/assets/2-4-4.jpg)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**图2-4-4**
+<div align="center"><img src="/assets/2-4-4.jpg"></div>
+===
+<div align="center"><span style="font-size:10px">图2-4-4</span></div>
+===
 
 **4.素材的剪辑**
 
@@ -66,17 +70,19 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在Premiere中，所有音视频效果及过渡效果都在【效果面板】中，加入效果的方法就是直接将【效果面板】中所用的效果拖入所要编辑的素材中或两段素材间。如图2-4-5。
 
-![](/assets/2-4-5.jpg)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**图2-4-5 ** 
+<div align="center"><img src="/assets/2-4-5.jpg"></div>
+===
+<div align="center"><span style="font-size:10px">图2-4-5</span></div>
+===
 
 **6.字幕的制作**  
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;如图2-4-6所示，通过【文件】→【新建】→【字幕】命令，可以制作标题字幕，新闻，唱词，片头字幕，片尾字幕等，并生成PTL字幕文件，同时会出现在工程项目库中，然后将字幕文件拖到时间线上，叠加到相应的视频素材上。
 
-![](/assets/2-4-6.jpg)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**图2-4-6**
+<div align="center"><img src="/assets/2-4-6.jpg"></div>
+===
+<div align="center"><span style="font-size:10px">图2-4-6</span></div>
+===
 
 **7.作品的预览**
 
@@ -86,9 +92,10 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;当在时间线窗口中完成了素材的剪辑，并对预览结果感到满意后，便可以输出可单独播放的影视文件。如图2-4-7所示，通过【文件】→【导出】→【媒体】命令，Premiere可以输出很多类型的文件，包括AVI文件，MOV文件，MP4文件，也可以是位图序列，动画文件FLC，还可以通过录像机录制在磁带上，使其作品可以在各种平台以及网络中很好的传播。
 
-![](/assets/2-4-7.jpg)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**图2-4-7 Premiere输出媒体面板**
+<div align="center"><img src="/assets/2-4-7.jpg"></div>
+===
+<div align="center"><span style="font-size:10px">图2-4-7 Premiere输出媒体面板</span></div>
+===
 
 ##2.4.3视频素材的制作要求
 
