@@ -59,14 +59,15 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;我们可以从不同角度对课件进行评价。从评价实施的时期和目的来分有诊断性评价、形成性评价和总结性评价；从评价的对照标准来分有比较性评价、常模参照性评价和目标参照性评价；从课件评价的主体不同分为专家评价和学生试用评价等。我们在以上评价和制订评价标准过程中，必须遵守一些必要原则。
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(1)科学性与导向性原则
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**1.科学性与导向性原则**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;科学性要求评价体系能完整地反映教育价值的本质属性。科学性与导向性是指所建立的标准必须能反映教学的目标和客观规律，课件能抓住影响和制约教学的关键性因素。
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(2)完备性与独立性原则
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2.完备性与独立性原则**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;完备性与独立性是指评价标准中的指标要全面反映教学目标和教学管理目标。 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(3)可操作性与可测性原则 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**3.可操作性与可测性原则 **
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;评价的指标必须是一些具体化的目标，既可以通过实际的观察、测量、评定等方式进行度量，又便于在实际的评价过程中进行操作。
 
