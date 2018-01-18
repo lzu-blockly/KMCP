@@ -1,5 +1,9 @@
 #3.4 Powerpoint课件的美化
 
+#教学微视频
+
+<iframe frameborder="0" width="640" height="498" src="https://v.qq.com/iframe/player.html?vid=x05342unqhs&tiny=0&auto=0" allowfullscreen></iframe>
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;这一节内容主要讲的是PPT课件的美化：
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PPT的美化：既能体现课件的美观性也能更加凸显PPT的实用性，为达到美化的效果，我们需要对课件的背景、色彩、版式、主题和外观等进行美化。
@@ -13,11 +17,10 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;开始 【新建幻灯片】添加标题和副标题。
 
-![](/assets/3-4-2.png)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**图3-4-2 标题**
-
-<iframe frameborder="0" width="640" height="498" src="https://v.qq.com/iframe/player.html?vid=x05342unqhs&tiny=0&auto=0" allowfullscreen></iframe>
+<div align="center"><img src="/assets/3-4-2.png"></div>
+===
+<div align="center"><span style="font-size:10px">图3-4-2 标题</span></div>
+===
 
 ##3.4.1课件的色彩搭配
 
@@ -29,23 +32,26 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;常用的色环有24个色调，为了使读者阅读方便，这里选用的是12色调的色环，如图3-4-3所示。24个色调是基于三原色，即红、黄、蓝，这三个分别组合，则是新的颜色，即橙、绿、紫。看这个色环，不难找出其中色彩组合的规律。那么，在课件的色彩搭配中应该怎么运用这个色环呢？
 
-![](/assets/3-4-3.jpg)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**图3-4-3 色环**
+<div align="center"><img src="/assets/3-4-3.png"></div>
+===
+<div align="center"><span style="font-size:10px">图3-4-3 色环</span></div>
+===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在课件制作中，比较忌讳使用两个相近的颜色，也就是色环上相近的颜色。色环上相对的颜色称为互补色。一对互补色相结合，效果对比非常强烈，容易对人的视觉产生刺激。不过最大的好处仍然是较强的对比，会使文本显示的非常清晰，观众读起来不会产生疲惫感。红配绿是超级经典的互补色，尽量不要大面积的使用。就像我们通常穿衣服一样，红上衣配绿裤子，估计都是笑掉大牙的搭配了，但是如果为了突出重点，还是可以使用的，就像舞台剧一样，这样的搭配也是很常见。
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;如图3-4-4所示，如果红色形状背景搭配红紫色，则文字显示的很模糊，使人看着非常难受。如果红色形状背景搭配对角线中的绿色，则文本显示的非常清晰，对比非常强烈。在课件中，字体尽量不要选用和底色互补的颜色，这样过于扎眼，仅限于局部使用。所以，色环上相邻和对角这两种都是不推荐的色彩搭配。
 
-![](/assets/3-4-4.png)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**图3-4-4 不推荐的颜色搭配**
+<div align="center"><img src="/assets/3-4-4.png"></div>
+===
+<div align="center"><span style="font-size:10px">图3-4-4 不推荐的颜色搭配</span></div>
+===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;色环中相距135°的两个颜色为对比色关系，属于中强对比效果的色组。这种对比效果也很明显，可以清楚的看到文本，但不会觉得很扎眼，非常适合文字与背景的色彩对比。如图3-4-5所示，红色的形状背景搭配135°对角线的蓝色和黄色，看起来还是比较“和谐”。
 
-![](/assets/3-4-5.png)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**图3-4-5 推荐的颜色搭配**
+<div align="center"><img src="/assets/3-4-5.png"></div>
+===
+<div align="center"><span style="font-size:10px">图3-4-5 推荐的颜色搭配</span></div>
+===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在众多课件制作的书籍中，李治在色彩搭配这一块，可谓是“泰斗”。她推荐了几个常用的颜色搭配：
 
@@ -59,20 +65,23 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;点击【右键】选择【设置背景格式】再根据需要选择填充模式，现在我们举例讲解的是【图片或纹理填充】在插入图片文字下点击【文件】选择准备好的图片点击【插入】
 
-![](/assets/3-4-6.png)
+<div align="center"><img src="/assets/3-4-6.png"></div>
+===
+<div align="center"><span style="font-size:10px">图3-4-6 选择背景图片</span></div>
+===
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**图3-4-6 选择背景图片**
-
-![](/assets/3-4-7.jpg)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**图3-4-7 背景1 **
+<div align="center"><img src="/assets/3-4-7.jpg"></div>
+===
+<div align="center"><span style="font-size:10px">图3-4-7 背景1</span></div>
+===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;加入背景之后，发现视觉效果杂乱，字迹不清晰,提出PPT课件背景图片尽可能的简单大方，再换另一组背景。
 
-![](/assets/3-4-8.jpg)
+<div align="center"><img src="/assets/3-4-8.jpg"></div>
+===
+<div align="center"><span style="font-size:10px">图3-4-8 背景21</span></div>
+===
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**图3-4-8 背景2**
- 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;相对于第一次的背景图片，第二次的背景图片更显得“字字”分明，主题突出，简单明亮也美观。
 
 ##3.4.2课件内容、字体和字号的调整
@@ -81,17 +90,19 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;一样点击【右键】选择【新建幻灯片】根据教学内容点击工具栏【插入】插入需要的文本框、图片以及文字内容。
 
-![](/assets/3-4-9.png)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**图3-4-9 输入内容**
+<div align="center"><img src="/assets/3-4-9.png"></div>
+===
+<div align="center"><span style="font-size:10px">图3-4-9 输入内容21</span></div>
+===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;学会了更改背景之后，我们需要灵活的调整课件内容、字体和字号使得PPT更加美观，图文和谐，使学习者清楚明了，准确获取信息。
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;点击工具栏【开始】选择要调整的文字更改适合的字体和字号。插入图片为了方便可以全选点击【右键】选择【组合】。
 
-![](/assets/3-4-10.png)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**图3-4-10 内容调整**
+<div align="center"><img src="/assets/3-4-10.png"></div>
+===
+<div align="center"><span style="font-size:10px">图3-4-10 内容调整21</span></div>
+===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;字体大小可以根据强调的重要性更改颜色和大小，吸引学习者的眼球。挑选字体尽量统一，足够清晰，不受投影仪设备的影响。
 
@@ -101,23 +112,27 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;选择标题幻灯片为例：【左键】点击选择标题幻灯片，点击【右键】选择【版式】。
 
-![](/assets/3-4-11.png)
+<div align="center"><img src="/assets/3-4-11.png"></div>
+===
+<div align="center"><span style="font-size:10px">图3-4-11 幻灯片版式</span></div>
+===
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**图3-4-11 幻灯片版式**
+<div align="center"><img src="/assets/3-4-12.jpg"></div>
+===
+<div align="center"><span style="font-size:10px">图3-4-12 更改版式1</span></div>
+===
 
-![](/assets/3-4-12.jpg)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**图3-4-12 更改版式1**
-
-![](/assets/3-4-13.jpg)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**图3-4-13 更改版式2**
+<div align="center"><img src="/assets/3-4-13.jpg"></div>
+===
+<div align="center"><span style="font-size:10px">图3-4-13 更改版式2</span></div>
+===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;课件的版式很多，我们可以根据自己的需要更改利用，接下来用版式2做一个例子。
 
-![](/assets/3-4-14.jpg)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**图3-4-14 版式实例**
+<div align="center"><img src="/assets/3-4-14.jpg"></div>
+===
+<div align="center"><span style="font-size:10px">图3-4-14 版式实例</span></div>
+===
 
 ##3.4.4课件的主题设置
 
@@ -133,23 +148,26 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.设计主题的颜色和字体，单击【颜色】，按照图3-4-15所示的步骤进行操作。这里需要强调的一点是，这里的颜色不是Powerpoint里边字体的颜色，而是整体风格，也就是主题的颜色。颜色和字体都可以根据需要或者个人喜好进行选择。
 
-![](/assets/3-4-15.png)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**图3-4-15 主题颜色和字体的设置**
+<div align="center"><img src="/assets/3-4-15.png"></div>
+===
+<div align="center"><span style="font-size:10px">图3-4-15 主题颜色和字体的设置</span></div>
+===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.单击“单击此处添加标题”，输入“神秘的天体——地球的公转”。单击“单击此处添加副标题”，输入“制作者：雏菊组”。这样，如图3-4-16所示，一个简单的标题页就完成了。接下来按照这种方式，完成所有幻灯片的制作。
 
-![](/assets/3-4-16.png)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**图3-4-16 添加标题与副标题**
+<div align="center"><img src="/assets/3-4-16.png"></div>
+===
+<div align="center"><span style="font-size:10px">图3-4-16 添加标题与副标题</span></div>
+===
 
 ##3.4.5课件的模板设置
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;通常在网上可以搜到很多Powerpoint的模板，也有Powerpoint自带的。网上下载的模板用起来很方便，可以节省很多的时间。但是需要注意一点，一定要把原制作者的信息删除掉，这些信息一般以水印或者脚本的方式出现在Powerpoint中，如图3-4-17所示，虽然原作者的信息（雁滩小学 2014.2.26）非常小，但是放在那里很“难看”，会让学习者觉得不受重视，影响了整个讲演的效果。
 
-![](/assets/3-4-17.png)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**图3-4-17 删除原作者信息**
+<div align="center"><img src="/assets/3-4-17.png"></div>
+===
+<div align="center"><span style="font-size:10px">图3-4-17 删除原作者信息</span></div>
+===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;一个完整的Powerpoint模板从功能上分为首页、概述页、过渡页、内容页和结束页。它们扮演着不同的角色，都是为了Powerpoint的整体服务的。具体来讲，无论它们是什么功能，字体、字号、底色等基本的设计风格应该一致；但从功能上考虑，还是要有所区别。
 
@@ -175,8 +193,9 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;以上六点可以说是课件首页比较重要的几个部分，当然也可以加上主讲人或者团队的联系方式，这样就会更“亲民”一些。当然，六要素中标题和制作者是最主要的。如图3-4-18所示，首页只有标题，不仅没有单位LOGO、没有时间、没有图片，甚至连制作者都没有。就像一顿饭，虽然不要求色香味俱全，但是没有盐还是吃不下去，道理是一样的。
 
-![](/assets/3-4-18.png)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**图3-4-18 不合格的首页**
+<div align="center"><img src="/assets/3-4-18.png"></div>
+===
+<div align="center"><span style="font-size:10px">图3-4-18 不合格的首页</span></div>
+===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;对于初学者来说，首页的制作不一定要面面俱到，但是一定要“看的下去”。如图3-4-19所示，不一定很美观，但是很实用。
