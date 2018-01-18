@@ -22,24 +22,29 @@
 ###(1)空帧
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;如图4-5-1，空帧在时间轴上就是一个个方格，表示图层中动画的结束。
-![](/assets/4-5-1.png)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**图4-5-1 空帧**
+<div align="center"><img src="/assets/4-5-1.png"></div>
+===
+<div align="center"><span style="font-size:10px">图4-5-1 空帧</span></div>
+===
 
 ###(2)关键帧
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;关键帧是制作课件时非常重要的帧，是用来定义动画变化、状态更改的帧。Flash会根据用户正确定义的关键帧，自动完成两个关键帧之间的一些指定的过渡效果。所以只有正确定义了关键帧，才能实现动画制作中的一些由电脑自动完成的过程。如图4-5-2都是关键帧。
-![](/assets/4-5-2.png)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**图4-5-2 关键帧**
+<div align="center"><img src="/assets/4-5-2.png"></div>
+===
+<div align="center"><span style="font-size:10px">图4-5-2 关键帧</span></div>
+===
 
 ###(3)普通帧
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;普通帧也称为静态帧，用于延长前面一帧的状态，在关键帧后面的普通帧为灰色，在空白关键帧后的普通帧为白色，如图4-5-3。
 
-![](/assets/4-5-3.png)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**图4-5-3 普通帧**
+<div align="center"><img src="/assets/4-5-3.png"></div>
+===
+<div align="center"><span style="font-size:10px">图4-5-3 普通帧</span></div>
+===
 
 ###(4)帧的速度
 
@@ -57,13 +62,15 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(2)【添加背景图片】  新建图层，双击图层名称，将其图层名称修改为【背景图片】，执行【文件】|【导入到库】，将图片放置在舞台合适位置，如图4-4-4和4-4-5。将该图层的帧延续到第100帧（F5）。
 
-![](/assets/4-5-4.png)
+<div align="center"><img src="/assets/4-5-4.png"></div>
+===
+<div align="center"><span style="font-size:10px">图4-5-4 新建图层</span></div>
+===
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**图4-5-4 新建图层**
-
-![](/assets/4-5-44.png)   
-         
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**图4-5-5 修改名称**
+<div align="center"><img src="/assets/4-5-44.png"></div>
+===
+<div align="center"><span style="font-size:10px">图4-5-5 修改名称</span></div>
+===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(3)【新建图层【学前英语】】 新建图层，双击图层名称，将其图层名称修改为【学前英语】。
 
@@ -71,66 +78,78 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(4)【输入标题】  打开半成品课件“How is the weather”。按图4.4-2-3所示操作，在【学前英语】图层的第25帧添加关键帧（F6）输入文字【学前英语】，并设置字体格式，如图4-5-6和4-5-7。
 
-![](/assets/4-5-5.png)
+<div align="center"><img src="/assets/4-5-5.png"></div>
+===
+<div align="center"><span style="font-size:10px">图4-5-6  输入文字</span></div>
+===
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**图4-5-6  输入文字**
-
-![](/assets/4-5-6.png)   
-         
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**图4-5-7 颜色面板**
+<div align="center"><img src="/assets/4-5-6.png"></div>
+===
+<div align="center"><span style="font-size:10px">图4-5-7 颜色面板</span></div>
+===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(5)【输入How is the weather】  新建图层，改名为【How is the weather】，在该图层中我们将实现动态文字的效果，即内容How is the weather按单词顺序依次出现。
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(6)【延续帧】  将所有图层的帧利用F5设置帧延续的第100帧，在图层【How is the weather】的第35帧设置关键帧，如图4-5-8。
 
-![](/assets/4-5-7.png)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**图4-5-8 延续帧**
+<div align="center"><img src="/assets/4-5-7.png"></div>
+===
+<div align="center"><span style="font-size:10px">图4-5-8 延续帧</span></div>
+===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(7)【制作动态文字效果】
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;①【添加文本框】  按图 所示操作，在“How is the weather ”图层的第35帧上绘制一个文本框，如图4-5-9所示。
 
-![](/assets/4-5-8.png)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**图4-5-9 添加文本框**
+<div align="center"><img src="/assets/4-5-8.png"></div>
+===
+<div align="center"><span style="font-size:10px">图4-5-9 添加文本框</span></div>
+===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;② 【输入第一个单词】  按图4-5-10,4-5-11,4-5-12所示操作，在文本框内输入第一个单词“How”,修改字体属性，在对齐面板中选择水平中齐。
 
-![](/assets/4-5-9.png)
+<div align="center"><img src="/assets/4-5-9.png"></div>
+===
+<div align="center"><span style="font-size:10px">图4-5-10 修改文字属性</span></div>
+===
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**图4-5-10 修改文字属性**
+<div align="center"><img src="/assets/4-5-10.png"></div>
+===
+<div align="center"><span style="font-size:10px">图4-5-11 水平中齐</span></div>
+===
 
-![](/assets/4-5-10.png) 
-            
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**图4-5-11 水平中齐**
-
-![](/assets/4-5-11.png)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**图4-5-12 输入【How】**
+<div align="center"><img src="/assets/4-5-11.png"></div>
+===
+<div align="center"><span style="font-size:10px">图4-5-12 输入【How】</span></div>
+===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;③【输入第二个字】  在“How is the weather”图层的第40帧添加一个关键帧，并在文本框中输入第二个单词“is”，在对齐面板中选择水平中齐，如图4-5-13。
-![](/assets/4-5-12.png)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**图4-5-13 输入【is】**
+<div align="center"><img src="/assets/4-5-12.png"></div>
+===
+<div align="center"><span style="font-size:10px">图4-5-13 输入【is】</span></div>
+===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;④【输入其他单词】  重复步骤6，每添加一个关键帧，在文本框内添加一个单词，用对齐面板将其放在适当位置，最终时间轴和舞台效果如图4-5-14和4-5-15。
 
-![](/assets/4-5-13.png)
+<div align="center"><img src="/assets/4-5-13.png"></div>
+===
+<div align="center"><span style="font-size:10px">图4-5-14 舞台效果</span></div>
+===
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**图4-5-14 舞台效果**
-
-![](/assets/4-5-14.png)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**图4-5-15 时间轴**
+<div align="center"><img src="/assets/4-5-14.png"></div>
+===
+<div align="center"><span style="font-size:10px">图4-5-15 时间轴</span></div>
+===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⑤【多帧调整】单击【时间轴】面板下方的【绘图纸外观】按钮![](/assets/4-5-15.png)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;将写有单词的几帧内容放置在合适位置，如图4-5-16。
 
-![](/assets/4-5-16.png)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**图4-5-16 绘图纸外观下的舞台**
+<div align="center"><img src="/assets/4-5-16.png"></div>
+===
+<div align="center"><span style="font-size:10px">图4-5-16 绘图纸外观下的舞台</span></div>
+===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⑥【取消多帧查看】单击【绘图纸外观】按钮![](/assets/4-5-45.jpg)取消其多帧查看效果。
 
@@ -142,9 +161,10 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(2)【新建元件】执行【插入】|【新建元件】命令，在弹出的对话框中填写元件名称【cloudy】，类型【影片剪辑】元件,如图4-5-17。
 
-![](/assets/4-5-17.png)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**图4-5-17 新建元件**
+<div align="center"><img src="/assets/4-5-17.png"></div>
+===
+<div align="center"><span style="font-size:10px">图4-5-17 新建元件</span></div>
+===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(3)【修改图层名称】在库中打开【cloudy】元件，将元件中图层一改名为【cloudy】。
 
@@ -152,61 +172,74 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;①【画椭圆】在【cloudy】图层的第一帧设置关键帧，在舞台上用椭圆工具绘制一个没有填充颜色的椭圆，如图4-5-18和4-5-19。
 
-![](/assets/4-5-18.png)
+<div align="center"><img src="/assets/4-5-18.png"></div>
+===
+<div align="center"><span style="font-size:10px">图4-5-18  椭圆工具</span></div>
+===
 
-**图4-5-18  椭圆工具**
-
-![](/assets/4-5-19.png)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**图4-5-19 画椭圆**
+<div align="center"><img src="/assets/4-5-19.png"></div>
+===
+<div align="center"><span style="font-size:10px">图4-5-19 画椭圆</span></div>
+===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;②【椭圆组合】  在第二帧设置关键帧，复制之前绘制的椭圆，将两个椭圆接在一起，重复几次，如图4-5-20。
 
-![](/assets/4-5-20.png)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**图4-5-20 椭圆组合**
+<div align="center"><img src="/assets/4-5-20.png"></div>
+===
+<div align="center"><span style="font-size:10px">图4-5-19 画椭圆</span></div>
+===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;③【删线】  删除内部多余的线条，如图4-5-21。
-![](/assets/4-5-21.png)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**图4-5-21 云**
+<div align="center"><img src="/assets/4-5-21.png"></div>
+===
+<div align="center"><span style="font-size:10px">图4-5-21 云</span></div>
+===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（4）【绘制表情】  添加关键帧，用【线条工具】绘制表情，每帧绘制不同的部位，最终绘制的图以及时间轴如图4-5-22,4-5-23和4-5-24所示。
-![](/assets/4-5-22.png)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**图4-5-22 线条工具属性**
+<div align="center"><img src="/assets/4-5-22.png"></div>
+===
+<div align="center"><span style="font-size:10px">图4-5-22 线条工具属性</span></div>
+===
 
-![](/assets/4-5-23.png)
+<div align="center"><img src="/assets/4-5-23.png"></div>
+===
+<div align="center"><span style="font-size:10px">图4-5-23 舞台效果</span></div>
+===
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**图4-5-23 舞台效果**
-
-![](/assets/4-5-24.png)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**图4-5-24  时间轴**
+<div align="center"><img src="/assets/4-5-24.png"></div>
+===
+<div align="center"><span style="font-size:10px">图4-5-24  时间轴</span></div>
+===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（5）【被遮住的太阳】  在【cloudy】元件中新建图层【被遮住的太阳】,将新图层放在【cloudy】图层下方，单击【cloudy】图层在【时间轴】面板小黄锁下方的黑点，对此图层进行加锁，如图4-5-25所示。
 
-![](/assets/4-5-25.png)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**图4-5-25 锁定**
+<div align="center"><img src="/assets/4-5-25.png"></div>
+===
+<div align="center"><span style="font-size:10px">图4-5-25 锁定</span></div>
+===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**提示：在进行多帧编辑时，编辑的是场景中全部对象，为了避免错误操作，所以要将一些不需要编辑的图层进行锁定。**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（6）【画太阳】  在【被遮住的太阳】的图层第15帧设置关键帧，在舞台上利用椭圆工具，按住ctrl+shift画太阳，利用线条工具画太阳光芒，如图4-5-26。
 
-![](/assets/4-5-26.png)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**图4-5-26 半成品**
+<div align="center"><img src="/assets/4-5-26.png"></div>
+===
+<div align="center"><span style="font-size:10px">图4-5-26 半成品</span></div>
+===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（7）【添加颜色】  添加颜色 根据实际情况利用颜色面板和渐变变形工具为云与太阳逐帧添加颜色，如图4-5-27和4-5-28。
 
-![](/assets/4-5-27.png)
+<div align="center"><img src="/assets/4-5-27.png"></div>
+===
+<div align="center"><span style="font-size:10px">图4-5-27颜色面板</span></div>
+===
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**图4-5-27颜色面板**
-
-![](/assets/4-5-28.png)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**图4-5-28 cloudy成品**
+<div align="center"><img src="/assets/4-5-28.png"></div>
+===
+<div align="center"><span style="font-size:10px">图4-5-28 cloudy成品</span></div>
+===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**3)制作“音乐”图层**
 
@@ -216,9 +249,10 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(2)【添加声音】执行【文件】|【导入到库】命令导入所要添加的音乐，单击“音乐”图层的第一帧，按图4-5-29所示操作，给图层添加声音效果。
 
-![](/assets/4-5-29.png)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**图4-5-29 导入音乐**
+<div align="center"><img src="/assets/4-5-29.png"></div>
+===
+<div align="center"><span style="font-size:10px">图4-5-29 导入音乐</span></div>
+===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(3)【插入帧与删除多余的帧】现在可以按“Ctrl+Enter”测试一下动画效果，如果音乐与动画没有合拍，通过插入帧与删除多余帧来进行调整。
 提示：插入帧的其它两种方法是：
@@ -238,9 +272,10 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;如图4-5-30所示，这是使用【绘画纸】功能后的场景，可以看出，当前帧中内容用全彩色显示，其它帧内容以半透明显示，它使我们看起来好像所有帧内容是画在一张半透明的绘图纸上，这些内容相互层叠在一起。当然，这时你只能编辑当前帧的内容。
 
-![](/assets/4-5-30.png)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**图4-5-30 同时显示多帧内容的变化**
+<div align="center"><img src="/assets/4-5-30.png"></div>
+===
+<div align="center"><span style="font-size:10px">图4-5-30 同时显示多帧内容的变化</span></div>
+===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;【绘画纸】各个按钮的功能：
 
@@ -266,9 +301,10 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;使用【对齐面板】，可以对编辑区中多个对像进行排列、分布、匹配大小、调整间隔等操作，使布局整齐美观，如图4-5-31所示。
 
-![](/assets/4-5-35.png)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**图4-5-31对齐面板**
+<div align="center"><img src="/assets/4-5-35.png"></div>
+===
+<div align="center"><span style="font-size:10px">图4-5-31对齐面板</span></div>
+===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;【对齐面板】由排列对齐、分布对齐、匹配大小、间隔以及相对舞台同几部分组成：
 
