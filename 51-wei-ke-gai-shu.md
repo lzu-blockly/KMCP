@@ -123,11 +123,11 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在设计和开发微课之前，学校首先需要购置和拥有一系列相关的硬件设备，在经费允许的情况下，可考虑建立一个“微课制作室”。除了必不可少的计算机和录像设备之外，还需要购置相关的专门设备，如用于录制屏幕板书的手写板、手写屏等设备。
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**（1）多媒体计算机设备**
+**（1）多媒体计算机设备**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;多媒体计算机设备是微课制作系统中最基础的设备，台式电脑、笔记本电脑、平板电脑，甚至手机都可以用来录制、制作微课。一台多媒体计算机设备性能的优劣，将直接影响到微课制作的效率。所以，一定要注意计算机终端的选购。在选购多媒体计算机设备时，需要综合考虑CPU、内存、硬盘和显卡的性能。例如：在制作微课时，通常要收集很多素材，这就需要较大的硬盘容量。在微课的后期加工处理时，需要用到专业的视频编辑软件，尽量选择大容量的内存和性能相对优越的显卡。
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**（2）图像采集设备**
+**（2）图像采集设备**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在微课制作过程中，大多数图片可以通过网络搜索、截图获取，但有些图像需要通过专门的设备。可以获取图像的设备主要有图像扫描设备、数码相机、手机等。
 
@@ -159,7 +159,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**图5-1-7**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**（1）Camtasia Studio**
+**（1）Camtasia Studio**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;如图5-1-8所示是Camtasia Studio的首页。Camtasia Studio是一套专业的屏幕录像软件，同时包含Camtasia录像器、Camtasia Studio(编辑器)、Camtasia菜单制作器、Camtasia剧场、Camtasia播放器和Screencast的内置功能。使用本套装软件，用户可以方便地进行屏幕操作的录制和配音、视频的剪辑和过场动画、添加说明字幕和水印、制作视频封面和菜单、视频压缩和播放。软件提供了从屏幕录像到视频编辑、转换，再到发布一系列全程解决方案。Camtasia Studio支持在任何显示模式下录制屏幕图像、鼠标操作并同步进行音频录制。在录制完成后可以使用Camtasia Studio内置的强大的视频编辑功能对视频进行剪辑、修改、解码转换、添加特殊效果等操作。
 
@@ -167,7 +167,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**图5-1-8**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**（2）录屏软件Screencast-O-Matic**
+**（2）录屏软件Screencast-O-Matic**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;如图5-1-9所示是Screencast-O-Matic的首页。Screencast-O-Matic是一款录制抓屏教程的在线应用程序，使用此软件提供的服务，无须下载安装任何附加软件，便可以很轻松地在线录制抓屏教程。同样，还可以选择是否录制声音，来自电脑还是麦克风等；录制成功以后，Screencast-O-Matic会以.mov格式输出，同样可以选择将视频教程上传至Screencast-O-Matic服务器或是保存到本地计算机。另外，值得注意的是，Screencast-O-Matic需要Java虚拟机的支持，如果你的浏览器不支持Java，系统在运行Screencast-O-Matic前会提示你是否下载安装Java虚拟机。
 
@@ -175,7 +175,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**图5-1-9**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**（3）录屏软件CyberLink YouCam**
+**（3）录屏软件CyberLink YouCam**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CyberLink YouCam的首页如图5-1-10所示。CyberLink YouCam是一款摄像头增加特效的软件，通过这个软件，可以让摄像头显示出很特殊的效果。支持趣味写真、网络视讯等功能。最新版本的YouCam5是一套强大的视讯互动应用软件，能满足视讯使用时所需的一切功能。
 
@@ -183,7 +183,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**图5-1-10**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**（4）屏幕录像专家**
+**（4）屏幕录像专家**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;屏幕录像专家界面如图5-1-11所示，它是专业的屏幕录像制作工具。使用它可以轻松地将屏幕上的软件操作过程、网络教学课件、网络电视、网络电影、聊天视频等录制成Flash、ASF、AVI或者自播放的EXE动画。本软件具有长时间录像并保证声音完全同步的能力。该软件使用简单，功能强大，是制作各种屏幕录像和软件教学动画的首选软件。可以将定时屏幕录像专家安装在任何一台电脑上，但它记录生成的文件都经过了加密，直接双击其是不能读取的，需要用一些专用的读取软件来读取，例如网络人、飞天读取器等。
 
@@ -191,7 +191,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**图5-1-11**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**（5）白板工具SmoothDraw**
+**（5）白板工具SmoothDraw**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SmoothDraw是一款具有和Painter类似绘画质量的自然绘画软件，具备众多可调画笔，纸张材质模拟，透明处理及多图层能力，支持压感绘图笔，以及图像调整和特效等，简单易用，即刻上手，仅2MB的体积。支持的画笔除了钢笔、铅笔、粉笔、蜡笔、喷枪、毛刷、图片喷管等之外，还有照片调整的明暗笔、模糊笔、锐化笔，以及Painter玩家上色平滑必备的水模糊笔。图像调整上包含了所有常用的功能亮度、对比度、色调等，还有足够多的特效可以应用。支持各种绘图板(数位板、手写板、数字笔)。其首页如图5-1-12所示。
 
@@ -199,7 +199,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**图5-1-12**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**（6）几何画板**
+**（6）几何画板**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;几何画板是适用于数学、平面几何、物理的矢量分析、作图、函数作图的动态几何工具。其首页界面如图5-1-13所示。几何画板是一个通用的数学、物理教学环境，提供丰富而方便的创造功能，使用者可以随心所欲地编写出自己需要的教学课件。它能够动态地展现出几何对象的位置关系、运行变化规律，是数学与物理教师制作课件的“利剑”。软件提供充分的手段帮助用户实现其教学思想，只需要熟悉软件简单的使用技巧即可自行设计和编写应用范例，范例所体现的并不是编者的计算机软件技术水平，而是教学思想和教学水平。
 
@@ -207,7 +207,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**图5-1-13**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**（7）微课大师**
+**（7）微课大师**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;微课大师是一款小巧易用的微课制作软件。该软件可以帮助用户来保存原有视频课件的功能，显示老师头像和播放同步讲课声音，同时支持导入各种丰富的资料，配合知识点深入学习，完美支持自合成FLV高清视频流格式的微课制作软件，便于快捷录制微课，或参与教学竞赛。其首页如图5-1-14所示。
 
