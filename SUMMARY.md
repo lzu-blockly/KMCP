@@ -15,7 +15,6 @@
   * [2.4 视频素材的获取与处理](di-2-zhang-you-er-yuan-duo-mei-ti-ke-jian-su-cai-de-huo-qu-yu-chu-li/24-shi-pin-su-cai-de-huo-qu-yu-chu-li.md)
   * 本章习题
 * [第3章  Powerpoint课件的制作](di-3-zhang-powerpoint-ke-jian-de-zhi-zuo.md)
-  * [学习目标与知识图谱](xue-xi-mu-biao-yu-zhi-shi-tu-pu.md)
   * [3.1 Powerpoint简介](31-powerpointjian-jie.md)
   * [3.2 在Powerpoint课件中添加文字、图像和图形](32-zai-powerpoint-ke-jian-zhong-tian-jia-wen-zi-3001-tu-xiang-he-tu-xing.md)
   * [3.3 在Powerpoint课件中添加影音和图表](33-zai-powerpoint-ke-jian-zhong-tian-jia-ying-yin-he-tu-biao.md)
