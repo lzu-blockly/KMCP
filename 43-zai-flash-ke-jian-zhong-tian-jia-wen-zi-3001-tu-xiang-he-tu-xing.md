@@ -7,12 +7,10 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;文字是Flash课件中的重要对象，Flash CS4在文字处理方面具有强大的功能。用文本工具可以直接输入文字，并且可以改变文字的字体、大小、颜色等属性，还能设置滤镜效果。
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**1.文本工具的使用：**选择【文本工具】T——鼠标移至舞台后按住鼠标左键并拖动就会插入文本框——光标闪烁，即可输入文本。如图4-3-1所示。
+
 <div align="center"><img src="/assets/4-3-1.png"></div>
-===
 <div align="center"><img src="/assets/4-4-2.png"></div>
-===
 <div align="center"><img src="/assets/4-4-3.png"></div>
-===
 <div align="center"><span style="font-size:10px">图4-3-1   文本工具的使用</span></div>
 ===
 
