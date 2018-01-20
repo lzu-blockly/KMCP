@@ -1,7 +1,5 @@
 #4.5 利用逐帧动画制作课件
 
-##教学微视频
-
 <div align="center"><iframe frameborder="0" width="640" height="498" src="https://v.qq.com/iframe/player.html?vid=f0534g8ewn7&tiny=0&auto=0" allowfullscreen></iframe></div>
 <div align="center"><span style="font-size:24px">教学微视频</span></div>
 ===
