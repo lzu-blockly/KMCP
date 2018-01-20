@@ -1,7 +1,5 @@
 #3.5 PowerPoint课件的动画设置
 
-##教学微视频
-
 <div align="center"><iframe frameborder="0" width="640" height="498" src="https://v.qq.com/iframe/player.html?vid=t0534kbv2s1&tiny=0&auto=0" allowfullscreen></iframe></div>
 <div align="center"><span style="font-size:24px">教学微视频</span></div>
 ===

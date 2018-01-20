@@ -1,7 +1,5 @@
 #3.6 使用课件中对象产生交互
 
-##教学微视频
-
 <div align="center"><iframe frameborder="0" width="640" height="498" src="https://v.qq.com/iframe/player.html?vid=l0534cxhfq8&tiny=0&auto=0" allowfullscreen></iframe></div>
 <div align="center"><span style="font-size:24px">教学微视频</span></div>
 ===
