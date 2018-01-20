@@ -1,8 +1,9 @@
 #1.3幼儿园多媒体课件的制作工具、规范和评价
 
-##教学微视频
-
-<iframe frameborder="0" width="640" height="498" src="https://v.qq.com/iframe/player.html?vid=g0534lomfzo&tiny=0&auto=0" allowfullscreen></iframe>
+<div align="center"><iframe frameborder="0" width="640" height="498" src="https://v.qq.com/iframe/player.html?vid=g0534lomfzo&tiny=0&auto=0" allowfullscreen></iframe>
+</div>
+<div align="center"><span style="font-size:24px">教学微视频</span></div>
+===
 
 ##1.3.1幼儿园多媒体课件的制作工具
 
