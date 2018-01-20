@@ -1,8 +1,8 @@
 #3.2 在Powerpoint课件中添加文字、图像和图形
 
-##教学微视频
-
-<iframe frameborder="0" width="640" height="498" src="https://v.qq.com/iframe/player.html?vid=e0534mwdso4&tiny=0&auto=0" allowfullscreen></iframe>
+<div align="center"><iframe frameborder="0" width="640" height="498" src="https://v.qq.com/iframe/player.html?vid=e0534mwdso4&tiny=0&auto=0" allowfullscreen></iframe></div>
+<div align="center"><span style="font-size:24px">教学微视频</span></div>
+===
 
 ##3.2.1  在课件中添加文字
 
