@@ -17,7 +17,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（1）在PowerPoint中打开想要打包的课件，依次选择“文件”菜单中的“保存并发送”—“将演示文稿打包成CD”—“打包成CD”，如图3-9-2所示。
 
-<div align="center"><img src="/assets/3-9-1.png"></div>
+<div align="center"><img src="/assets/3-9-2.png"></div>
 ===
 <div align="center"><span style="font-size:10px">图3-9-2 课件打包步骤一</span></div>
 ===
