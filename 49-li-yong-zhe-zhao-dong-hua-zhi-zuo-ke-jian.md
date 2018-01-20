@@ -2,7 +2,9 @@
 
 ##教学微视频
 
-<iframe frameborder="0" width="640" height="498" src="https://v.qq.com/iframe/player.html?vid=j0534gnuxmw&tiny=0&auto=0" allowfullscreen></iframe>
+<div align="center"><iframe frameborder="0" width="640" height="498" src="https://v.qq.com/iframe/player.html?vid=j0534gnuxmw&tiny=0&auto=0" allowfullscreen></iframe></div>
+<div align="center"><span style="font-size:24px">教学微视频</span></div>
+===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;上大班的孩子好奇心比较强，因此在教学过程中适当的增加一些遮罩动画的实例，能有助于提高孩子的注意力，帮助教师进行教学。遮罩动画是利用特殊的图层——遮罩层来创建的动画。使用遮罩层后，遮罩层下面图片的内容就像透过一个窗口显示出来一样，这个窗口的形状和大小就是遮罩层中的内容的形状和大小。在课件中制作中能将动画演示限制在一个形状或区域内，可以实现某些特殊的效果。
 
