@@ -39,10 +39,9 @@
 ###实例：《保护鼻子》
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;本例对应大班（上）《健康》第六节保护鼻子。课件运行界面如图4-9-1所示，该课件向大家演示保护鼻子的方法。
+
 <div align="center"><img src="/assets/4-8-1.png"></div>
-===
 <div align="center"><img src="/assets/4-8-2.png"></div>
-===
 <div align="center"><span style="font-size:10px">图4-9-1  “保护鼻子”遮罩效果图</span></div>
 ===
 
