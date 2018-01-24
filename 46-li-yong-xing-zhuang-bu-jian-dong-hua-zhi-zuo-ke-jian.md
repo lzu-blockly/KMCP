@@ -22,7 +22,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（3）在时间轴上第30帧处击右键选择【插入空白帧】，绘制一个正方形。如图4-6-2所示。
 
-
 <div align="center"><img src="/assets/4-6-1.png"></div>
 <div align="center"><span style="font-size:10px">图4-6-1 圆的绘制</span></div>
 ===
