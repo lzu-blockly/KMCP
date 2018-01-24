@@ -158,12 +158,32 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;②运用【选择工具】调整“细胞膜”图层第20 、35 帧上的形状。如图4-6-19、图4-6-20所示。
 
-图4-6-20 第20帧上的形状        图4-6-21 第35帧上的形状
-③编辑修改“运动”图层第1 、20 、35 、36 帧上的形状，如图4-6-22所示。
- 
-图4-6-22 “运动”图层第1 、20 、35 、36 帧上的形状
-④调整移动“物质”图层第20 、35 、36 、55 帧上“物质”元件的位置，如图4-6-23所示。
-          
-图4-6-23 “物质”图层第20 、35 、36 、55 帧上“物质”元件的位置
+<div align="center"><img src="/assets/4-6-19.png"></div>
+<div align="center"><span style="font-size:10px">图4-6-19 第20帧上的形状</span></div>
+===
+
+<div align="center"><img src="/assets/4-6-20.png"></div>
+<div align="center"><span style="font-size:10px">图4-6-20 第35帧上的形状</span></div>
+===
+       
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;③编辑修改“运动”图层第1 、20 、35 、36 帧上的形状，如图4-6-21所示。
+
+<div align="center"><img src="/assets/4-6-21.png"></div>
+<div align="center"><span style="font-size:10px">图4-6-21 “运动”图层第1 、20 、35 、36 帧上的形状</span></div>
+===
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;④调整移动“物质”图层第20 、35 、36 、55 帧上“物质”元件的位置，如图4-6-23所示。
+
+<div align="center"><img src="/assets/4-6-22.png"></div>
+
+<div align="center"><img src="/assets/4-6-23.png"></div>
+
+<div align="center"><img src="/assets/4-6-24.png"></div>
+
+<div align="center"><img src="/assets/4-6-25.png"></div>
+<div align="center"><span style="font-size:10px">图4-6-22 “物质”图层第20 、35 、36 、55 帧上“物质”元件的位置
+</span></div>
+===
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;注意：调整对象形状或位置时要相互兼顾，方能使动画形象逼真。另外，多使用锁定和隐藏图层进行调整，能方便制作。
 
