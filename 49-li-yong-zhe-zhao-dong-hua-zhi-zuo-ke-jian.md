@@ -127,31 +127,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**10.测试动画**   选择“控制”→“测试影片”命令（或按Ctrl+Enter键），预览效果，并保存课件。
 
-###知识库
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**1.“遮罩动画”的原理**
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;遮罩动画是Flash中的一个很重要的动画类型，很多效果丰富的动画都是通过遮罩动画来完成的。在Flash的图层中有一个遮罩图层类型，为了得特殊的显示效果，可以在遮罩层上光剑一个任意形状的“视窗”，遮罩层的下方的对象可以通过该“视窗”显示出来，而“视窗”之外的对象将不会显示。
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2.“遮罩动画”的用途**
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在Flash动画中，“遮罩”主要有两种用途：一种用途是用在整个场景或一个特定区域中，使场景外的对象或特定区域外的对象不可见；另一种用途是用来遮罩住某一元件的一部分，从而时间一些特殊的效果。
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**3.应用遮罩时的技巧**
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;①遮罩动画能够透过该图层中的对象看到“被遮罩层”中的对象及其属性，但是遮罩层中的对象中的许多属性如渐变色、透明度、颜色和线条样式等确实被忽略的。例如，不能通过遮罩层的渐变色来实现被遮罩层的渐变色变化。
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;②要在场景中显示遮罩效果，可以锁定遮罩层和被遮罩层。
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;③可以用Actions动作语句建立遮罩，但这种情况下只能有一个“被遮罩层”，同时，不能设置Alpha属性。
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;④不能用一个遮罩层试图遮蔽另一个遮罩层。
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⑤遮罩可以应用在GIF动画上。
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⑥在制作过程中，遮罩层经常挡住下层的元件，影响视线，无法编辑，可以按下遮罩层“时间轴”面板的“显示图层轮廓”按钮，是遮罩层值显示边框形状。
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⑦被遮罩层中不能放置动态文本。
 
 
 
