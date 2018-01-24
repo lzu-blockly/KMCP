@@ -31,7 +31,7 @@
   * [4.4 在Flash课件中添加音频和视频](44-zai-flash-ke-jian-zhong-tian-jia-yin-pin-he-shi-pin.md)
   * [4.5 利用逐帧动画制作课件](45-li-yong-zhu-zheng-dong-hua-zhi-zuo-ke-jian.md)
   * [4.6 利用形状补间动画制作课件](46-li-yong-xing-zhuang-bu-jian-dong-hua-zhi-zuo-ke-jian.md)
-  * 4.7 利用运动补间动画制作课件
+  * [4.7 利用运动补间动画制作课件](47-li-yong-yun-dong-bu-jian-dong-hua-zhi-zuo-ke-jian.md)
   * [4.8 利用引导线动画制作课件](48-li-yong-yin-dao-xian-dong-hua-zhi-zuo-ke-jian.md)
   * [4.9 利用遮罩动画制作课件](49-li-yong-zhe-zhao-dong-hua-zhi-zuo-ke-jian.md)
 * 第5章  微课型课件的制作
