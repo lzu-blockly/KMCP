@@ -33,21 +33,48 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（4）右击1-30帧的任意帧，在弹出的快捷菜单中选择【创建补间形状】命令，创建形状补间动画。如图4-6-3所示。
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（5）这样一个从圆形到正方形的形状补间动画就完成了，效果如图4-6-4所示。
-2．实例：内吞
-该例是中学生物“内吞”动画模拟演示课件，它通过形状补间动画演示了液体吞入细胞的过程。充分显现出F1ash课件在展示生物微观现象时的优势，学生通过观看形象的内吞动画演示过程，形成科学、规范的概念。
-（1）新建一个Flash文件，舞台大小设置为“550×400像素”，设置背景色为淡绿色，其他参数保持默认值。
-（2）新建一个名称为“物质”的图形元件，在此元件的编辑场景中，用绘图工具绘制一个填充色为黑色的圆形。
-（3）创建“图标”影片剪辑元件
-①新建一个名称为“图标”的影片剪辑元件，在这个元件的编辑场景中，将“图层1” 重命名为“圆形”运用绘图工具 (虚线边框没有填充)，如图4-6-5所示。
-②新建一个图层，重命名为“变形”在此图层中，调整方向如图4-6-6所示。
-      
-图4-6-5 绘制一个圆形                 图4-6-6 绘制矩形
-此时“图标”影片剪辑元件的图层结构和场景效果如图4-6-7所示。
- 
-图4-6-7 图层结构和场景效果
-（4）为“图标”影片剪辑元件添加动画帧
-①同时选中两个图层的第30帧，按【F5】键，在第30帧插入帧，此时的图层结构如图4-6-8所示。
-②锁定“圆形”图层，选中“变形”图层的第25帧，按F6键插入关键帧。接着选中“变形”图层的第10帧，按【F7】键插入空白关键帧，如图4-6-9所示。
+
+<div align="center"><img src="/assets/4-6-3.png"></div>
+<div align="center"><span style="font-size:10px">图4-6-3 创建补间动画</span></div>
+===
+
+<div align="center"><img src="/assets/4-6-4.png"></div>
+<div align="center"><span style="font-size:10px">图4-6-4 运行效果</span></div>
+===
+
+**2．实例：内吞**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;该例是中学生物“内吞”动画模拟演示课件，它通过形状补间动画演示了液体吞入细胞的过程。充分显现出F1ash课件在展示生物微观现象时的优势，学生通过观看形象的内吞动画演示过程，形成科学、规范的概念。
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（1）新建一个Flash文件，舞台大小设置为“550×400像素”，设置背景色为淡绿色，其他参数保持默认值。
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（2）新建一个名称为“物质”的图形元件，在此元件的编辑场景中，用绘图工具绘制一个填充色为黑色的圆形。
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（3）创建“图标”影片剪辑元件
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;①新建一个名称为“图标”的影片剪辑元件，在这个元件的编辑场景中，将“图层1” 重命名为“圆形”运用绘图工具 (虚线边框没有填充)，如图4-6-5所示。
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;②新建一个图层，重命名为“变形”在此图层中，调整方向如图4-6-6所示。
+
+<div align="center"><img src="/assets/4-6-5.png"></div>
+<div align="center"><span style="font-size:10px">图4-6-5 绘制一个圆形</span></div>
+===
+
+<div align="center"><img src="/assets/4-6-6.png"></div>
+<div align="center"><span style="font-size:10px">图4-6-6 绘制矩形</span></div>
+===
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;此时“图标”影片剪辑元件的图层结构和场景效果如图4-6-7所示。
+
+<div align="center"><img src="/assets/4-6-7.png"></div>
+<div align="center"><span style="font-size:10px">图4-6-7 图层结构和场景效果</span></div>
+===
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（4）为“图标”影片剪辑元件添加动画帧
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;①同时选中两个图层的第30帧，按【F5】键，在第30帧插入帧，此时的图层结构如图4-6-8所示。
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;②锁定“圆形”图层，选中“变形”图层的第25帧，按F6键插入关键帧。接着选中“变形”图层的第10帧，按【F7】键插入空白关键帧，如图4-6-9所示。
      
 图4-6-8 图层结构                图4-6-9 第10帧插入空白关键帧
 ③在“变形”图层的第10帧上绘制一个三角形。右击第15帧，在弹出的快捷菜单中选择【插入关键帧】命令插入关键帧，此时的图层结构如图4-6-11所示。
