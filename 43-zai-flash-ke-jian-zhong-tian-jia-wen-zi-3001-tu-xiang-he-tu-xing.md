@@ -8,15 +8,19 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;文字是Flash课件中的重要对象，Flash CS4在文字处理方面具有强大的功能。用文本工具可以直接输入文字，并且可以改变文字的字体、大小、颜色等属性，还能设置滤镜效果。
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**1.文本工具的使用：**选择【文本工具】T——鼠标移至舞台后按住鼠标左键并拖动就会插入文本框——光标闪烁，即可输入文本。如图4-3-1所示。
+**1.文本工具的使用**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;选择【文本工具】T——鼠标移至舞台后按住鼠标左键并拖动就会插入文本框——光标闪烁，即可输入文本。如图4-3-1所示。
 
 <div align="center"><img src="/assets/4-3-1.png"></div>
-<div align="center"><img src="/assets/4-4-2.png"></div>
-<div align="center"><img src="/assets/4-4-3.png"></div>
+<div align="center"><img src="/assets/4-3-2.png"></div>
+<div align="center"><img src="/assets/4-3-3.png"></div>
 <div align="center"><span style="font-size:10px">图4-3-1   文本工具的使用</span></div>
 ===
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2.文本工具属性设置：**可通过文本工具的属性面板来进行设置。如图4-3-2所示。
+**2.文本工具属性设置：**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;可通过文本工具的属性面板来进行设置。如图4-3-2所示。
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;【文本类型】下拉列表框：可以选择文本的类型，有静态文本、动态文本、输入文本3种。默认为静态文本类型。
 
@@ -38,25 +42,67 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**注意：文字格式设置的部分功能也可以通过【文本】菜单的相应命令执行。**
 
-<div align="center"><img src="/assets/4-3-4.png"></div>
-===
 <div align="center"><img src="/assets/4-3-5.png"></div>
-===
 <div align="center"><img src="/assets/4-3-6.png"></div>
-===
 <div align="center"><span style="font-size:10px">图4-3-2   文本工具属性图标</span></div>
 ===
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**3.设置文字滤镜效果：**单击【滤镜】选项——单击![](/assets/4-3-7.png)按钮——选择滤镜效果类型。如图4-3-3所示。
+**3.设置文字滤镜效果：**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;单击【滤镜】选项——单击![](/assets/4-3-7.png)按钮——选择滤镜效果类型。如图4-3-3所示。
 
 <div align="center"><img src="/assets/4-3-8.png"></div>
-===
 <div align="center"><img src="/assets/4-3-9.png"></div>
-===
 <div align="center"><span style="font-size:10px">图4-3-3   投影滤镜效果演示</span></div>
 ===
 
-##4.3.2 位图的应用
+##4.3.2 制作图形
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Flash的主要功能是制作动画，利用 Flash动画可以设计出丰富多彩的动态课件。但是Flash动画的基础是图形，没有图形也就不可能产生动画。因此，要想制作出更加生动逼真的F1ash动画课件，就必须先掌握一些简单图形的绘制方法。
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;【工具】面板是 Flash 课件制作中使用最频繁的一个面板，在学习和使用之前有必要认识它的全貌，以便更好地使用。【工具】面板位于舞台左侧，它由【工具】、【查看】、【颜色】和【选项】四部分组成。在 Flash中【工具】面板可以自由地安排为单列或双列显示，单击【工具】面板上方的三角按钮可以在两种状态之间变换。图 4-3-4所示的是【工具】面板显示为双列的状态。注意：可以自定义【工具】面板中的工具编排次序，选择【编辑】→【自定义工具面板】命令，打开【自定义工具栏】对话框，可以根据需要和个人喜好重新安排和组合工具的位置。
+
+<div align="center"><img src="/assets/4-3-16.png"></div>
+<div align="center"><span style="font-size:10px">4-3-4工具箱面板</span></div>
+===
+
+	选择工具 ：用于选取对象文本，按住【Shift】键，可同时选取多个对象。
+	部分选择工具 ：选取对象的锚点和路径。
+	任意变形工具 ：对对象进行任意旋转、变形和缩放等操作。
+	套索工具 ：选择舞台不规则的区域。
+	钢笔工具 ：绘制直线、曲线、并对曲线进行调整。
+	文本工具 ：输入和修改文本。
+	线条工具 ：绘制任意方向的线条。
+	矩形工具 ：默认为矩形工具，绘制任意大小的矩形。
+	铅笔工具 ：绘制任意形状的直线或曲线。
+	刷子工具 ：绘制任意形状的曲线，曲线形状主要由其轨迹决定。
+	颜料桶工具 ：用设置好的内容来改变矢量线的颜色。
+	滴管工具 ：吸取已有对象属性的色彩属性，并将其应用到当前对象。
+	橡皮擦工具 ：擦除舞台对象。
+	手形工具 ：移动编辑区。
+	缩放工具 ：放大或缩小编辑区。
+	笔触颜色 ：设置所选对象轮廓的颜色。
+	填充颜色工具 ：设置所选对象的填充色。
+
+**1．选择工具的使用**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;【选择工具】![](/assets/4-3-17.png)是工具箱中使用频率最高的工具之一，其主要用途是选取绘图工作区的对象，移动对象，也可以改变图形的形状。使用【选择工具】时，鼠标指针在不同的状态下呈现不同的形状，使用中可以根据鼠标指针的不同形状进行不同的操作。
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](/assets/4-3-18.png)形状：一般情况下的状态，此时按住鼠标拖动按住鼠标键拖出矩形框可选中框内对象。另外选择对象的方法有两种，一种是鼠标指针在任何一种状态中单击对象选中；一种是当多条线条连接在一起时，在任意线条上双击来全选整个连接的线条。如图4-3-5所示。
+
+<div align="center"><img src="/assets/4-3-19.png"></div>
+<div align="center"><img src="/assets/4-3-20.png"></div>
+<div align="center"><img src="/assets/4-3-21.png"></div>
+<div align="center"><span style="font-size:10px">4-3-5利用【选择工具】选择对象</span></div>
+===
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](/assets/4-3-22.png)形状：此时按住鼠标可以拖动对象，如图4-3-6所示。
+
+<div align="center"><img src="/assets/4-3-23.png"></div>
+<div align="center"><span style="font-size:10px">4-3-5利用【选择工具】选择对象</span></div>
+===
+
+##4.3.3 位图的应用
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;位图资源极其丰富，而且表现力非常强，一些复杂的图形图像课件必须使用位图才能实现效果。因此，掌握在Flash中利用位图制作图形图像课件，是一种很重要的技能。
 
