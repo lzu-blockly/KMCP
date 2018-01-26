@@ -156,11 +156,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;选择【文件】——【导入】——【导入到舞台】——按住Ctrl键，依次单击图像文件，导入课件所需的多个图像文件。  导入舞台的图像会自动分布在场景的舞台上，按Delete键，将场景中的图像文件全部删除。但图像文件保存在【库】面板中。如图4-3-49所示。
 
 <div align="center"><img src="/assets/4-3-10.png"></div>
-===
 <div align="center"><img src="/assets/4-3-11.png"></div>
-===
 <div align="center"><img src="/assets/4-3-12.png"></div>
-===
 <div align="center"><span style="font-size:10px">图4-3-49  导入位图</span></div>
 ===
 
