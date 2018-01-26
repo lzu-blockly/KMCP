@@ -218,11 +218,59 @@
 <div align="center"><span style="font-size:10px">图4-3-21 矩形的“属性”面板</span></div>
 ===
 
-下面以凹透镜的绘制为例介绍【矩形工具】的使用方法。方法步骤如下：
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;下面以凹透镜的绘制为例介绍【矩形工具】的使用方法。方法步骤如下：
 
-(1)单击选择【工具】面板中的【矩形工具】![](/assets/4-3-54.png)，接着单击【填充颜色】按钮。设置填充色为【无颜色】![](/assets/4-3-55.png)。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(1)单击选择【工具】面板中的【矩形工具】![](/assets/4-3-54.png)，接着单击【填充颜色】按钮。设置填充色为【无颜色】![](/assets/4-3-55.png)。
 
-右下角的小黑三角表示这是一个具有复合功能的绘图工具，按住鼠标键不放会弹出下拉列表，在其中可以选择需要的绘图工具，如图4-3-22所示。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;右下角的小黑三角表示这是一个具有复合功能的绘图工具，按住鼠标键不放会弹出下拉列表，在其中可以选择需要的绘图工具，如图4-3-22所示。
+
+<div align="center"><img src="/assets/4-3-56.png"></div>
+<div align="center"><span style="font-size:10px">图4-3-22【矩形工具】</span></div>
+===
+
+(2)鼠标指针指向场景变为“+”形状，从网格的交点处拖动鼠标到另一网格交点处，松开鼠标键，绘制出矩形，如图4-3-23所示。
+
+(3)鼠标分别移至左边线鼠标变成![](/assets/4-3-57.png) 向右拖动形成曲线，再移至右边线鼠标变成![](/assets/4-3-57.png) 向左拖动形成曲线，最终形成凹透镜形状，如图4-3-24所示。
+
+<div align="center"><img src="/assets/4-3-58.png"></div>
+<div align="center"><span style="font-size:10px">图4-3-23矩形的绘制</span></div>
+===
+
+<div align="center"><img src="/assets/4-3-59.png"></div>
+<div align="center"><span style="font-size:10px">图4-3-24凹透镜绘制过程</span></div>
+===
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;运用【矩形工具】绘图时，按住【shift】键拖动鼠标可以绘制出正方形，按住【Alt】键拖动鼠标会以某点为中心画矩形。
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(4)选择【选择工具】拖动鼠标框选凹透镜形状，设置笔触颜色为黑色。
+
+**4．铅笔工具的使用**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;【铅笔工具】与【线条工具】非常相似，所不同的是，用铅笔工具可以绘制任意线条，使用方法灵活。选择工具箱中的【铅笔工具】![](/assets/4-3-60.png)，在舞台上按下鼠标左键并拖动便可绘制任意线条，如图4-3-25所示。
+
+<div align="center"><img src="/assets/4-3-61.png"></div>
+<div align="center"><span style="font-size:10px">图4-3-25铅笔工具绘图效果</span></div>
+===
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;可以在【铅笔工具】的属性面板中设置【铅笔工具】的属性，如图4-3-26所示，有三种模式可供用户设置：
+
+<div align="center"><img src="/assets/4-3-62.png"></div>
+<div align="center"><span style="font-size:10px">图4-3-26铅笔工具属性面板</span></div>
+===
+
+	在【伸直】模式下，它会把线条自动转成接近形状的直线。
+
+	在【平滑】模式下，把线条转换为接近形状的平滑曲线。
+
+	在【墨水】模式下，不加修饰，完全保持鼠标轨迹的形状。
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;【铅笔工具】的属性设置和【线条工具】属性设置一样，在此不再赘述。
+
+**5．刷子工具的使用**
+
+【刷子工具】![](/assets/4-3-63.png)用来绘制任意不规则色块，如同使用毛笔上彩一样，该工具常用于绘制对象或为对象填充颜色。使用【刷子工具】绘制的图形属于面而非线，因此绘制的图形没有外轮廓线。
+
+利用【刷子工具】可以绘制类似毛笔绘图的效果，应用于绘制对象或者内部填充，其使用方法与【铅笔工具】类似。但是使用【铅笔工具】绘制的图形是笔触线段，而使用【刷子工具】绘制的图形是填充颜色。在工具箱中选择【刷子工具】后，在工具箱下方的【选项区域】中将出现【刷子工具】的相关选项设置， 如图4-3-27所示。
 
 ##4.3.3 位图的应用
 
