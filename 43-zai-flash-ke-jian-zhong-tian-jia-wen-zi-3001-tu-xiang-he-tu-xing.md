@@ -99,14 +99,61 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](/assets/4-3-22.png)形状：此时按住鼠标可以拖动对象，如图4-3-6所示。
 
 <div align="center"><img src="/assets/4-3-23.png"></div>
-<div align="center"><span style="font-size:10px">4-3-5利用【选择工具】选择对象</span></div>
+<div align="center"><span style="font-size:10px">4-3-6利用【选择工具】拖动对象</span></div>
 ===
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](/assets/4-3-24.png)靠近线条或线条轮廓时，拖动能改变线条形状。按住【Ctrl】键拖动能把线条变为转角，如图4-3-7所示。
+
+<div align="center"><img src="/assets/4-3-25.png"></div>
+<div align="center"><img src="/assets/4-3-26.png"></div>
+<div align="center"><img src="/assets/4-3-27.png"></div>
+<div align="center"><span style="font-size:10px">4-3-7利用【选择工具】改变线条</span></div>
+===
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;【选择工具】![](/assets/4-3-28.png)靠近线条或线条轮廓时，如果定位点是线条终点，则可以延长或缩短该线条。如果定位点是转角，则组成转角的线段在它们变长或缩短时仍保持伸直，如图4-3-8所示。
+
+<div align="center"><img src="/assets/4-3-29.png"></div>
+<div align="center"><img src="/assets/4-3-30.png"></div>
+<div align="center"><span style="font-size:10px">4-3-8 利用【选择工具】改变线条长度、角度</span></div>
+===
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;【选择工具】在工具箱的【选项】面板中有相应的属性，如图4-3-9所示。
+
+<div align="center"><img src="/assets/4-3-31.png"></div>
+<div align="center"><span style="font-size:10px">4-3-9【选择工具】在工具箱的【选项】</span></div>
+===
+
+【紧贴至对象】：选中此对象后，用【选择工具】拖动对象至终点时，当对象靠近目标对象的一定范围处，会自动吸附过去，使两个对象很好的连接在一起。
+
+【平滑】：此功能可以使选中的线条或矢量图形平滑化，使图形的曲线更加柔和。
+ 
+【伸直】：此功能可以使选中的线条或矢量图形平直化，使图形的棱角更加分明。
+ 
+**2．线条工具的使用**
+
+【线条工具】  的主要功能室绘制线条，用【线条工具】绘制出直线然后可以配合【选择工具】对线条改变形状以此来形成图形轮廓。绘制时在工具箱中选择【线条工具】，鼠标指针变为“+”形状，在舞台中拖动鼠标即可绘制直线，按住【Shift】键拖动鼠标可以绘制水平、垂直和45°斜线。
+
+【线条工具】在工具箱的选项板中有相应的附加选项，如图所示，在使用【线条工具】过程中可以通过这些选项对其进行设置。
+
+ 【对象绘制】将图形绘制成独立的对象，未选中的情况下，图形相叠加后会互相影响，，选中此选项的情况下，图形是相对独立的对象，相叠时互不影响，保持了图形的完整。
+ 
+ 【紧贴至对象】与前面所讲的【选择工具】下的【紧贴至对象】功能类似，有自动吸附功能。
+ 
+要对线条的颜色、粗细、样式等进行设置，可以在【线条工具】的【属性】面板中设置。可以在绘制线条前设置好各项属性再绘制线条，也可以绘制好后选定再进行设置。【线条工具】的【属性】面板如图4-3-10所示。
+
+笔触颜色 ：设置线条的颜色。单击此按钮可以弹出Flash自带的Web 颜色系统如图4-3-11所示。
+
+【笔触高度】：设置线条的高度，值越小线条越细，范围是0.1-200。
+
+【笔触样式】：设置所需的线条线形。如图4-3-12所示。
 
 ##4.3.3 位图的应用
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;位图资源极其丰富，而且表现力非常强，一些复杂的图形图像课件必须使用位图才能实现效果。因此，掌握在Flash中利用位图制作图形图像课件，是一种很重要的技能。
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**1.导入位图：**选择【文件】——【导入】——【导入到舞台】——按住Ctrl键，依次单击图像文件，导入课件所需的多个图像文件。  导入舞台的图像会自动分布在场景的舞台上，按Delete键，将场景中的图像文件全部删除。但图像文件保存在【库】面板中。如图4-3-4所示。
+**1.导入位图**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;选择【文件】——【导入】——【导入到舞台】——按住Ctrl键，依次单击图像文件，导入课件所需的多个图像文件。  导入舞台的图像会自动分布在场景的舞台上，按Delete键，将场景中的图像文件全部删除。但图像文件保存在【库】面板中。如图4-3-49所示。
 
 <div align="center"><img src="/assets/4-3-10.png"></div>
 ===
@@ -114,34 +161,34 @@
 ===
 <div align="center"><img src="/assets/4-3-12.png"></div>
 ===
-<div align="center"><span style="font-size:10px">图4-3-4   导入位图</span></div>
+<div align="center"><span style="font-size:10px">图4-3-49  导入位图</span></div>
 ===
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2.使用套索工具编辑位图:**导入的位图往往有背景，不利于课件整体分割的设计，极大影响课件效果，可以利用【套索工具】和【橡皮擦工具】来清除图像背景。以下是【套索工具】的使用方法。
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;【套索工具】用来选择任意图形，它有套索工具、多边形工具和魔术棒3种模式。
-如图4-3-5所示。
+**2.使用套索工具编辑位图**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;导入的位图往往有背景，不利于课件整体分割的设计，极大影响课件效果，可以利用【套索工具】和【橡皮擦工具】来清除图像背景。以下是【套索工具】的使用方法。【套索工具】用来选择任意图形，它有套索工具、多边形工具和魔术棒3种模式。
+如图4-3-50所示。
 
 <div align="center"><img src="/assets/4-3-13.png"></div>
-===
-<div align="center"><span style="font-size:10px">图4-3-5   套索工具</span></div>
+<div align="center"><span style="font-size:10px">图4-3-50  套索工具</span></div>
 ===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;【魔术棒】：使用该工具可以在位图上选择颜色相近的区域，只需在图形上单击要选择的区域，就会有连续区域被选中。
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;【多边形模式】：使用此工具配合鼠标的多次单击可以全选处多边形选择区域。
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**3.使用橡皮擦工具编辑位图:**  【橡皮擦工具】用于擦除舞台中的图形。可以一次擦除舞台中的所有图形，也可以有选择地对舞台中的图形进行擦除。如图4-3-6所示。
+**3.使用橡皮擦工具编辑位图**  
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;【橡皮擦工具】用于擦除舞台中的图形。可以一次擦除舞台中的所有图形，也可以有选择地对舞台中的图形进行擦除。如图4-3-51所示。
 
 <div align="center"><img src="/assets/4-3-14.png"></div>
-===
-<div align="center"><span style="font-size:10px">图4-3-6   橡皮檫工具</span></div>
+<div align="center"><span style="font-size:10px">图4-3-51   橡皮檫工具</span></div>
 ===
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;单击【橡皮擦模式】，系统将弹出包括5种橡皮擦模式的菜单。如图4-3-7所示。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;单击【橡皮擦模式】，系统将弹出包括5种橡皮擦模式的菜单。如图4-3-52所示。
 
- <div align="center"><img src="/assets/4-3-15.png"></div>
-===
-<div align="center"><span style="font-size:10px">图4-3-7   橡皮檫模式</span></div>
+<div align="center"><img src="/assets/4-3-15.png"></div>
+<div align="center"><span style="font-size:10px">图4-3-52   橡皮檫多种模式</span></div>
 ===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;【标准擦除】：可以擦除舞台中位于同一图层上的任意图形的边线和填充内容。
