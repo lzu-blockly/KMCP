@@ -5,7 +5,6 @@
 ###实例1 播放课件“认识硬币”
 
 <div align="center"><img src="/assets/3-7-1.jpg"></div>
-===
 <div align="center"><span style="font-size:10px">图3-7-1</span></div>
 ===
 

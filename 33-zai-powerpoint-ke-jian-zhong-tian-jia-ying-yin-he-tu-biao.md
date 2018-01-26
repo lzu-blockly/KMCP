@@ -1,7 +1,7 @@
 # 3.3  在PowerPoint课件中添加影音和图表
 
 <div align="center"><iframe frameborder="0" width="640" height="498" src="https://v.qq.com/iframe/player.html?vid=j0534x26623&tiny=0&auto=0" allowfullscreen></iframe></div>
-<div align="center"><span style="font-size:24px">教学微视频</span></div>
+<div align="center"><span style="font-size:14px">教学微视频</span></div>
 ===
 
 ## 3.3.1 在课件中添加影音

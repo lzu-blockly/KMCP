@@ -79,16 +79,17 @@
 
 ###2.在flash中嵌入FLV并在时间轴中播放
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在【选择视频】对话框中，选择所要导入的视频文件后，启用【在SWF 中插入FLV 并在时间轴中播放】单选按钮，并单击【下一步】按钮。图4-4-8
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在【选择视频】对话框中，选择所要导入的视频文件后，启用【在SWF 中插入FLV 并在时间轴中播放】单选按钮，并单击【下一步】按钮，如图4-4-8、图4-4-9所示。
 
 <div align="center"><img src="/assets/4-4-9.png"></div>
-===
-<div align="center"><img src="/assets/4-4-10.png"></div>
-===
-<div align="center"><span style="font-size:10px">图 4-8 嵌入FLV格式视频</span></div>
+<div align="center"><span style="font-size:10px">图 4-4-8 嵌入FLV格式视频</span></div>
 ===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在【嵌入】对话框中，可以选择用于将视频嵌入到Flash 文档的元件类型，以及是否放置在舞台等选项。
+
+<div align="center"><img src="/assets/4-4-10.png"></div>
+<div align="center"><span style="font-size:10px">图 4-4-9 嵌入FLV格式视频</span></div>
+===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在【完成视频导入】对话框中，将会导入的视频文件在本地计算机中的路径等相关信息中的路径等相关信息。单击【完成】按钮，即可将该视频文件嵌入到Flash 文档中。
 
