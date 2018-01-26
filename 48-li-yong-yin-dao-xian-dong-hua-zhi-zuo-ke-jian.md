@@ -1,7 +1,7 @@
 #4.8利用引导线动画制作课件
 
 <div align="center"><iframe frameborder="0" width="640" height="498" src="https://v.qq.com/iframe/player.html?vid=y0534yg1dyh&tiny=0&auto=0" allowfullscreen></iframe></div>
-<div align="center"><span style="font-size:24px">教学微视频</span></div>
+<div align="center"><span style="font-size:14px">教学微视频</span></div>
 ===
 
 ##1.认识引导动画

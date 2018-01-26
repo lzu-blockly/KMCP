@@ -1,8 +1,9 @@
 #5.1 微课概述
 
 <div align="center"><iframe frameborder="0" width="640" height="498" src="https://v.qq.com/iframe/player.html?vid=c0534nssxji&tiny=0&auto=0" allowfullscreen></iframe></div>
-<div align="center"><span style="font-size:24px">教学微视频</span></div>
+<div align="center"><span style="font-size:14px">教学微视频</span></div>
 ===
+
 ##5.1.1微课的概念
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在传统的课堂教学中，师生所说的“上课”，是指目前学校教育普遍实施的班级集体教学的组织方式与基本单位。学校的主要工作和教学活动，是以上课作为主体，上课是学校日常教学工作的核心。在经典教学论的学术专著中，对“课”的定义是：“有时间限制的、有组织的教学过程的单位，其作用在于达到一个完整的、然而又是局部性的教学目的。”
