@@ -1,7 +1,7 @@
 #3.4 Powerpoint课件的美化
 
 <div align="center"><iframe frameborder="0" width="640" height="498" src="https://v.qq.com/iframe/player.html?vid=x05342unqhs&tiny=0&auto=0" allowfullscreen></iframe></div>
-<div align="center"><span style="font-size:14px">教学微视频</span></div>
+<div align="center"><span style="font-size:20px">教学微视频</span></div>
 ===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;这一节内容主要讲的是PPT课件的美化：

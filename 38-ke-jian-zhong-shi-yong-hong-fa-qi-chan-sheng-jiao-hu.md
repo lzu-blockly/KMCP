@@ -1,7 +1,7 @@
 #3.8 课件中使用触发器产生交互
 
 <div align="center"><iframe frameborder="0" width="640" height="498" src="https://v.qq.com/iframe/player.html?vid=n0534po79s5&tiny=0&auto=0" allowfullscreen></iframe></div>
-<div align="center"><span style="font-size:14px">教学微视频</span></div>
+<div align="center"><span style="font-size:20px">教学微视频</span></div>
 ===
 
 ##3.8.1使用文字触发器交互
