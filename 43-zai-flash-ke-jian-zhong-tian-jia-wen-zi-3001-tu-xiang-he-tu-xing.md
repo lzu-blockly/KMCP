@@ -123,29 +123,106 @@
 <div align="center"><span style="font-size:10px">4-3-9【选择工具】在工具箱的【选项】</span></div>
 ===
 
-【紧贴至对象】：选中此对象后，用【选择工具】拖动对象至终点时，当对象靠近目标对象的一定范围处，会自动吸附过去，使两个对象很好的连接在一起。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](/assets/4-3-32.png)【紧贴至对象】：选中此对象后，用【选择工具】拖动对象至终点时，当对象靠近目标对象的一定范围处，会自动吸附过去，使两个对象很好的连接在一起。
 
-【平滑】：此功能可以使选中的线条或矢量图形平滑化，使图形的曲线更加柔和。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](/assets/4-3-33.png)【平滑】：此功能可以使选中的线条或矢量图形平滑化，使图形的曲线更加柔和。
  
-【伸直】：此功能可以使选中的线条或矢量图形平直化，使图形的棱角更加分明。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](/assets/4-3-34.png)【伸直】：此功能可以使选中的线条或矢量图形平直化，使图形的棱角更加分明。
  
 **2．线条工具的使用**
 
-【线条工具】  的主要功能室绘制线条，用【线条工具】绘制出直线然后可以配合【选择工具】对线条改变形状以此来形成图形轮廓。绘制时在工具箱中选择【线条工具】，鼠标指针变为“+”形状，在舞台中拖动鼠标即可绘制直线，按住【Shift】键拖动鼠标可以绘制水平、垂直和45°斜线。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;【线条工具】![](/assets/4-3-35.png)的主要功能室绘制线条，用【线条工具】绘制出直线然后可以配合【选择工具】对线条改变形状以此来形成图形轮廓。绘制时在工具箱中选择【线条工具】，鼠标指针变为“+”形状，在舞台中拖动鼠标即可绘制直线，按住【Shift】键拖动鼠标可以绘制水平、垂直和45°斜线。
 
-【线条工具】在工具箱的选项板中有相应的附加选项，如图所示，在使用【线条工具】过程中可以通过这些选项对其进行设置。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;【线条工具】在工具箱的选项板中有相应的附加选项，如图所示，在使用【线条工具】过程中可以通过这些选项对其进行设置。
 
- 【对象绘制】将图形绘制成独立的对象，未选中的情况下，图形相叠加后会互相影响，，选中此选项的情况下，图形是相对独立的对象，相叠时互不影响，保持了图形的完整。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](/assets/4-3-36.png)【对象绘制】将图形绘制成独立的对象，未选中的情况下，图形相叠加后会互相影响，，选中此选项的情况下，图形是相对独立的对象，相叠时互不影响，保持了图形的完整。
  
- 【紧贴至对象】与前面所讲的【选择工具】下的【紧贴至对象】功能类似，有自动吸附功能。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](/assets/4-3-37.png)【紧贴至对象】与前面所讲的【选择工具】下的【紧贴至对象】功能类似，有自动吸附功能。
  
-要对线条的颜色、粗细、样式等进行设置，可以在【线条工具】的【属性】面板中设置。可以在绘制线条前设置好各项属性再绘制线条，也可以绘制好后选定再进行设置。【线条工具】的【属性】面板如图4-3-10所示。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;要对线条的颜色、粗细、样式等进行设置，可以在【线条工具】的【属性】面板中设置。可以在绘制线条前设置好各项属性再绘制线条，也可以绘制好后选定再进行设置。【线条工具】的【属性】面板如图4-3-10所示。
 
-笔触颜色 ：设置线条的颜色。单击此按钮可以弹出Flash自带的Web 颜色系统如图4-3-11所示。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;笔触颜色![](/assets/4-3-38.png)：设置线条的颜色。单击此按钮可以弹出Flash自带的Web 颜色系统如图4-3-11所示。
 
-【笔触高度】：设置线条的高度，值越小线条越细，范围是0.1-200。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;【笔触高度】：设置线条的高度，值越小线条越细，范围是0.1-200。
 
-【笔触样式】：设置所需的线条线形。如图4-3-12所示。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;【笔触样式】：设置所需的线条线形。如图4-3-12所示。
+
+<div align="center"><img src="/assets/4-3-39.png"></div>
+<div align="center"><span style="font-size:10px">4-3-10【属性】面板</span></div>
+===
+
+<div align="center"><img src="/assets/4-3-40.png"></div>
+<div align="center"><span style="font-size:10px">4-3-11【颜色】面板</span></div>
+===
+
+<div align="center"><img src="/assets/4-3-41.png"></div>
+<div align="center"><span style="font-size:10px">4-3-12【笔触样式】预置线形</span></div>
+===
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;【端点】：设置线条端点的样式，端点类型包括“无”、“圆角”和“方形”3 种，效果分别如图4-3-13所示。用户可以在绘制线条之前设置好线条属性，也可以在绘制完成后重新修改线条的属性。
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;【拼合】设置两条线条结合处的样式也就是拐点端点的形状，线段以何种方式呈现拐角形状。有“尖角”、“圆角”和“斜角”3 方式可供选择。当选择接合为“尖角”的时候，右侧的尖角限制文本框会变为可用状态，如图4-3-14所示。在这里可以指定尖角限制数值的大小，数值越大，尖角就越趋于尖锐，数值越小，尖角会被逐渐削平。
+
+<div align="center"><img src="/assets/4-3-42.png"></div>
+<div align="center"><span style="font-size:10px">4-3-13线条端点的样式</span></div>
+===
+
+<div align="center"><img src="/assets/4-3-43.png"></div>
+<div align="center"><span style="font-size:10px">4-3-14【拼合】三种形式</span></div>
+===
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;下面【线条工具】以凸透镜的制作为例来介绍线条工具的使用方法。操作步骤如下：
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(1)选择【视图】→【网格】→【显示网格】命令，场景中显示出网格，如图4-3-15所示。
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(2)单击选择【工具】面板中的【线条工具】，选择【线条工具】后鼠标指针变为“+”形状， 在场景中拖动绘制出一条垂直直线，如图4-3-16所示。
+
+<div align="center"><img src="/assets/4-3-44.png"></div>
+<div align="center"><span style="font-size:10px">图4-3-15显示网格</span></div>
+===
+
+<div align="center"><img src="/assets/4-3-45.png"></div>
+<div align="center"><span style="font-size:10px">图4-3-16绘制直线</span></div>
+===
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(3)选择【线条工具】![](/assets/4-3-46.png)将鼠标指针移动到线条上变为带半圆指针形状时，向左拖动线条将它改为曲线，如图4-3-17所示。
+
+<div align="center"><img src="/assets/4-3-47.png"></div>
+<div align="center"><span style="font-size:10px">图4-3-17把直线调整为曲线</span></div>
+===
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(4)【选择】线条工具绘制一条直线将曲线两端连接起来。然后使用【选择工具】将线条向右拖动绘制出凸透镜，绘制过程如图4-3-18所示。
+
+<div align="center"><img src="/assets/4-3-48.png"></div>
+<div align="center"><img src="/assets/4-3-49.png"></div>
+<div align="center"><span style="font-size:10px">图4-3-18凸透镜绘制过程</span></div>
+===
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(5)使用【选择工具】在凸透镜左上方向右下角拖动出一个虚线框，框选绘制的形状，移动到适当的位置，凸透镜绘制完成，如图4-3-19所示。
+
+<div align="center"><img src="/assets/4-3-50.png"></div>
+<div align="center"><span style="font-size:10px">图4-3-19凸透镜最终位置</span></div>
+===
+
+**3．矩形工具的使用** 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;使用【矩形工具】![](/assets/4-3-51.png)可以方便快捷的绘制出任意矩形或正方形还可以绘制出多种圆角或凹角的图形。在 Flash 中包括“椭圆工具”、“矩形工具”、“多角星形工具”、“基本矩形工具”和“基本椭圆工具”5种图形工具。在默认情况下，Flash工具箱中只显示“矩形工具”， 如果要选择其他图形工具，可以在工具箱中按住“矩形工具”不放，在弹出的隐藏工具面板中选择相关的图形工具，如图4-3-20所示。
+
+<div align="center"><img src="/assets/4-3-52.png"></div>
+<div align="center"><span style="font-size:10px">图4-3-20矩形工具选择</span></div>
+===
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;选择工具箱中的“矩形工具”后，在属性面板中将出现“矩形工具”的相关属性设置，如图4-3-21所示。
+
+<div align="center"><img src="/assets/4-3-53.png"></div>
+<div align="center"><span style="font-size:10px">图4-3-21 矩形的“属性”面板</span></div>
+===
+
+下面以凹透镜的绘制为例介绍【矩形工具】的使用方法。方法步骤如下：
+
+(1)单击选择【工具】面板中的【矩形工具】![](/assets/4-3-54.png)，接着单击【填充颜色】按钮。设置填充色为【无颜色】![](/assets/4-3-55.png)。
+
+右下角的小黑三角表示这是一个具有复合功能的绘图工具，按住鼠标键不放会弹出下拉列表，在其中可以选择需要的绘图工具，如图4-3-22所示。
 
 ##4.3.3 位图的应用
 
