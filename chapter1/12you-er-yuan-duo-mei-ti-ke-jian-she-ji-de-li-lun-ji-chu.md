@@ -1,7 +1,7 @@
 #1.2幼儿园多媒体课件设计的理论基础
 
 <div align="center"><iframe frameborder="0" width="640" height="498" src="https://v.qq.com/iframe/player.html?vid=p0534sifmaa&tiny=0&auto=0" allowfullscreen></iframe></div>
-<div align="center"><span style="font-size:14px">教学微视频</span></div>
+<div align="center"><span style="font-size:20px">教学微视频</span></div>
 ===
 
 ##1.2.1  现代教育思想及其指导意义

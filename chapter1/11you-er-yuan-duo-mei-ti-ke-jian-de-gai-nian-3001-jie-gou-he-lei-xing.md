@@ -1,7 +1,7 @@
 #1.1幼儿园多媒体课件的概念、结构和类型
 
 <div align="center"><iframe frameborder="0" width="640" height="498" src="https://v.qq.com/iframe/player.html?vid=m0534i5qmaj&tiny=0&auto=0" allowfullscreen></iframe></div>
-<div align="center"><span style="font-size:14px">教学微视频</span></div>
+<div align="center"><span style="font-size:20px">教学微视频</span></div>
 ===
 
 ##1.1.1多媒体课件的概念

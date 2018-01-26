@@ -1,7 +1,7 @@
 #2.1 图像素材的获取与处理
 
 <div align="center"><iframe frameborder="0" width="640" height="498" src="https://v.qq.com/iframe/player.html?vid=s0534swnxqt&tiny=0&auto=0" allowfullscreen></iframe></div>
-<div align="center"><span style="font-size:14px">教学微视频</span></div>
+<div align="center"><span style="font-size:20px">教学微视频</span></div>
 ===
 
 ##2.1.1图像素材简介
