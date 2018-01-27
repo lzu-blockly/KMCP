@@ -32,3 +32,24 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（4）右击1-30帧的任意帧，在弹出的快捷菜单中选择【创建补间形状】命令，创建形状补间动画。如图4-6-3所示。
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（5）这样一个从圆形到正方形的形状补间动画就完成了，效果如图4-6-4所示。
+
+<div align="center"><img src="/assets/4-6-3.png"></div>
+<div align="center"><span style="font-size:10px">图4-6-3 创建补间动画</span></div>
+===
+<div align="center"><img src="/assets/4-6-4.png"></div>
+<div align="center"><span style="font-size:10px">图4-6-4 运行效果</span></div>
+===
+
+###2．实例：内吞
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;该例是中学生物“内吞”动画模拟演示课件，它通过形状补间动画演示了液体吞入细胞的过程。充分显现出F1ash课件在展示生物微观现象时的优势，学生通过观看形象的内吞动画演示过程，形成科学、规范的概念。
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（1）新建一个Flash文件，舞台大小设置为“550×400像素”，设置背景色为淡绿色，其他参数保持默认值。
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（2）新建一个名称为“物质”的图形元件，在此元件的编辑场景中，用绘图工具绘制一个填充色为黑色的圆形。
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（3）创建“图标”影片剪辑元件。
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;①新建一个名称为“图标”的影片剪辑元件，在这个元件的编辑场景中，将“图层1” 重命名为“圆形”运用绘图工具 (虚线边框没有填充)，如图4-6-5所示。
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;②新建一个图层，重命名为“变形”在此图层中，调整方向如图4-6-6所示。
