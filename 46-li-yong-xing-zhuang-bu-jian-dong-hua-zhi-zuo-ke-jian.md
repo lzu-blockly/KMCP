@@ -86,10 +86,10 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;①选中“变形”图层的第1帧，击右键选择【创建补间形状】，“变形”图层的第1-10帧间出现了一条带箭头的实线，并且帧格变为绿色，说明己经实现了“变形”图层第1-10帧的形状补间动画。使用同样的方法在第15-25帧创建形状补间动画，如图4-6-11所示。此时图层结构，拖动播放头或按【Enter】键就能看到形状补间动画的效果了。
 
-<div align="center"><img src="/assets/4-6-11.png"></div>
+<div align="center"><img src="/assets/4-6-10.png"></div>
 <div align="center"><span style="font-size:10px">图4-6-10 图层结构</span></div>
 ===
-<div align="center"><img src="/assets/4-6-12.png"></div>
+<div align="center"><img src="/assets/4-6-11.png"></div>
 <div align="center"><span style="font-size:10px">图4-6-11 创建形状补间动画</span></div>
 ===
 
@@ -99,9 +99,80 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;②拖动开始帧和结束帧上的形状提示圆圈，在形状边缘的适当位置放置，可看到开始帧上的“提示圆圈”变为黄色，结束帧上的“提示圆圈”变为绿色，如图4-6-12和图4-6-13所示。
 
-<div align="center"><img src="/assets/4-6-13.png"></div>
+<div align="center"><img src="/assets/4-6-12.png"></div>
 <div align="center"><span style="font-size:10px">图4-6-12</span></div>
 ===
-<div align="center"><img src="/assets/4-6-14.png"></div>
+<div align="center"><img src="/assets/4-6-13.png"></div>
 <div align="center"><span style="font-size:10px">图4-6-13</span></div>
 ===
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;③依次为第1-10帧的形状补间添加4个形状提示，调整它们的位置，如图4-6-14和图4-6-15所示。
+
+<div align="center"><img src="/assets/4-6-14.png"></div>
+<div align="center"><span style="font-size:10px">图4-6-14</span></div>
+===
+<div align="center"><img src="/assets/4-6-15.png"></div>
+<div align="center"><span style="font-size:10px">图4-6-15</span></div>
+===
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;④用同样的方法为第15-25帧添加形状提示。添加了形状提示后，形状补间动画效果更自然。
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（7）布局背景和标题
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;①从元件编辑场景返回到主场景，插入3个图层，重新命名图层。
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;②选择“背景”图层，在舞台上输入课件标题，添加滤镜效果。接着使用【刷子工具】绘制细长形装饰条，并将【库】面板中的【图标】影片剪辑元件拖放到场景中，调整好大小和位置，如图4-6-16所示。
+
+<div align="center"><img src="/assets/4-6-16.png"></div>
+<div align="center"><span style="font-size:10px">图4-6-16 将【图标】影片剪辑元件拖放到场景</span></div>
+===
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（8）创建内吞过程补间动画
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;①锁定“背景”图层。选中“细胞膜”图层，绘制一个无填充的圆形。在圆形的左上方用【选择工具】拖动选择二段圆弧，选择【编辑】→【剪切】命令，选中“运动”图层，选择【编辑】→【粘贴到当前位置】命令，把这段圆弧移动到“运动”图层。从【库】面板中把“物质”图形元件拖放在场景的“物质”图层。
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;②同时选中4个图层的第55帧，按【F5】键，在第55帧插入帧。在“细胞膜”图层的第20 、35 和36 帧分别插入关键帧。在“运动”图层的第20 、35 、36 和55帧插入关键帧，在“物质”图层的第20 、36 和55帧插入关键帧。此时的图层结构如图4-6-17所示。
+
+<div align="center"><img src="/assets/4-6-17.png"></div>
+<div align="center"><span style="font-size:10px">图4-6-17 图层结构</span></div>
+===
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;当由几个图层共同构成补间动画时，关键帧的添加一定要同步进行，使它们彼此之间能协同变化，求得一致的效果。
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（9）创建内吞过程补间动画
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;①按照前面介绍的方法在“细胞膜”图层的第20-35 帧“运动”图层的第1-20帧、第20-35帧、第36-55帧添加形状补间动画。在“物质”图层的第1-20帧、第20-36帧、第36-55帧添加动作补间动画，如图4-6-18所示。
+
+<div align="center"><img src="/assets/4-6-18.png"></div>
+<div align="center"><span style="font-size:10px">图4-6-18 图层结构</span></div>
+===
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**注意：添加形状补间动画只能在【属性】面板的【补间】下拉列表框中选择【形状】。**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;判断形状补间动画添加是否成功，可以观察时间轴上的关键帧之间是否有绿色背景和连续的带箭头的实线，如果表现为虚线则说明某个关键帧中的对象不是形状，这时可以按Ctrl+B键将对象分离为形状。
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;②运用【选择工具】调整“细胞膜”图层第20 、35 帧上的形状。如图4-6-19、图4-6-20所示。
+
+<div align="center"><img src="/assets/4-6-19.png"></div>
+<div align="center"><span style="font-size:10px">图4-6-19 第20帧上的形状</span></div>
+===
+<div align="center"><img src="/assets/4-6-20.png"></div>
+<div align="center"><span style="font-size:10px">图4-6-20 第35帧上的形状</span></div>
+===
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;③编辑修改“运动”图层第1 、20 、35 、36 帧上的形状，如图4-6-22所示。
+
+<div align="center"><img src="/assets/4-6-21.png"></div>
+<div align="center"><span style="font-size:10px">图4-6-21 “运动”图层第1 、20 、35 、36 帧上的形状</span></div>
+===
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;④调整移动“物质”图层第20 、35 、36 、55 帧上“物质”元件的位置，如图4-6-22所示。
+
+<div align="center"><img src="/assets/4-6-22.png"></div>
+<div align="center"><img src="/assets/4-6-23.png"></div>
+<div align="center"><img src="/assets/4-6-24.png"></div>
+<div align="center"><img src="/assets/4-6-25.png"></div>
+<div align="center"><span style="font-size:10px">图4-6-22 “物质”图层第20 、35 、36 、55 帧上“物质”元件的位置</span></div>
+===
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**注意：调整对象形状或位置时要相互兼顾，方能使动画形象逼真。另外，多使用锁定和隐藏图层进行调整，能方便制作。**
