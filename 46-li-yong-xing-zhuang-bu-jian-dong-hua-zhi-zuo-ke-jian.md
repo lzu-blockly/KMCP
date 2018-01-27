@@ -26,11 +26,9 @@
 <div align="center"><span style="font-size:10px">图4-6-1 圆的绘制</span></div>
 ===
 
-
 <div align="center"><img src="/assets/4-6-2.png"></div>
 <div align="center"><span style="font-size:10px">图4-6-2 正方形的绘制</span></div>
 ===
-
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（4）右击1-30帧的任意帧，在弹出的快捷菜单中选择【创建补间形状】命令，创建形状补间动画。如图4-6-3所示。
 
@@ -40,11 +38,9 @@
 <div align="center"><span style="font-size:10px">图4-6-3 创建补间动画</span></div>
 ===
 
-
 <div align="center"><img src="/assets/4-6-4.png"></div>
 <div align="center"><span style="font-size:10px">图4-6-4 运行效果</span></div>
 ===
-
 
 ###2．实例：内吞
 
@@ -68,7 +64,6 @@
 <div align="center"><img src="/assets/4-6-6.png"></div>
 <div align="center"><span style="font-size:10px">图4-6-6 绘制矩形</span></div>
 ===
-
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;此时“图标”影片剪辑元件的图层结构和场景效果如图4-6-7所示。
 
@@ -119,7 +114,7 @@
 <div align="center"><img src="/assets/4-6-13.png"></div>
 <div align="center"><span style="font-size:10px">图4-6-13</span></div>
 ===
-                     
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;③依次为第1-10帧的形状补间添加4个形状提示，调整它们的位置，如图4-6-14和图4-6-15所示。
 
 <div align="center"><img src="/assets/4-6-14.png"></div>
@@ -173,7 +168,7 @@
 <div align="center"><img src="/assets/4-6-20.png"></div>
 <div align="center"><span style="font-size:10px">图4-6-20 第35帧上的形状</span></div>
 ===
-       
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;③编辑修改“运动”图层第1 、20 、35 、36 帧上的形状，如图4-6-21所示。
 
 <div align="center"><img src="/assets/4-6-21.png"></div>
