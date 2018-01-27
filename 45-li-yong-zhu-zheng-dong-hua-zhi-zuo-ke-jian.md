@@ -6,9 +6,9 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;逐帧动画是一种常见的动画形式(Frame By Frame)，其原理是在"连续的关键帧"中分解动画动作，也就是在时间轴的每帧上逐帧绘制不同的内容，使其连续播放而成动画。逐帧动画具有非常大的灵活性，几乎可以表现任何想表现的内容。它类似于电影的播放模式，很适合表演细腻的动画，例如人物走路、说话等。
 
-##1.相关概念
+###1.相关概念
 
-###(1)空帧
+**(1)空帧**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;如图4-5-1，空帧在时间轴上就是一个个方格，表示图层中动画的结束。
 
@@ -17,7 +17,7 @@
 <div align="center"><span style="font-size:10px">图4-5-1 空帧</span></div>
 ===
 
-###(2)关键帧
+**(2)关键帧**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;关键帧是制作课件时非常重要的帧，是用来定义动画变化、状态更改的帧。Flash会根据用户正确定义的关键帧，自动完成两个关键帧之间的一些指定的过渡效果。所以只有正确定义了关键帧，才能实现动画制作中的一些由电脑自动完成的过程。如图4-5-2都是关键帧。
 
@@ -26,7 +26,7 @@
 <div align="center"><span style="font-size:10px">图4-5-2 关键帧</span></div>
 ===
 
-###(3)普通帧
+**(3)普通帧**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;普通帧也称为静态帧，用于延长前面一帧的状态，在关键帧后面的普通帧为灰色，在空白关键帧后的普通帧为白色，如图4-5-3。
 
@@ -35,15 +35,15 @@
 <div align="center"><span style="font-size:10px">图4-5-3 普通帧</span></div>
 ===
 
-###(4)帧的速度
+**(4)帧的速度**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;帧的速度是指动画播放的速度，帧速的单位是FPS（帧/秒），即每秒钟播放的帧数。帧速决定了动画播放的连贯性，帧速太慢，就会明显感觉动画播放的停顿；帧数太快，就会忽略动画的部分细节。
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;本案例是幼儿园上英语how is the weather的演示课件，它通过逐帧动画演示了几种天气的特点，充分显示了使用flash动画模拟课件再现生活场景的无穷魅力。
 
-##2.制作逐帧动画
+###2.制作逐帧动画
 
-###1）文字逐帧动画
+**1）文字逐帧动画**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;逐帧动画适合制作相邻关键帧中对象变化不大的动画。利用flash中的逐帧动画，可以让文字逐个以打字的形式显示出来，此类动画可用于增强课件中文字显示的动感效果。
 
@@ -142,7 +142,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⑥【取消多帧查看】单击【绘图纸外观】按钮![](/assets/4-5-45.jpg)取消其多帧查看效果。
 
-###2）制作图形动画
+**2）制作图形动画**
 
 看了我们的半成品课件，我们还会发现，我们cloudy图形动画没有完成，现在我们就来完成这部分课件。
 
@@ -175,7 +175,7 @@
 
 <div align="center"><img src="/assets/4-5-20.png"></div>
 ===
-<div align="center"><span style="font-size:10px">图4-5-19 画椭圆</span></div>
+<div align="center"><span style="font-size:10px">图4-5-20 椭圆组合</span></div>
 ===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;③【删线】  删除内部多余的线条，如图4-5-21。
@@ -230,7 +230,7 @@
 <div align="center"><span style="font-size:10px">图4-5-28 cloudy成品</span></div>
 ===
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**3)制作“音乐”图层**
+**3)制作“音乐”图层**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在“音乐”图层添加一些声音效果，让动态文字在出现时配上打字的声音，这样会使课件更生动。
 
@@ -251,7 +251,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;②执行【插入】|【时间轴】|【帧】命令。
 (4)【保存并测试课件】  执行【控制】|【测试影片】命令（快捷键Ctrl+Enter），观察动画效果，如果满意，执行【文件】|【保存】命令，保存课件。
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**3.功能详解**
+###3.功能详解
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在前面的动画中，我们利用实例讲解了【对齐面板】中的上对齐功能，还讲解了【绘画纸】里的【绘图纸外观】按钮![](/assets/4-5-43.jpg)的使用方法。下面详细的讲解一下【绘画纸】的功能、【对齐面板】的应用，并给大家归纳总结创建逐帧动画的方法。
 
@@ -297,7 +297,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;【对齐面板】由排列对齐、分布对齐、匹配大小、间隔以及相对舞台同几部分组成：
 
-①排列对齐（水平排列和垂直排列）
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;①排列对齐（水平排列和垂直排列）:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A.水平排列![](/assets/4-5-36.jpg)：从左到右分边是水平方向的左对齐、左右居中对齐、右对齐。
 
