@@ -12,29 +12,29 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;图像素材的常用文件类型包括以下几种:
 
-**1.BMP 格式**
+###1.BMP 格式
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BMP(Bit Map Picture)格式是Windows 使用的基本图像格式，是一种位图格式文件，用一组数据(8--24 位)来表示一个像素的色彩。大多数图像软件都支持BMP 格式。BMP 格式文件的规模比较大。
 
-**2.PNG格式**
+###2.PNG格式
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;采用无损压缩编码，能获得较高的压缩比，文件尺寸较小，支持多种颜色深度。
 
-**3.JPG格式**
+###3.JPG格式
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;JPG（Joint Photographic Expert Group)格式也称JPEG 格式是一种十分流行的图像格式，它采用了JPG方法进行压缩，因此文件可以非常小，而且可以通过降低压缩比来获得较高质量的图像资料。但JPG格式是一种有损压缩，因此不适于存储珍贵的图像资料或原始素材。
 
-**4.TIFF格式**
+###4.TIFF格式
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;支持多种压缩方案、多种颜色深度、能提供专业级印刷质量的图像。
 
-**5.GIF 格式**
+###5.GIF 格式
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GIF(Graphics Interchange Format )格式是目前因特网上使用最普遍的图像文件格式之一，主要用于在不同平台上进行图像交流传输。GIF 格式文件的压缩比比较高，文件规模较小，但它仅能表达256 色图像。目前的GIF 格式文件还支持图像内的小型动画，它使得因特网上的网页显得生动活泼。
 
 ## 2.1.2 图像的获取与编辑
 
-**1.图像的获取 ** 
+###1.图像的获取
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;图像是多媒体课件中必不可少的素材，在课件制作中，除了自己绘制图像外，还可以使用屏幕捕捉软件、扫描仪等工具来获取现有的图像。 
  
@@ -71,7 +71,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;有许多专门的软件用于图像搜索，搜索到需要的图像资源后可以使用下载工具，如迅雷下载下来。或者直接在网页中下载即可。 
 
-**2.图像的编辑**  
+###2.图像的编辑  
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;通过上述手段获取了数字化图像以后，通常还需要对图像进行编辑或加工。图像编辑工具十分丰富，从Windows自带的“画笔”软件到功能十分强大的Photoshop软件都可选用。利用它们能完成基本的绘制图像功能，并具有对从外部文件输入的图像数据进行编辑修改的能力。 
  
