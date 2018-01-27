@@ -162,6 +162,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（2）在保存界面选择“自定义生成设置”，点击下一步。
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（3）选择保存的文件夹并设置视频名称，点击完成。
+
 <div align="center"><img src="/assets/5-2-16.png"></div>
 ===
 <div align="center"><span style="font-size:10px">图5-2-16 保存设置</span></div>
