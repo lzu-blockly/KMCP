@@ -26,9 +26,11 @@
 <div align="center"><span style="font-size:10px">图4-6-1 圆的绘制</span></div>
 ===
 
+
 <div align="center"><img src="/assets/4-6-2.png"></div>
 <div align="center"><span style="font-size:10px">图4-6-2 正方形的绘制</span></div>
 ===
+
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（4）右击1-30帧的任意帧，在弹出的快捷菜单中选择【创建补间形状】命令，创建形状补间动画。如图4-6-3所示。
 
@@ -38,9 +40,11 @@
 <div align="center"><span style="font-size:10px">图4-6-3 创建补间动画</span></div>
 ===
 
+
 <div align="center"><img src="/assets/4-6-4.png"></div>
 <div align="center"><span style="font-size:10px">图4-6-4 运行效果</span></div>
 ===
+
 
 ###2．实例：内吞
 
@@ -60,9 +64,11 @@
 <div align="center"><span style="font-size:10px">图4-6-5 绘制一个圆形</span></div>
 ===
 
+
 <div align="center"><img src="/assets/4-6-6.png"></div>
 <div align="center"><span style="font-size:10px">图4-6-6 绘制矩形</span></div>
 ===
+
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;此时“图标”影片剪辑元件的图层结构和场景效果如图4-6-7所示。
 
@@ -76,9 +82,11 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;②锁定“圆形”图层，选中“变形”图层的第25帧，按F6键插入关键帧。接着选中“变形”图层的第10帧，按【F7】键插入空白关键帧，如图4-6-9所示。
 
+
 <div align="center"><img src="/assets/4-6-8.png"></div>
 <div align="center"><span style="font-size:10px">图4-6-8 图层结构</span></div>
 ===
+
 
 <div align="center"><img src="/assets/4-6-9.png"></div>
 <div align="center"><span style="font-size:10px">图4-6-9 第10帧插入空白关键帧</span></div>
