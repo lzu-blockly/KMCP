@@ -18,7 +18,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;【主工具栏】，如果你的界面没有这个工具栏，点击主菜单栏上的“窗口”下的“工具栏”就可以显示了，或者直接“ctrl+F2”也可以打开。表4-1-1是 Flash中工具栏面板部分工具的功能对照。
 
-<div align="center"><span style="font-size:10px">图表4-1-1  Flash主工具栏部分工具功能对照表</span></div>
+<div align="center"><span style="font-size:10px">表4-1-1  Flash主工具栏部分工具功能对照表</span></div>
 ===
 
 | 【图标】常用工具名称 | 功能 |
