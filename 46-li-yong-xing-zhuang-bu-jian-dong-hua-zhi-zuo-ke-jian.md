@@ -53,3 +53,55 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;①新建一个名称为“图标”的影片剪辑元件，在这个元件的编辑场景中，将“图层1” 重命名为“圆形”运用绘图工具 (虚线边框没有填充)，如图4-6-5所示。
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;②新建一个图层，重命名为“变形”在此图层中，调整方向如图4-6-6所示。
+
+<div align="center"><img src="/assets/4-6-5.png"></div>
+<div align="center"><span style="font-size:10px">图4-6-5 绘制一个圆形</span></div>
+===
+<div align="center"><img src="/assets/4-6-6.png"></div>
+<div align="center"><span style="font-size:10px">图4-6-6 绘制矩形</span></div>
+===
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;此时“图标”影片剪辑元件的图层结构和场景效果如图4-6-7所示。
+
+<div align="center"><img src="/assets/4-6-7.png"></div>
+<div align="center"><span style="font-size:10px">图4-6-7 图层结构和场景效果</span></div>
+===
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（4）为“图标”影片剪辑元件添加动画帧
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;①同时选中两个图层的第30帧，按【F5】键，在第30帧插入帧，此时的图层结构如图4-6-8所示。
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;②锁定“圆形”图层，选中“变形”图层的第25帧，按F6键插入关键帧。接着选中“变形”图层的第10帧，按【F7】键插入空白关键帧，如图4-6-9所示。
+
+<div align="center"><img src="/assets/4-6-8.png"></div>
+<div align="center"><span style="font-size:10px">图4-6-8 图层结构</span></div>
+===
+<div align="center"><img src="/assets/4-6-9.png"></div>
+<div align="center"><span style="font-size:10px">图4-6-9 第10帧插入空白关键帧</span></div>
+===
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;③在“变形”图层的第10帧上绘制一个三角形。右击第15帧，在弹出的快捷菜单中选择【插入关键帧】命令插入关键帧，此时的图层结构如图4-6-10所示。
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（5）定义形状补间动画
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;①选中“变形”图层的第1帧，击右键选择【创建补间形状】，“变形”图层的第1-10帧间出现了一条带箭头的实线，并且帧格变为绿色，说明己经实现了“变形”图层第1-10帧的形状补间动画。使用同样的方法在第15-25帧创建形状补间动画，如图4-6-11所示。此时图层结构，拖动播放头或按【Enter】键就能看到形状补间动画的效果了。
+
+<div align="center"><img src="/assets/4-6-11.png"></div>
+<div align="center"><span style="font-size:10px">图4-6-10 图层结构</span></div>
+===
+<div align="center"><img src="/assets/4-6-12.png"></div>
+<div align="center"><span style="font-size:10px">图4-6-11 创建形状补间动画</span></div>
+===
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（6）添加形状提示
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;①选中“变形”图层的第1帧，选择【修改】 →【形状】→【 添加形状提示】命令，该帧的矩形上增加了一个带字母的红色圆圈，同样设置第10帧。 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;②拖动开始帧和结束帧上的形状提示圆圈，在形状边缘的适当位置放置，可看到开始帧上的“提示圆圈”变为黄色，结束帧上的“提示圆圈”变为绿色，如图4-6-12和图4-6-13所示。
+
+<div align="center"><img src="/assets/4-6-13.png"></div>
+<div align="center"><span style="font-size:10px">图4-6-12</span></div>
+===
+<div align="center"><img src="/assets/4-6-14.png"></div>
+<div align="center"><span style="font-size:10px">图4-6-13</span></div>
+===
