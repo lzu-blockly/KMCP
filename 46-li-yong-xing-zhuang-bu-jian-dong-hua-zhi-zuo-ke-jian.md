@@ -24,3 +24,9 @@ F1ash中的补间动画有两种：一种是形状补间动画，另一种是动
 
 <div align="center"><img src="/assets/4-6-1.png"></div>
 <div align="center"><span style="font-size:10px">图4-6-1 圆的绘制</span></div>
+<div align="center"><img src="/assets/4-6-2.png"></div>
+<div align="center"><span style="font-size:10px">图4-6-2 正方形的绘制</span></div>
+
+（4）右击1-30帧的任意帧，在弹出的快捷菜单中选择【创建补间形状】命令，创建形状补间动画。如图4-6-3所示。
+
+（5）这样一个从圆形到正方形的形状补间动画就完成了，效果如图4-6-4所示。
