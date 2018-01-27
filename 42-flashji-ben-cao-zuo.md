@@ -19,12 +19,18 @@
 <div align="center"><img src="/assets/4-2-2.png"></div>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**3.重命名图层：**双击想要重命名的图层进行修改。（如图4-2-3）
+
+<div align="center"><img src="/assets/4-2-3.png"></div>
  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**4.移动图层：**选中并拖动图层即可。
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**5.锁定图层：**选中要锁定的图层，单击后方的锁定按钮。图层被锁定后，舞台上位于该图层中的对象也被锁定，无法被选中，也无法进行移动和编辑。要解除锁定，单击图层名后的图层按钮即可。（如图4-2-4）
+
+<div align="center"><img src="/assets/4-2-4.png"></div>
  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**6.隐藏图层：**选中要隐藏的图层，单击后方的隐藏/显示按钮。图层被隐藏后，舞台上位于该图层中的对象被隐藏起来，要显示该图层内容，只需要单击此图层的【×】按钮即可。（如图4-2-5）
+
+<div align="center"><img src="/assets/4-2-5.png"></div>
  
 ##4.2.2 帧
 
@@ -36,7 +42,11 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.普通帧：普通帧也称为静态帧，用于延长前面一帧的状态，在关键帧后面的普通帧为灰色，在空白关键帧后的普通帧为白色。
 
+<div align="center"><img src="/assets/4-2-6.png"></div>
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.过渡帧：在两个关键帧之间，Flash自动完成渐变过渡画面的帧叫做过渡帧。Flash可处理两种类型的渐变：运动渐变和形状渐变。形状过渡帧（浅绿色）运动过渡帧（蓝紫色）如图4-2-7）。
+
+<div align="center"><img src="/assets/4-2-7.png"></div>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5.插入帧：F6插入关键帧，F5插入普通帧。
 
@@ -57,3 +67,5 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.编辑元件：在场景或库中双击【元件】，进入编辑界面。
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.实例：创建好的元件可以从【库】面板中看到，使用时可以打开【库】面板，再将其拖入场景，拖入场景中的元件对象称为实例。
+
+<div align="center"><img src="/assets/4-2-8.png"></div>
