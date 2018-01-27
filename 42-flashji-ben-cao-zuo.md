@@ -67,5 +67,5 @@
 <div align="center"><img src="/assets/4-2-8.png"></div>
 
 <div align="center"><iframe frameborder="0" width="640" height="498" src="https://v.qq.com/iframe/player.html?vid=b0534p11xwp&tiny=0&auto=0" allowfullscreen></iframe></div>
-<div align="center"><span style="font-size:10px">教学微视频</span></div>
+<div align="center"><span style="font-size:20px">教学微视频</span></div>
 ===
