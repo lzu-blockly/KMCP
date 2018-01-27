@@ -1,5 +1,9 @@
 #4.2 Flash基本操作
 
+<div align="center"><iframe frameborder="0" width="640" height="498" src="https://v.qq.com/iframe/player.html?vid=b0534p11xwp&tiny=0&auto=0" allowfullscreen></iframe></div>
+<div align="center"><span style="font-size:20px">教学微视频</span></div>
+===
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在使用Flash制作课件的过程中，需要经常对图层、帧、元件和场景等进行操作，因此掌握这些概念和基本操作方法是制作Flash课件的基础。
 
 ##4.2.1图层
@@ -75,7 +79,3 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**3.复制场景：**单击场景窗口的左下角的【复制】按钮。
 
 <div align="center"><img src="/assets/4-2-8.png"></div>
-
-<div align="center"><iframe frameborder="0" width="640" height="498" src="https://v.qq.com/iframe/player.html?vid=b0534p11xwp&tiny=0&auto=0" allowfullscreen></iframe></div>
-<div align="center"><span style="font-size:20px">教学微视频</span></div>
-===
