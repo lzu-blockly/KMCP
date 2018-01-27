@@ -44,8 +44,6 @@
 <div align="center"><span style="font-size:10px">图3-5-4 添加“擦除”效果</span></div>
 ===
 
-**图3-5-4 进入“动画窗格”**
-
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（5）右键单击窗格中的动画，如图3-5-5，在“效果选项”中可以对动画的声音，动画方向进行设置。如果是给大批的文字设置动画，则可以在“动画文本”一栏中设置文字是一个字一个字出现还是整批文字同时出现。
 
 <div align="center"><img src="/assets/3-5-5.png"></div>
