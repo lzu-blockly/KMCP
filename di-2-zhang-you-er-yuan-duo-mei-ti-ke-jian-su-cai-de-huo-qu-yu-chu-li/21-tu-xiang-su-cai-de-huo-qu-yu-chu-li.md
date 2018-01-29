@@ -44,10 +44,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;除了借助屏幕捕捉的软件，我们还可以利用键盘上的快捷键直接截取图像，键盘如图2-1-1（适用于使用台式键盘的电脑，而笔记本快捷键是：FN + Prtsc）。
 
-<div align="center"><img src="/assets/2-1-1.png"></div>
+<div align="center"><img src="/assets/2-1-1.png"><p style="text-align:center; font-size:10px; margin-top:2px">图2-1-1 键盘</p></div>
 ===
-<div align="center"><span style="font-size:10px">图2-1-1 键盘</span></div>
-=== 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;① Print Screen功能键，直接按下即可捕捉电脑屏幕图像，截图我们所看到的显示器显示的所有界面。  
 
@@ -77,10 +75,8 @@
  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Adobe公司开发的Photoshop集位图和矢量图绘画、图像编辑、网页图像设计、网页动画制作、网页制作等多种功能于一体，是多媒体课件制作中不可缺少的图像素材编辑软件，Photoshop的主界面如图2-1-2所示。
 
-<div align="center"><img src="/assets/2-1-2.png"></div>
+<div align="center"><img src="/assets/2-1-2.png"><p style="text-align:center; font-size:10px; margin-top:2px">图2-1-2 Photoshop软件的主界面</p></div>
 ===
-<div align="center"><span style="font-size:10px">图2-1-2 Photoshop软件的主界面</span></div>
-=== 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Photoshop的主要功能可分为图像编辑、图像合成、校色调色及特效制作等。  
 
@@ -88,36 +84,26 @@
  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;图像合成则是将几幅图像通过图层操作、工具应用形成完整的、意义明确的图像。Photoshop提供的绘图工具让图像可以很好地融合起来，使图像合成得天衣无缝。如图2-1-3所示，在Photoshop中打开图2-1-3、图2-1-4两张图像。
 
-<div align="center"><img src="/assets/2-1-3.png"></div>
+<div align="center"><img src="/assets/2-1-3.png"><p style="text-align:center; font-size:10px; margin-top:2px">图2-1-3 待合成图窗口</p></div>
 ===
-<div align="center"><span style="font-size:10px">图2-1-3 待合成图窗口</span></div>
-=== 
 
-<div align="center"><img src="/assets/2-1-4.png"></div>
+<div align="center"><img src="/assets/2-1-4.png"><p style="text-align:center; font-size:10px; margin-top:2px">图2-1-4 待合成图企鹅</p></div>
 ===
-<div align="center"><span style="font-size:10px">图2-1-4 待合成图企鹅</span></div>
-=== 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;首先利用【选框工具】/【套索工具】在图2-1-3做出一个矩形选框，打开图2-1-4，按下【Ctrl+  A】全选图像→【Ctrl+ C】，打开图2-1-3点击菜单栏【编辑】→【选择性粘贴】→【贴入】将两图合成一张图，接着利用【移动工具】调整图像的位置。合成效果如图2-1-5所示
 
-<div align="center"><img src="/assets/2-1-5.png"></div>
+<div align="center"><img src="/assets/2-1-5.png"><p style="text-align:center; font-size:10px; margin-top:2px">图2-1-5 图像合成</p></div>
 ===
-<div align="center"><span style="font-size:10px">图2-1-5 图像合成</span></div>
-=== 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;色彩调色是Photoshop中深具威力的功能之一，利用它可以方便快捷地对图像的颜色进行明暗、色彩的调整和校正，也可以切换颜色以满足图像在不同多媒体作品中的应用。
+
 <div align="center"><img src="/assets/2-1-6.png"></div>
-===
-<div align="center"><img src="/assets/2-1-7.png"></div>
-===
-<div align="center"><span style="font-size:10px">图2-1-6 处理前的图像</span></div>
+<div align="center"><img src="/assets/2-1-7.png"><p style="text-align:center; font-size:10px; margin-top:2px">图2-1-6 处理前的图</p></div>
 ===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;如图2-1-6处理前的图像所示，其利用了Photoshop对曝光不足的图像进行处理：菜单栏中【图像】→【调整】→【色阶】，此时调整色阶中的白场即可。反之，对于曝光过度的图像，调整色阶中的黑场、白场。下图2-1-7为处理后的图像。
 
-<div align="center"><img src="/assets/2-1-8.png"></div>
-===
-<div align="center"><span style="font-size:10px">图2-1-7 处理后的图像</span></div>
+<div align="center"><img src="/assets/2-1-8.png"><p style="text-align:center; font-size:10px; margin-top:2px">图2-1-7 处理后的图像</p></div>
 ===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;特效制作在Photoshop中主要由滤镜、通道及工具综合应用完成，包括图像的特效创意和特效字的制作，如油画、浮雕、石膏画、素描等常用的传统美术技巧可通过Photoshop特效完成。
