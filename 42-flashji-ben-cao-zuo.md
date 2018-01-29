@@ -12,3 +12,4 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.添加图层：打开时间轴窗口-单击左下角的新建按钮。（如图4-2-1）
 
 <div align="center"><img src="/assets/4-2-1.png"></div>
+===
