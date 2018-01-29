@@ -28,9 +28,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;除此之外，还可以利用动画制作软件自己动手设计制作所需要的动画素材。现在制作多媒体动画的工具有很多，如Cool 3D、Premiere、3D MAX、GIF Animator以及最为常见的Flash等。在本书第4章会重点介绍如何使用Flash软件制作动画素材。
 
-<div align="center"><img src="/assets/2-3-1.png"></div>
-===
-<div align="center"><span style="font-size:10px">图2-3-1  Flash操作界面</span></div>
+<div align="center"><img src="/assets/2-3-1.png"><span style="font-size:10px; margin-top:10px; text-align:center">图2-3-1  Flash操作界面</span></div>
 ===
 
 ##2.3.3动画素材的制作要求
