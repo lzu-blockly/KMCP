@@ -41,8 +41,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;【舞台】，舞台是放置动画内容的矩形区域（默认背景是白色），这些内容可以是矢量图形、文本、按钮、导入的位图或视频等，如图4-1-2所示：
 
-<div align="center"><img src="/assets/4-1-2.png"></div>
-<div align="center"><span style="font-size:10px">图4-1-2 Flash舞台</span></div>
+<div align="center"><img src="/assets/4-1-2.png"><p style="text-align:center; font-size:10px; margin-top:2px">图4-1-2 Flash舞台</p></div>
 ===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;窗口中的矩形区域为【舞台】，默认情况下它是白色背景，将来导出的动画只显示矩形舞台区域内的对象，舞台外灰色区域的对象不会显示出来。也就是说，动画【演员】必须在舞台上演出才能被观众看到。  
@@ -64,8 +63,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（2）展开【属性】面板，单击【大小】右边的【文档属性】按钮，弹出【文档属性】对话框，设置舞台尺寸和背景颜色，其它的可以根据需要设置，如图4-1-4所示：
 
 <div align="center"><img src="/assets/4-1-4.png"></div>
-<div align="center"><img src="/assets/4-1-5.png"></div>
-<div align="center"><span style="font-size:10px">图4-1-4 文档新建</span></div>
+<div align="center"><img src="/assets/4-1-5.png"><p style="text-align:center; font-size:10px; margin-top:2px">图4-1-4 文档新建</p></div>
 ===
 
 ### 2.文档的保存和打开
@@ -75,40 +73,34 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（1）保存文档：选择“文件”→“保存”命令，打开“另存为”对话框，选择所要保存到的位置，填好文件名，如图4-1-5所示，单击“确定”。
 
 <div align="center"><img src="/assets/4-1-6.png"></div>
-<div align="center"><img src="/assets/4-1-7.png"></div>
-<div align="center"><span style="font-size:10px">图4-1-5文档保存</span></div>
+<div align="center"><img src="/assets/4-1-7.png"><p style="text-align:center; font-size:10px; margin-top:2px">图4-1-5文档保存</p></div>
 ===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（2）打开文档：选择“文件”→“打开”命令，弹出“打开”对话框，单击选择想要打开的文档，如图4-1-6所示，单击“打开”。
 
 <div align="center"><img src="/assets/4-1-8.png"></div>
-<div align="center"><img src="/assets/4-1-9.png"></div>
-<div align="center"><span style="font-size:10px">图4-1-6文档打开</span></div>
+<div align="center"><img src="/assets/4-1-9.png"><p style="text-align:center; font-size:10px; margin-top:2px">图4-1-6文档打开</p></div>
 ===
 
 ### 3.导出课件
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（1）测试文件：选择“控制”→“测试影片”命令，测试课件，如图4-1-7所示。也可以使用快捷键shift+Enter键进行测试。
 
-<div align="center"><img src="/assets/4-1-10.png"></div>
-<div align="center"><span style="font-size:10px">图4-1-7 课件测试</span></div>
+<div align="center"><img src="/assets/4-1-10.png"><p style="text-align:center; font-size:10px; margin-top:2px">图4-1-7 课件测试</p></div>
 ===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（2）发布影片：选择“文件”→“发布设置”命令，弹出“发布设置”对话框，如图4-1-8所示，设置发布属性并单击“确定”发布文件。
 
 <div align="center"><img src="/assets/4-1-11.png"></div>
-<div align="center"><img src="/assets/4-1-12.png"></div>
-<div align="center"><span style="font-size:10px">图4-1-8 文档发布</span></div>
+<div align="center"><img src="/assets/4-1-12.png"><p style="text-align:center; font-size:10px; margin-top:2px">图4-1-8 文档发布</p></div>
 ===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（3）导出影片：选择“文件”→“导出”→“导出影片”命令，弹出“导出”对话框，如图4-1-9所示，设置导出位置和影片名并单击“确定”导出影片。
 
-<div align="center"><img src="/assets/4-1-13.png"></div>
-<div align="center"><span style="font-size:10px">图4-1-9 课件导出</span></div>
+<div align="center"><img src="/assets/4-1-13.png"><p style="text-align:center; font-size:10px; margin-top:2px">图4-1-9 课件导出</p></div>
 ===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（4）Flash文档经过测试或导出影片后会生成swf格式的动画文件，该文件可以脱离Flash工作环境使用播放器进行播放，文件图标如图4-1-10所示。
 
-<div align="center"><img src="/assets/4-1-14.png"></div>
-<div align="center"><span style="font-size:10px">图4-1-10 文档图标</span></div>
+<div align="center"><img src="/assets/4-1-14.png"><p style="text-align:center; font-size:10px; margin-top:2px">图4-1-10 文档图标</p></div>
 ===
