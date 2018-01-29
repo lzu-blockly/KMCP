@@ -6,8 +6,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;运行Flash,首先映入眼帘的是“开始页”，“开始页”将常用的任务都集中放在一个页面中，包括【最近打开的项目】、【新建】、【从模板创建】、【扩展】以及对官方资源的快速访问等，如图4-1-1所示：
 
-<div align="center"><img src="/assets/4-1-1.jpg"></div>
-<div align="center"><span style="font-size:10px">图4-1-1  Flash开始页</span></div>
+<div align="center"><img src="/assets/4-1-1.jpg"><p style="text-align:center; font-size:10px; margin-top:2px">图4-1-1  Flash开始页</p></div>
 ===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;如果要隐藏开始页，可以单机选中【不再提示】复选框，然后在弹出的对话框中单击【确定】按钮，如果要再次显示开始页，可以通过选择【编辑】\|【首选参数】命令，打开【首选参数】对话框，然后在【常规】类别中设置【启动时】选项为【欢迎屏幕】即可。
