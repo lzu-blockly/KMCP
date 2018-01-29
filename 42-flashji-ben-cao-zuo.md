@@ -6,3 +6,9 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在使用Flash制作课件的过程中，需要经常对图层、帧、元件和场景等进行操作，因此掌握这些概念和基本操作方法是制作Flash课件的基础。
 
 ##4.2.1图层
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;图层是【时间轴】面板上重要的组成部分，通过图层可以制作结构复杂的课件。在制作的过程中，可以根据需要对图层进行新建、重命名、删除、锁定和隐藏等操作。
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.添加图层：打开时间轴窗口-单击左下角的新建按钮。（如图4-2-1）
+
+<div align="center"><img src="/assets/4-2-1.png"></div>
