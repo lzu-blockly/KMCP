@@ -41,8 +41,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;本例对应大班（上）《健康》第六节保护鼻子。课件运行界面如图4-9-1所示，该课件向大家演示保护鼻子的方法。
 
 <div align="center"><img src="/assets/4-8-1.png"></div>
-<div align="center"><img src="/assets/4-8-2.png"></div>
-<div align="center"><span style="font-size:10px">图4-9-1  “保护鼻子”遮罩效果图</span></div>
+<div align="center"><img src="/assets/4-8-2.png"><p style="text-align:center; font-size:10px; margin-top:2px">图4-9-1  “保护鼻子”遮罩效果图</p></div>
 ===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在课件半成品的基础上，添加图层，绘制填充色为蓝色的椭圆形，最后将椭圆制作为遮罩层，这时的圆就像是一个透明的窗口，从中可以看到下面被遮罩的动画。
@@ -53,81 +52,55 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2.拖动元件**   按图4-9-2所示操作，将“库”面板中的元件“地图”拖到舞台中。
 
-<div align="center"><img src="/assets/4-8-3.png"></div>
-===
-<div align="center"><span style="font-size:10px">图4-9-2   拖动元件到舞台</span></div>
+<div align="center"><img src="/assets/4-8-3.png"><p style="text-align:center; font-size:10px; margin-top:2px">图4-9-2   拖动元件到舞台</p></div>
 ===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**3.将元件对齐舞台**   如图4-9-3所示，在对齐面板上依次点击“匹配宽度”和“匹配高度”，将元件与舞台对齐。
 
-<div align="center"><img src="/assets/4-8-4.png"></div>
-===
-<div align="center"><span style="font-size:10px">图4-9-3-1   匹配大小</span></div>
+<div align="center"><img src="/assets/4-8-4.png"><p style="text-align:center; font-size:10px; margin-top:2px">图4-9-3-1   匹配大小</p></div>
 ===
 
-<div align="center"><img src="/assets/4-8-5.png"></div>
-===
-<div align="center"><span style="font-size:10px">图4-9-3-2   将元件和舞台对齐</span></div>
+<div align="center"><img src="/assets/4-8-5.png"><p style="text-align:center; font-size:10px; margin-top:2px">图4-9-3-2   将元件和舞台对齐</p></div>
 ===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**4.添加图层**  在“图层1”的上方添加一个新图层，命名为“遮罩层”。并在两个图层的100帧处插入帧。如图4-8-4所示。
 
-<div align="center"><img src="/assets/4-8-6.png"></div>
-===
-<div align="center"><span style="font-size:10px">图4-9-4   添加图层</span></div>
+<div align="center"><img src="/assets/4-8-6.png"><p style="text-align:center; font-size:10px; margin-top:2px">图4-9-4   添加图层</p></div>
 ===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**5.制作遮罩元件** 在库单击右键里新建一个名为“遮罩”的元件，并以蓝色为填充色，运用椭圆工具在其上画一个椭圆。如图4-9-5所示。
 
-<div align="center"><img src="/assets/4-8-7.png"></div>
-===
-<div align="center"><span style="font-size:10px">图4-9-5  创建遮罩元件</span></div>
+<div align="center"><img src="/assets/4-8-7.png"><p style="text-align:center; font-size:10px; margin-top:2px">图4-9-5  创建遮罩元件</p></div>
 ===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**6.制作遮罩**  如图4-9-6所示，将“图层1”上锁，把名为“遮罩”的元件，拖到舞台上。利用任意变形工具，把蓝色的椭圆大小调整与例中黄色椭圆一致。
 
 <div align="center"><img src="/assets/4-8-8.png"></div>
-===
-<div align="center"><img src="/assets/4-8-9.png"></div>
-===
-<div align="center"><span style="font-size:10px">图4-9-6  制作遮罩</span></div>
+<div align="center"><img src="/assets/4-8-9.png"><p style="text-align:center; font-size:10px; margin-top:2px">图4-9-6  制作遮罩</p></div>
 ===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**7.制作动画**  在第10帧处插入一个关键帧（如图4-9-7-1），在第30帧处插入一个关键帧，将椭圆移到第一个tip上并用任意变形工具调整椭圆大小，使它能刚好覆盖其内容（如图4-9-7-2）。在第50帧处插入一个关键帧，将椭圆移到第二个tip上（如图4-9-7-3）。在第70帧处插入一个关键帧，将椭圆移到第四个tip上（如图4-9-7-4）。在第90帧处插入一个关键帧，将椭圆移到第三个tip上（如图4-9-7-5）。
 
-<div align="center"><img src="/assets/4-8-10.png"></div>
+<div align="center"><img src="/assets/4-8-10.png"><p style="text-align:center; font-size:10px; margin-top:2px">图4-9-7-1  添加关键帧</p></div>
 ===
-<div align="center"><span style="font-size:10px">图4-9-7-1  添加关键帧</span></div>
+
+<div align="center"><img src="/assets/4-8-11.png"><p style="text-align:center; font-size:10px; margin-top:2px">图4-9-7—2  调整遮罩层</p></div>
 ===
-<div align="center"><img src="/assets/4-8-11.png"></div>
+
+<div align="center"><img src="/assets/4-8-12.png"><p style="text-align:center; font-size:10px; margin-top:2px">图4-9-7—3  移动遮罩层至</p></div>
 ===
-<div align="center"><span style="font-size:10px">图4-9-7—2  调整遮罩层</span></div>
+
+<div align="center"><img src="/assets/4-8-13.png"><p style="text-align:center; font-size:10px; margin-top:2px">图4-9-7—4 移动遮罩层至</p></div>
 ===
-<div align="center"><img src="/assets/4-8-12.png"></div>
-===
-<div align="center"><span style="font-size:10px">图4-9-7—3  移动遮罩层至（2）</span></div>
-===
-<div align="center"><img src="/assets/4-8-13.png"></div>
-===
-<div align="center"><span style="font-size:10px">图4-9-7—4 移动遮罩层至（4）</span></div>
-===
-<div align="center"><img src="/assets/4-8-14.png"></div>
-===
-<div align="center"><span style="font-size:10px">图4-9-7—5  移动遮罩层至（5）</span></div>
+
+<div align="center"><img src="/assets/4-8-14.png"><p style="text-align:center; font-size:10px; margin-top:2px">图4-9-7—5  移动遮罩层至</p></div>
 ===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**8.制作补间动画**  在“遮罩层”的每个关键帧之间，单击右键添加传统补间。如图4-9-8所示。
 
-<div align="center"><img src="/assets/4-8-15.png"></div>
-===
-<div align="center"><span style="font-size:10px">图4-9-8  创建传统补间动画</span></div>
+<div align="center"><img src="/assets/4-8-15.png"><p style="text-align:center; font-size:10px; margin-top:2px">图4-9-8  创建传统补间动画</p></div>
 ===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**9.设置遮罩层**  右键单击“遮罩层”图层，选择添加遮罩层。
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**10.测试动画**   选择“控制”→“测试影片”命令（或按Ctrl+Enter键），预览效果，并保存课件。
-
-
-
-
-
