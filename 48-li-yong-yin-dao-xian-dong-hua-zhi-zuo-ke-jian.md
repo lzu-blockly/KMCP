@@ -8,16 +8,12 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;运动引导层动画是指对象沿着某种特定的轨迹进行运动的动画，特定的轨迹也被称为固定路径或引导线。作为动画的一种特殊类型，运动引导层的制作需要至少使用两个图层，一个是用于绘制特定路径的运动引导层，另一个是用于存放运动对象的图层（如图4-8-1），在最终生成的动画中，运动引导层的引导线不会显现出来。
 
-<div align="center"><img src="/assets/4-9-1.png"></div>
-===
-<div align="center"><span style="font-size:10px">图4-8-1 单个被引导层（对象图层）</span></div>
+<div align="center"><img src="/assets/4-9-1.png"><p style="text-align:center; font-size:10px; margin-top:2px">图4-8-1 单个被引导层（对象图层）</p></div>
 ===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;运动引导层就是绘制对象运动路径的图层，通过此图层中的运动路径，可以引导被引导层中的对象沿着绘制的路径运动。在时间轴面板中，一个运动引导层下可以有多个图层（如图4-8-2），也就是多个对象可以沿同一条路径同时运动，此时运动引导层下方的各个图层也就成为被引导图层。
 
-<div align="center"><img src="/assets/4-9-2.png"></div>
-===
-<div align="center"><span style="font-size:10px">图4-8-2 多个被引导层（对象图层）</span></div>
+<div align="center"><img src="/assets/4-9-2.png"><p style="text-align:center; font-size:10px; margin-top:2px">图4-8-2 多个被引导层（对象图层）</p></div>
 ===
 
 ##2.创建引导线动画
@@ -28,16 +24,12 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(2)鼠标右键单击该图层，从弹出的【菜单】中选择【添加传统引导层】命令，即可在所选图层上面创建一个运动引导层（此时，创建的引导层前面会出现一个图标![](/assets/4-9-3.png)），并且将原来所选图层设为引导层，如图4-8-3所示。
 
-<div align="center"><img src="/assets/4-9-4.png"></div>
-===
-<div align="center"><span style="font-size:10px">图4-8-3 创建传统引导层</span></div>
+<div align="center"><img src="/assets/4-9-4.png"><p style="text-align:center; font-size:10px; margin-top:2px">图4-8-3 创建传统引导层</p></div>
 ===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(3)在引导层中绘制一条直线（或者曲线），来指定运动的路径，如图图4-8-4所示。
 
-<div align="center"><img src="/assets/4-9-5.png"></div>
-===
-<div align="center"><span style="font-size:10px">图4-8-4  在引导层绘制直线</span></div>
+<div align="center"><img src="/assets/4-9-5.png"><p style="text-align:center; font-size:10px; margin-top:2px">图4-8-4  在引导层绘制直线</p></div>
 ===
 
 **注意：一个引导层可以引导多个被引导层。**
@@ -46,53 +38,39 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(5)在被引导层制作一个【传统补间动画】，如图4-8-5所示。
 
-<div align="center"><img src="/assets/4-9-6.png"></div>
-===
-<div align="center"><span style="font-size:10px">图4-8-5 导入素材</span></div>
+<div align="center"><img src="/assets/4-9-6.png"><p style="text-align:center; font-size:10px; margin-top:2px">图4-8-5 导入素材</p></div>
 ===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(6)鼠标左键单击传统补间动画补间线，在【属性】面板里勾选【补间】栏里面的【调整到路径】，如图4-8-6所示。
 
-<div align="center"><img src="/assets/4-9-7.png"></div>
-===
-<div align="center"><span style="font-size:10px">图4-8-6 调整到路径</span></div>
+<div align="center"><img src="/assets/4-9-7.png"><p style="text-align:center; font-size:10px; margin-top:2px">图4-8-6 调整到路径</p></div>
 ===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(7)在引导层的时间轴上与被引导层末尾帧一样的位置，按【F5】延长引导层的时间帧数到与被引导层一样，如图4-8-7所示（或者在添加传统运动引导层之前先创建传统补间，后续就不用延长帧数）。
 
-<div align="center"><img src="/assets/4-9-8.png"></div>
-===
-<div align="center"><span style="font-size:10px">图4-8-7 延长引导层帧数</span></div>
+<div align="center"><img src="/assets/4-9-8.png"><p style="text-align:center; font-size:10px; margin-top:2px">图4-8-7 延长引导层帧数</p></div>
 ===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(8) 调整补间动画的第一帧中素材的位置，使素材的中心点在引导线上你需要的位置（这里以端点为例），如图4-8-8所示。
 
-<div align="center"><img src="/assets/4-9-9.png"></div>
-===
-<div align="center"><span style="font-size:10px">图4-8-8 调整补间动画第一帧位置</span></div>
+<div align="center"><img src="/assets/4-9-9.png"><p style="text-align:center; font-size:10px; margin-top:2px">图4-8-8 调整补间动画第一帧位置</p></div>
 ===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(9) 调整最后一帧素材的位置，同样使素材的中心点在引到线上你需要的位置（这里以端点为例），如图4-8-9所示。
 
-<div align="center"><img src="/assets/4-9-10.png"></div>
-===
-<div align="center"><span style="font-size:10px">图4-8-9 调整素材最后一帧位置</span></div>
+<div align="center"><img src="/assets/4-9-10.png"><p style="text-align:center; font-size:10px; margin-top:2px">图4-8-9 调整素材最后一帧位置</p></div>
 ===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(10) 同时按住【Ctrl+enter】键播放。
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(11) 那曲线的引导线该怎样做呢？首先，跟方法（1）～（7）步骤一样，只是将（3）中的直线改为曲线（这里以圆为例子），如图4-8-10所示。
 
-<div align="center"><img src="/assets/4-9-11.png"></div>
-===
-<div align="center"><span style="font-size:10px">图4-8-10 画圆形引导线</span></div>
+<div align="center"><img src="/assets/4-9-11.png"><p style="text-align:center; font-size:10px; margin-top:2px">图4-8-10 画圆形引导线</p></div>
 ===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(12) 跟（8）步骤一样，调整补间动画的第一帧中素材的位置，使素材的中心点在引导线上你所想要的位置，如图4-8-11所示。
 
-<div align="center"><img src="/assets/4-9-12.png"></div>
-===
-<div align="center"><span style="font-size:10px">图4-8-11 调整素材第一帧位置</span></div>
+<div align="center"><img src="/assets/4-9-12.png"><p style="text-align:center; font-size:10px; margin-top:2px">图4-8-11 调整素材第一帧位置</p></div>
 ===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(13) 注意：曲线会改变方向，如果跟直线一样的做法，效果会很呆、不符合事实。因此，我们在圆形的上下左右分别调整位置和方向（或者更精细）（注意中心点要在引到线上），如图4-8-13所示。
@@ -100,16 +78,9 @@
 ===
 <div align="center"><img src="/assets/4-9-14.png"></div>
 ===
-<div align="center"><img src="/assets/4-9-15.png"></div>
-===
-<div align="center"><span style="font-size:10px">图4-8-13调整素材在上下左位置时的位置</span></div>
+<div align="center"><img src="/assets/4-9-15.png"><p style="text-align:center; font-size:10px; margin-top:2px">图4-8-13调整素材在上下左位置时的位置</p></div>
 ===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(14) 效果预览。
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(15) 调整细节，效果满意后【保存文件】。
-
-
-
-
-
