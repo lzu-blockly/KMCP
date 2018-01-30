@@ -14,21 +14,15 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;课件“种子的传播”是幼儿园大班《科学》（上）的内容，本实例置换了课本图片，通过介绍在第1张幻灯片使用动作交互制作导航菜单的方法，达到单击各菜单按钮时链接到课件内相应位置幻灯片的效果，如单击首页“自体传播”菜单按钮链接到第3张幻灯片。效果图如图3-6-1和3-6-2所示。
 
-<div align="center"><img src="/assets/3-6-1.png"></div>
-===
-<div align="center"><span style="font-size:10px">图3-6-1 效果图(1)</span></div>
+<div align="center"><img src="/assets/3-6-1.png"><p style="text-align:center; font-size:10px; margin-top:2px">图3-6-1 效果图(1)</p></div>
 ===
 
-<div align="center"><img src="/assets/3-6-2.png"></div>
-===
-<div align="center"><span style="font-size:10px">图3-6-2效果图(2)</span></div>
+<div align="center"><img src="/assets/3-6-2.png"><p style="text-align:center; font-size:10px; margin-top:2px">图3-6-2效果图(2)</p></div>
 ===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在PowerPoint中（以PowerPoint2016为例）打开没有任何效果的初始课件“种子的传播”，然后插入想要用作动作交互的图形，编辑文字，设置对象动作交互，最后完善课件即可，如图3-6-3。
 
-<div align="center"><img src="/assets/3-6-3.png"></div>
-===
-<div align="center"><span style="font-size:10px">图3-6-3 “种子的传播”初始课件</span></div>
+<div align="center"><img src="/assets/3-6-3.png"><p style="text-align:center; font-size:10px; margin-top:2px">图3-6-3 “种子的传播”初始课件</p></div>
 ===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;具体操作步骤如下：
@@ -37,41 +31,31 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在 “插入”的“形状”命令中插入自己想要选择的动作交互形状，如矩形，操作见图3-6-4。
 
-<div align="center"><img src="/assets/3-6-4.png"></div>
-===
-<div align="center"><span style="font-size:10px">图3-6-4 插入自选交互图形</span></div>
+<div align="center"><img src="/assets/3-6-4.png"><p style="text-align:center; font-size:10px; margin-top:2px">图3-6-4 插入自选交互图形</p></div>
 ===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（2）在课件中绘制矩形。按照需求，同时按Ctrl+D键，直接复制粘贴矩形，达到所需交互动作对象数量，然后将其排列放置好。复制粘贴操作如图3-6-5。
 
-<div align="center"><img src="/assets/3-6-5.png"></div>
-===
-<div align="center"><span style="font-size:10px">图3-6-5 复制粘贴图形</span></div>
+<div align="center"><img src="/assets/3-6-5.png"><p style="text-align:center; font-size:10px; margin-top:2px">图3-6-5 复制粘贴图形</p></div>
 ===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**步骤2：**添加文字
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;如图3-6-6所示：选择矩形右击，单击“编辑文字”，设置文字格式即可。
 
-<div align="center"><img src="/assets/3-6-6.png"></div>
-===
-<div align="center"><span style="font-size:10px">图3-6-6 添加文字</span></div>
+<div align="center"><img src="/assets/3-6-6.png"><p style="text-align:center; font-size:10px; margin-top:2px">图3-6-6 添加文字</p></div>
 ===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**步骤3：**设置动作交互
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;选中矩形，在“插入”的“动作”命令中做动作交互。选择“超链接到”，选中所要连接的幻灯片即可。如图3-6-7。
 
-<div align="center"><img src="/assets/3-6-7.png"></div>
-===
-<div align="center"><span style="font-size:10px">图3-6-7 设置动作交互</span></div>
+<div align="center"><img src="/assets/3-6-7.png"><p style="text-align:center; font-size:10px; margin-top:2px">图3-6-7 设置动作交互</p></div>
 ===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;如想要动作完善，有声音效果，则可为动作交互选择播放的声音样式，如图3-6-8“打印机”播放声音设置。最后单击确定，整个动作交互即可完成。
 
-<div align="center"><img src="/assets/3-6-8.png"></div>
-===
-<div align="center"><span style="font-size:10px">图3-6-8 完善动作</span></div>
+<div align="center"><img src="/assets/3-6-8.png"><p style="text-align:center; font-size:10px; margin-top:2px">图3-6-8 完善动作</p></div>
 ===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;其他交互对象的动作交互设置重复上述步骤即可。 
@@ -84,30 +68,22 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.目标为本文档位置的超链接：选择所要超链接的“风传播”文字，单击右键，选择“超链接”，选 “本文档中的位置”，点击所要链接的幻灯片确定即可。
 
-<div align="center"><img src="/assets/3-6-9.png"></div>
-===
-<div align="center"><span style="font-size:10px">图3-6-9 目标为本文档位置的超链接</span></div>
+<div align="center"><img src="/assets/3-6-9.png"><p style="text-align:center; font-size:10px; margin-top:2px">图3-6-9 目标为本文档位置的超链接</p></div>
 ===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.目标为现有文件或网页的超链接： 选择所要超链接的“种子的传播方式”文字，单击右键，选择“现有文件或网页”，如链接到“种子的传播”网页视频，输上网页地址即可。
 
-<div align="center"><img src="/assets/3-6-10.png"></div>
-===
-<div align="center"><span style="font-size:10px">图3-6-10 目标为现有文件或网页的超链接</span></div>
+<div align="center"><img src="/assets/3-6-10.png"><p style="text-align:center; font-size:10px; margin-top:2px">图3-6-10 目标为现有文件或网页的超链接</p></div>
 ===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.目标为新建文档的超链接：选择所要超链接的“水传播”文字，单击右键，选择“新建文档”，即可新建文档，进行文档相关设置，如新建文档不急于编辑，选择“以后再编辑文档”即可。
 
-<div align="center"><img src="/assets/3-6-11.png"></div>
-===
-<div align="center"><span style="font-size:10px">图3-6-11目标为新建文档的超链接</span></div>
+<div align="center"><img src="/assets/3-6-11.png"><p style="text-align:center; font-size:10px; margin-top:2px">图3-6-11目标为新建文档的超链接</p></div>
 ===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.目标为电子邮件地址的超链接：选择所要超链接的“鸟传播”文字，单击右键，选择“电子邮件地址”，输入想要链接的邮件地址、主题即可。
 
-<div align="center"><img src="/assets/3-6-12.png"></div>
-===
-<div align="center"><span style="font-size:10px">图3-6-12 目标为电子邮件地址的超链接</span></div>
+<div align="center"><img src="/assets/3-6-12.png"><p style="text-align:center; font-size:10px; margin-top:2px">图3-6-12 目标为电子邮件地址的超链接</p></div>
 ===
 
 ##3.6.3利用按钮实现交互
@@ -118,9 +94,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;课件《神奇的中草药》是幼儿园大班《科学》（上）的内容，课件设置上一页、下一页、首页及最后一页动作按钮交互，实现不同幻灯片跳转效果，效果图如图3-6-13：
 
-<div align="center"><img src="/assets/3-6-13.png"></div>
-===
-<div align="center"><span style="font-size:10px">图3-6-13 《神奇的中草药》动作按钮交互效果图</span></div>
+<div align="center"><img src="/assets/3-6-13.png"><p style="text-align:center; font-size:10px; margin-top:2px">图3-6-13 《神奇的中草药》动作按钮交互效果图</p></div>
 ===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;下面为具体操作步骤：
@@ -129,32 +103,24 @@
  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;点击“插入”菜单下的“形状”命令的“动作按钮”子菜单，选择“上一页”【插入上一页动作按钮】按钮（如图3-6-14），在课件画出按钮。
 
-<div align="center"><img src="/assets/3-6-14.png"></div>
-===
-<div align="center"><span style="font-size:10px">图3-6-14 插入上一页动作按钮</span></div>
+<div align="center"><img src="/assets/3-6-14.png"><p style="text-align:center; font-size:10px; margin-top:2px">图3-6-14 插入上一页动作按钮</p></div>
 ===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**步骤2：**调整按钮大小、位置，选中按钮单击右键进行样式动作设置。
 
-<div align="center"><img src="/assets/3-6-15.png"></div>
-===
-<div align="center"><span style="font-size:10px">图3-6-15 设置样式动作</span></div>
+<div align="center"><img src="/assets/3-6-15.png"><p style="text-align:center; font-size:10px; margin-top:2px">图3-6-15 设置样式动作</p></div>
 ===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**步骤3：**美化按钮
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;如想美化按钮，如设置轮廓、填充色及三维效果等均可通过“格式”菜单中的形状一栏进行设置。
 
-<div align="center"><img src="/assets/3-6-16.png"></div>
-===
-<div align="center"><span style="font-size:10px">图3-6-16 设置轮廓、填充色、三维效果</span></div>
+<div align="center"><img src="/assets/3-6-16.png"><p style="text-align:center; font-size:10px; margin-top:2px">图3-6-16 设置轮廓、填充色、三维效果</p></div>
 ===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**步骤4：**插入其他按钮：下一页、首页及最后一页的按钮交互重复步骤1、2即可。
 
-<div align="center"><img src="/assets/3-6-17.png"></div>
-===
-<div align="center"><span style="font-size:10px">图3-6-17 设置下一页、首页及最后一页按钮交互</span></div>
+<div align="center"><img src="/assets/3-6-17.png"><p style="text-align:center; font-size:10px; margin-top:2px">图3-6-17 设置下一页、首页及最后一页按钮交互</p></div>
 ===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;如想让课件中其他幻灯片有相同动作按钮效果，复制粘贴动作按钮即可。
