@@ -135,61 +135,43 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;②【椭圆组合】  在第二帧设置关键帧，复制之前绘制的椭圆，将两个椭圆接在一起，重复几次，如图4-5-20。
 
-<div align="center"><img src="/assets/4-5-20.png"></div>
-===
-<div align="center"><span style="font-size:10px">图4-5-20 椭圆组合</span></div>
+<div align="center"><img src="/assets/4-5-20.png"><p style="text-align:center; font-size:10px; margin-top:2px">图4-5-20 椭圆组合</p></div>
 ===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;③【删线】  删除内部多余的线条，如图4-5-21。
 
-<div align="center"><img src="/assets/4-5-21.png"></div>
-===
-<div align="center"><span style="font-size:10px">图4-5-21 云</span></div>
+<div align="center"><img src="/assets/4-5-21.png"><p style="text-align:center; font-size:10px; margin-top:2px">图4-5-21 云</p></div>
 ===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（4）【绘制表情】  添加关键帧，用【线条工具】绘制表情，每帧绘制不同的部位，最终绘制的图以及时间轴如图4-5-22,4-5-23和4-5-24所示。
 
-<div align="center"><img src="/assets/4-5-22.png"></div>
-===
-<div align="center"><span style="font-size:10px">图4-5-22 线条工具属性</span></div>
+<div align="center"><img src="/assets/4-5-22.png"><p style="text-align:center; font-size:10px; margin-top:2px">图4-5-22 线条工具属性</p></div>
 ===
 
-<div align="center"><img src="/assets/4-5-23.png"></div>
-===
-<div align="center"><span style="font-size:10px">图4-5-23 舞台效果</span></div>
+<div align="center"><img src="/assets/4-5-23.png"><p style="text-align:center; font-size:10px; margin-top:2px">图4-5-23 舞台效果</p></div>
 ===
 
-<div align="center"><img src="/assets/4-5-24.png"></div>
-===
-<div align="center"><span style="font-size:10px">图4-5-24  时间轴</span></div>
+<div align="center"><img src="/assets/4-5-24.png"><p style="text-align:center; font-size:10px; margin-top:2px">图4-5-24  时间轴</p></div>
 ===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（5）【被遮住的太阳】  在【cloudy】元件中新建图层【被遮住的太阳】,将新图层放在【cloudy】图层下方，单击【cloudy】图层在【时间轴】面板小黄锁下方的黑点，对此图层进行加锁，如图4-5-25所示。
 
-<div align="center"><img src="/assets/4-5-25.png"></div>
-===
-<div align="center"><span style="font-size:10px">图4-5-25 锁定</span></div>
+<div align="center"><img src="/assets/4-5-25.png"><p style="text-align:center; font-size:10px; margin-top:2px">图4-5-25 锁定</p></div>
 ===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**提示：在进行多帧编辑时，编辑的是场景中全部对象，为了避免错误操作，所以要将一些不需要编辑的图层进行锁定。**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（6）【画太阳】  在【被遮住的太阳】的图层第15帧设置关键帧，在舞台上利用椭圆工具，按住ctrl+shift画太阳，利用线条工具画太阳光芒，如图4-5-26。
 
-<div align="center"><img src="/assets/4-5-26.png"></div>
-===
-<div align="center"><span style="font-size:10px">图4-5-26 半成品</span></div>
+<div align="center"><img src="/assets/4-5-26.png"><p style="text-align:center; font-size:10px; margin-top:2px">图4-5-26 半成品</p></div>
 ===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（7）【添加颜色】  添加颜色 根据实际情况利用颜色面板和渐变变形工具为云与太阳逐帧添加颜色，如图4-5-27和4-5-28。
 
-<div align="center"><img src="/assets/4-5-27.png"></div>
-===
-<div align="center"><span style="font-size:10px">图4-5-27颜色面板</span></div>
+<div align="center"><img src="/assets/4-5-27.png"><p style="text-align:center; font-size:10px; margin-top:2px">图4-5-27颜色面板</p></div>
 ===
 
-<div align="center"><img src="/assets/4-5-28.png"></div>
-===
-<div align="center"><span style="font-size:10px">图4-5-28 cloudy成品</span></div>
+<div align="center"><img src="/assets/4-5-28.png"><p style="text-align:center; font-size:10px; margin-top:2px">图4-5-28 cloudy成品</p></div>
 ===
 
 **3)制作“音乐”图层**
@@ -200,9 +182,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(2)【添加声音】执行【文件】|【导入到库】命令导入所要添加的音乐，单击“音乐”图层的第一帧，按图4-5-29所示操作，给图层添加声音效果。
 
-<div align="center"><img src="/assets/4-5-29.png"></div>
-===
-<div align="center"><span style="font-size:10px">图4-5-29 导入音乐</span></div>
+<div align="center"><img src="/assets/4-5-29.png"><p style="text-align:center; font-size:10px; margin-top:2px">图4-5-29 导入音乐</p></div>
 ===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(3)【插入帧与删除多余的帧】现在可以按“Ctrl+Enter”测试一下动画效果，如果音乐与动画没有合拍，通过插入帧与删除多余帧来进行调整。
@@ -223,9 +203,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;如图4-5-30所示，这是使用【绘画纸】功能后的场景，可以看出，当前帧中内容用全彩色显示，其它帧内容以半透明显示，它使我们看起来好像所有帧内容是画在一张半透明的绘图纸上，这些内容相互层叠在一起。当然，这时你只能编辑当前帧的内容。
 
-<div align="center"><img src="/assets/4-5-30.png"></div>
-===
-<div align="center"><span style="font-size:10px">图4-5-30 同时显示多帧内容的变化</span></div>
+<div align="center"><img src="/assets/4-5-30.png"><p style="text-align:center; font-size:10px; margin-top:2px">图4-5-30 同时显示多帧内容的变化</p></div>
 ===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;【绘画纸】各个按钮的功能：
@@ -252,9 +230,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;使用【对齐面板】，可以对编辑区中多个对像进行排列、分布、匹配大小、调整间隔等操作，使布局整齐美观，如图4-5-31所示。
 
-<div align="center"><img src="/assets/4-5-35.png"></div>
-===
-<div align="center"><span style="font-size:10px">图4-5-31对齐面板</span></div>
+<div align="center"><img src="/assets/4-5-35.png"><p style="text-align:center; font-size:10px; margin-top:2px">图4-5-31对齐面板</p></div>
 ===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;【对齐面板】由排列对齐、分布对齐、匹配大小、间隔以及相对舞台同几部分组成：
@@ -276,17 +252,3 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;④间隔![](/assets/4-5-41.jpg)：将一组对象在水平或垂直方向上按照等间距的方式排列。从左到右分别为水平间距的调整、垂直间距的调整。
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⑤相对舞台![](/assets/4-5-42.jpg)：在默认状态时上述按钮的操作是对于对象本身的，单击此按钮后，则所做的操作是相对于舞台的。
-
-
-
-
-
-
-
-
-
-
-
-
-
-
