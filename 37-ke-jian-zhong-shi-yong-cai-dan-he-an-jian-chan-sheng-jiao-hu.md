@@ -4,8 +4,7 @@
 
 ###实例1 播放课件“认识硬币”
 
-<div align="center"><img src="/assets/3-7-1.jpg"></div>
-<div align="center"><span style="font-size:10px">图3-7-1</span></div>
+<div align="center"><img src="/assets/3-7-1.jpg"><p style="text-align:center; font-size:10px; margin-top:2px">图3-7-1</p></div>
 ===
 
 ## 3.7.1快捷菜单交互
@@ -16,16 +15,12 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（2）设置播放方式 设置播放方式为演讲者播放”
 
-<div align="center"><img src="/assets/3-7-2.png"></div>
-===
-<div align="center"><span style="font-size:10px">图3-7-2</span></div>
+<div align="center"><img src="/assets/3-7-2.png"><p style="text-align:center; font-size:10px; margin-top:2px">图3-7-2</p></div>
 ===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（3）切换幻灯片 按F5键，播放课件
 
-<div align="center"><img src="/assets/3-7-3.jpg"></div>
-===
-<div align="center"><span style="font-size:10px">图3-7-3</span></div>
+<div align="center"><img src="/assets/3-7-3.jpg"><p style="text-align:center; font-size:10px; margin-top:2px">图3-7-3</p></div>
 ===
 
 ## 3.7.2 使用按键进行交互
