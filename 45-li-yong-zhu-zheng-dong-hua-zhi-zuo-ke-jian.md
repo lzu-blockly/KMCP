@@ -12,27 +12,21 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;如图4-5-1，空帧在时间轴上就是一个个方格，表示图层中动画的结束。
 
-<div align="center"><img src="/assets/4-5-1.png"></div>
-===
-<div align="center"><span style="font-size:10px">图4-5-1 空帧</span></div>
+<div align="center"><img src="/assets/4-5-1.png"><p style="text-align:center; font-size:10px; margin-top:2px">图4-5-1 空帧</p></div>
 ===
 
 **(2)关键帧**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;关键帧是制作课件时非常重要的帧，是用来定义动画变化、状态更改的帧。Flash会根据用户正确定义的关键帧，自动完成两个关键帧之间的一些指定的过渡效果。所以只有正确定义了关键帧，才能实现动画制作中的一些由电脑自动完成的过程。如图4-5-2都是关键帧。
 
-<div align="center"><img src="/assets/4-5-2.png"></div>
-===
-<div align="center"><span style="font-size:10px">图4-5-2 关键帧</span></div>
+<div align="center"><img src="/assets/4-5-2.png"><p style="text-align:center; font-size:10px; margin-top:2px">图4-5-2 关键帧</p></div>
 ===
 
 **(3)普通帧**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;普通帧也称为静态帧，用于延长前面一帧的状态，在关键帧后面的普通帧为灰色，在空白关键帧后的普通帧为白色，如图4-5-3。
 
-<div align="center"><img src="/assets/4-5-3.png"></div>
-===
-<div align="center"><span style="font-size:10px">图4-5-3 普通帧</span></div>
+<div align="center"><img src="/assets/4-5-3.png"><p style="text-align:center; font-size:10px; margin-top:2px">图4-5-3 普通帧</p></div>
 ===
 
 **(4)帧的速度**
@@ -51,14 +45,10 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(2)【添加背景图片】  新建图层，双击图层名称，将其图层名称修改为【背景图片】，执行【文件】|【导入到库】，将图片放置在舞台合适位置，如图4-4-4和4-4-5。将该图层的帧延续到第100帧（F5）。
 
-<div align="center"><img src="/assets/4-5-4.png"></div>
-===
-<div align="center"><span style="font-size:10px">图4-5-4 新建图层</span></div>
+<div align="center"><img src="/assets/4-5-4.png"><p style="text-align:center; font-size:10px; margin-top:2px">图4-5-4 新建图层</p></div>
 ===
 
-<div align="center"><img src="/assets/4-5-44.png"></div>
-===
-<div align="center"><span style="font-size:10px">图4-5-5 修改名称</span></div>
+<div align="center"><img src="/assets/4-5-44.png"><p style="text-align:center; font-size:10px; margin-top:2px">图4-5-5 修改名称</p></div>
 ===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(3)【新建图层【学前英语】】 新建图层，双击图层名称，将其图层名称修改为【学前英语】。
@@ -67,77 +57,55 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(4)【输入标题】  打开半成品课件“How is the weather”。按图4.4-2-3所示操作，在【学前英语】图层的第25帧添加关键帧（F6）输入文字【学前英语】，并设置字体格式，如图4-5-6和4-5-7。
 
-<div align="center"><img src="/assets/4-5-5.png"></div>
-===
-<div align="center"><span style="font-size:10px">图4-5-6  输入文字</span></div>
+<div align="center"><img src="/assets/4-5-5.png"><p style="text-align:center; font-size:10px; margin-top:2px">图4-5-6  输入文字</p></div>
 ===
 
-<div align="center"><img src="/assets/4-5-6.png"></div>
-===
-<div align="center"><span style="font-size:10px">图4-5-7 颜色面板</span></div>
+<div align="center"><img src="/assets/4-5-6.png"><p style="text-align:center; font-size:10px; margin-top:2px">图4-5-7 颜色面板</p></div>
 ===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(5)【输入How is the weather】  新建图层，改名为【How is the weather】，在该图层中我们将实现动态文字的效果，即内容How is the weather按单词顺序依次出现。
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(6)【延续帧】  将所有图层的帧利用F5设置帧延续的第100帧，在图层【How is the weather】的第35帧设置关键帧，如图4-5-8。
 
-<div align="center"><img src="/assets/4-5-7.png"></div>
-===
-<div align="center"><span style="font-size:10px">图4-5-8 延续帧</span></div>
+<div align="center"><img src="/assets/4-5-7.png"><p style="text-align:center; font-size:10px; margin-top:2px">图4-5-8 延续帧</p></div>
 ===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(7)【制作动态文字效果】
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;①【添加文本框】  按图 所示操作，在“How is the weather ”图层的第35帧上绘制一个文本框，如图4-5-9所示。
 
-<div align="center"><img src="/assets/4-5-8.png"></div>
-===
-<div align="center"><span style="font-size:10px">图4-5-9 添加文本框</span></div>
+<div align="center"><img src="/assets/4-5-8.png"><p style="text-align:center; font-size:10px; margin-top:2px">图4-5-9 添加文本框</p></div>
 ===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;② 【输入第一个单词】  按图4-5-10,4-5-11,4-5-12所示操作，在文本框内输入第一个单词“How”,修改字体属性，在对齐面板中选择水平中齐。
 
-<div align="center"><img src="/assets/4-5-9.png"></div>
-===
-<div align="center"><span style="font-size:10px">图4-5-10 修改文字属性</span></div>
+<div align="center"><img src="/assets/4-5-9.png"><p style="text-align:center; font-size:10px; margin-top:2px">图4-5-10 修改文字属性</p></div>
 ===
 
-<div align="center"><img src="/assets/4-5-10.png"></div>
-===
-<div align="center"><span style="font-size:10px">图4-5-11 水平中齐</span></div>
+<div align="center"><img src="/assets/4-5-10.png"><p style="text-align:center; font-size:10px; margin-top:2px">图4-5-11 水平中齐</p></div>
 ===
 
-<div align="center"><img src="/assets/4-5-11.png"></div>
-===
-<div align="center"><span style="font-size:10px">图4-5-12 输入【How】</span></div>
+<div align="center"><img src="/assets/4-5-11.png"><p style="text-align:center; font-size:10px; margin-top:2px">图4-5-12 输入【How】</p></div>
 ===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;③【输入第二个字】  在“How is the weather”图层的第40帧添加一个关键帧，并在文本框中输入第二个单词“is”，在对齐面板中选择水平中齐，如图4-5-13。
 
-<div align="center"><img src="/assets/4-5-12.png"></div>
-===
-<div align="center"><span style="font-size:10px">图4-5-13 输入【is】</span></div>
+<div align="center"><img src="/assets/4-5-12.png"><p style="text-align:center; font-size:10px; margin-top:2px">图4-5-13 输入【is】</p></div>
 ===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;④【输入其他单词】  重复步骤6，每添加一个关键帧，在文本框内添加一个单词，用对齐面板将其放在适当位置，最终时间轴和舞台效果如图4-5-14和4-5-15。
 
-<div align="center"><img src="/assets/4-5-13.png"></div>
-===
-<div align="center"><span style="font-size:10px">图4-5-14 舞台效果</span></div>
+<div align="center"><img src="/assets/4-5-13.png"><p style="text-align:center; font-size:10px; margin-top:2px">图4-5-14 舞台效果</p></div>
 ===
 
-<div align="center"><img src="/assets/4-5-14.png"></div>
-===
-<div align="center"><span style="font-size:10px">图4-5-15 时间轴</span></div>
+<div align="center"><img src="/assets/4-5-14.png"><p style="text-align:center; font-size:10px; margin-top:2px">图4-5-15 时间轴</p></div>
 ===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⑤【多帧调整】单击【时间轴】面板下方的【绘图纸外观】按钮![](/assets/4-5-15.png)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;将写有单词的几帧内容放置在合适位置，如图4-5-16。
 
-<div align="center"><img src="/assets/4-5-16.png"></div>
-===
-<div align="center"><span style="font-size:10px">图4-5-16 绘图纸外观下的舞台</span></div>
+<div align="center"><img src="/assets/4-5-16.png"><p style="text-align:center; font-size:10px; margin-top:2px">图4-5-16 绘图纸外观下的舞台</p></div>
 ===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⑥【取消多帧查看】单击【绘图纸外观】按钮![](/assets/4-5-45.jpg)取消其多帧查看效果。
@@ -150,9 +118,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(2)【新建元件】执行【插入】|【新建元件】命令，在弹出的对话框中填写元件名称【cloudy】，类型【影片剪辑】元件,如图4-5-17。
 
-<div align="center"><img src="/assets/4-5-17.png"></div>
-===
-<div align="center"><span style="font-size:10px">图4-5-17 新建元件</span></div>
+<div align="center"><img src="/assets/4-5-17.png"><p style="text-align:center; font-size:10px; margin-top:2px">图4-5-17 新建元件</p></div>
 ===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(3)【修改图层名称】在库中打开【cloudy】元件，将元件中图层一改名为【cloudy】。
@@ -161,14 +127,10 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;①【画椭圆】在【cloudy】图层的第一帧设置关键帧，在舞台上用椭圆工具绘制一个没有填充颜色的椭圆，如图4-5-18和4-5-19。
 
-<div align="center"><img src="/assets/4-5-18.png"></div>
-===
-<div align="center"><span style="font-size:10px">图4-5-18  椭圆工具</span></div>
+<div align="center"><img src="/assets/4-5-18.png"><p style="text-align:center; font-size:10px; margin-top:2px">图4-5-18  椭圆工具</p></div>
 ===
 
-<div align="center"><img src="/assets/4-5-19.png"></div>
-===
-<div align="center"><span style="font-size:10px">图4-5-19 画椭圆</span></div>
+<div align="center"><img src="/assets/4-5-19.png"><p style="text-align:center; font-size:10px; margin-top:2px">图4-5-19 画椭圆</p></div>
 ===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;②【椭圆组合】  在第二帧设置关键帧，复制之前绘制的椭圆，将两个椭圆接在一起，重复几次，如图4-5-20。
