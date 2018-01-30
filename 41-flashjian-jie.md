@@ -48,8 +48,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;【属性】面板是最常用的面板，使用【属性】面板可以很容易地设置【舞台】或【时间轴】上当前选定对象的最常用属性，从而加快 Flash 文档的创建过程，如图4-1-3所示。当选定对象不同时，【属性】面板会出现不同的设置参数。【属性】面板可以在菜单栏下的窗口调出。针对此面板的使用在后续章节会陆续介绍。
 
-<div align="center"><img src="/assets/4-1-3.png"></div>
-<div align="center"><span style="font-size:10px">图4-1-3 【属性】面板</span></div>
+<div align="center"><img src="/assets/4-1-3.png"><p style="text-align:center; font-size:10px; margin-top:2px">图4-1-3 【属性】面板</p></div>
 ===
 
 ## 4.1.2Flash的文档操作

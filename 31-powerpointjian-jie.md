@@ -6,9 +6,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;单击Windows的“开始”按钮，选择“所有程序”中“Microsoft Office”子菜单中的         Microsoft Office PowerPoint命令，运行PowerPoint软件，界面如图3-1-1所示。
 
-<div align="center"><img src="/assets/3-1-1.png"></div>
-===
-<div align="center"><span style="font-size:10px">图3-1-1  PowerPoint使用界面</span></div>
+<div align="center"><img src="/assets/3-1-1.png"><p style="text-align:center; font-size:10px; margin-top:2px">图3-1-1  PowerPoint使用界面</p></div>
 ===
 
 ###2.标题栏
@@ -69,9 +67,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“另存为”一般要注意保存位置，合适的位置有助于下一次准确的寻找到文件。另外要注意保存类型，为了防止有一些计算机安装为低一些版本的Office软件，使PPT不兼容不能正常播放，一般保存的时候为“PowerPoint 97-2003 演示文稿（*.ppt）”，如图3-1-2所示。
 
-<div align="center"><img src="/assets/3-1-2.png"></div>
-===
-<div align="center"><span style="font-size:10px">图3-1-2 “另存为”的操作</span></div>
+<div align="center"><img src="/assets/3-1-2.png"><p style="text-align:center; font-size:10px; margin-top:2px">图3-1-2 “另存为”的操作</p></div>
 ===
 
 **（2）信息**
@@ -90,120 +86,88 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“幻灯片”模块相对来说比较简单，根据字面意思就很容易理解，如图3-1-3所示。
 
-<div align="center"><img src="/assets/3-1-3.png"></div>
-===
-<div align="center"><span style="font-size:10px">图3-1-3 “幻灯片”的操作</span></div>
+<div align="center"><img src="/assets/3-1-3.png"><p style="text-align:center; font-size:10px; margin-top:2px">图3-1-3 “幻灯片”的操作</p></div>
 ===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;鼠标左键单击“版式”，会出现如图3-1-4所示选项卡，读者可以根据需要，选择版式。
 
-<div align="center"><img src="/assets/3-1-4.png"></div>
-===
-<div align="center"><span style="font-size:10px">图3-1-4 幻灯片版式</span></div>
+<div align="center"><img src="/assets/3-1-4.png"><p style="text-align:center; font-size:10px; margin-top:2px">图3-1-4 幻灯片版式</p></div>
 ===
 
 **（2）段落**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;这一部分内容比较复杂，也比较重要。为了使读者对这一模块有清晰的认识，笔者制作了如图3-1-5所示图片用以说明。
 
-<div align="center"><img src="/assets/3-1-5.png"></div>
-===
-<div align="center"><span style="font-size:10px">图3-1-5 “段落”的操作</span></div>
+<div align="center"><img src="/assets/3-1-5.png"><p style="text-align:center; font-size:10px; margin-top:2px">图3-1-5 “段落”的操作</p></div>
 ===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;①“项目符号”的操作如图3-1-6所示。
 
-<div align="center"><img src="/assets/3-1-6.png"></div>
-===
-<div align="center"><span style="font-size:10px">图3-1-6  “项目符号”的操作</span></div>
+<div align="center"><img src="/assets/3-1-6.png"><p style="text-align:center; font-size:10px; margin-top:2px">图3-1-6  “项目符号”的操作</p></div>
 ===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;②“对齐”的操作如图3-1-7所示。
 
-<div align="center"><img src="/assets/3-1-7.png"></div>
-===
-<div align="center"><span style="font-size:10px">图3-1-7 “对齐”的操作</span></div>
+<div align="center"><img src="/assets/3-1-7.png"><p style="text-align:center; font-size:10px; margin-top:2px">图3-1-7 “对齐”的操作</p></div>
 ===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;③“分栏”的操作如图3-1-8所示。
 
-<div align="center"><img src="/assets/3-1-8.png"></div>
-===
-<div align="center"><span style="font-size:10px">图3-1-8 “分栏”的操作</span></div>
+<div align="center"><img src="/assets/3-1-8.png"><p style="text-align:center; font-size:10px; margin-top:2px">图3-1-8 “分栏”的操作</p></div>
 ===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;④“文字方向”的操作如图3-1-9所示。
 
-<div align="center"><img src="/assets/3-1-9.jpg"></div>
-===
-<div align="center"><span style="font-size:10px">图3-1-9  “文字方向”的操作</span></div>
+<div align="center"><img src="/assets/3-1-9.jpg"><p style="text-align:center; font-size:10px; margin-top:2px">图3-1-9  “文字方向”的操作</p></div>
 ===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⑤转换为SmartArt图形的操作如图3-1-10所示。
 
-<div align="center"><img src="/assets/3-1-10.jpg"></div>
-===
-<div align="center"><span style="font-size:10px">图3-1-10  SmartArt图形</span></div>
+<div align="center"><img src="/assets/3-1-10.jpg"><p style="text-align:center; font-size:10px; margin-top:2px">图3-1-10  SmartArt图形</p></div>
 ===
 
 **（3）绘图**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“绘图”主要包括如图3-1-11所示的几个部分。
 
-<div align="center"><img src="/assets/3-1-11.jpg"></div>
-===
-<div align="center"><span style="font-size:10px">图3-1-11  “绘图”模块</span></div>
+<div align="center"><img src="/assets/3-1-11.jpg"><p style="text-align:center; font-size:10px; margin-top:2px">图3-1-11  “绘图”模块</p></div>
 ===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“绘图”模块的使用可以通过以下七个步骤的操作来完成。
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**第一步：**绘制图形，按照如图3-1-12所示进行操作。
 
-<div align="center"><img src="/assets/3-1-12.png"></div>
-===
-<div align="center"><span style="font-size:10px">图3-1-12  绘制图形</span></div>
+<div align="center"><img src="/assets/3-1-12.png"><p style="text-align:center; font-size:10px; margin-top:2px">图3-1-12  绘制图形</p></div>
 ===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**第二步：**形状填充，分别对长方形和三角形进行形状填充，鼠标左键单击白色，如图3-1-13所示
 
-<div align="center"><img src="/assets/3-1-13.jpg"></div>
-===
-<div align="center"><span style="font-size:10px">图3-1-13  形状填充</span></div>
+<div align="center"><img src="/assets/3-1-13.jpg"><p style="text-align:center; font-size:10px; margin-top:2px">图3-1-13  形状填充</p></div>
 ===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**第三步：**形状轮廓设置，分别对长方形和三角形进行形状轮廓设置，如图3-1-14所示。
 
-<div align="center"><img src="/assets/3-1-14.jpg"></div>
-===
-<div align="center"><span style="font-size:10px">图3-1-14 形状轮廓设置</span></div>
+<div align="center"><img src="/assets/3-1-14.jpg"><p style="text-align:center; font-size:10px; margin-top:2px">图3-1-14 形状轮廓设置</p></div>
 ===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**第四步：**形状效果（三维图形）设置，按照图3-1-15所示进行操作。
 
-<div align="center"><img src="/assets/3-1-15.jpg"></div>
-===
-<div align="center"><span style="font-size:10px">图3-1-15  形状效果设置</span></div>
+<div align="center"><img src="/assets/3-1-15.jpg"><p style="text-align:center; font-size:10px; margin-top:2px">图3-1-15  形状效果设置</p></div>
 ===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**第五步：**快速样式设置，可以利用“快速样式”便捷地对图片进行美化，按照如图3-1-16所示进行操作。
 
-<div align="center"><img src="/assets/3-1-16.jpg"></div>
-===
-<div align="center"><span style="font-size:10px">图3-1-16 快速样式设置</span></div>
+<div align="center"><img src="/assets/3-1-16.jpg"><p style="text-align:center; font-size:10px; margin-top:2px">图3-1-16 快速样式设置</p></div>
 ===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**第六步：**排列图形，利用绘图的“排列”功能，使长方形位于三角形的上层，也就是说使长方形覆盖三角形，凸显长方形的全貌，按照图3-1-17所示进行操作。
 
-<div align="center"><img src="/assets/3-1-17.jpg"></div>
-===
-<div align="center"><span style="font-size:10px">图3-1-17  排列图形</span></div>
+<div align="center"><img src="/assets/3-1-17.jpg"><p style="text-align:center; font-size:10px; margin-top:2px">图3-1-17  排列图形</p></div>
 ===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**第七步：**组合图形，在我们利用PPT制作图形的过程中，往往会碰到图形移动不容易控制的情况，这个时候就需要对图形进行组合，具体操作如图3-1-18所示。
 
-<div align="center"><img src="/assets/3-1-18.jpg"></div>
-===
-<div align="center"><span style="font-size:10px">图3-1-18  组合图形</span></div>
+<div align="center"><img src="/assets/3-1-18.jpg"><p style="text-align:center; font-size:10px; margin-top:2px">图3-1-18  组合图形</p></div>
 ===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;由于本章篇幅的限制，笔者只能对“绘图”的部分功能做简单的介绍。“绘图”的功能非常强大，这就需要读者慢慢在摸索中学习，这样才能熟练掌握PPT的各项功能。
@@ -214,18 +178,14 @@
    
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;①“查找”的作用是帮助读者快速在大篇段落中准确快速的查找到所需内容，具体操作如图3-1-19所示。
 
-<div align="center"><img src="/assets/3-1-19.png"></div>
-===
-<div align="center"><span style="font-size:10px">图3-1-19 “查找”的操作</span></div>
+<div align="center"><img src="/assets/3-1-19.png"><p style="text-align:center; font-size:10px; margin-top:2px">图3-1-19 “查找”的操作</p></div>
 ===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;②“替换”的主要作用是可以快速准确的把本文件中的某个字或词等替换成别的字或词，可以帮读者省去大量的重复工作，当然也节省了大量的时间。
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;③“选择”的操作如图3-1-20所示，可以利用“选择”的“全选”功能，把各个窗口“合并”成一个整体的图形。
 
-<div align="center"><img src="/assets/3-1-20.jpg"></div>
-===
-<div align="center"><span style="font-size:10px">图3-1-20 “选择”的操作</span></div>
+<div align="center"><img src="/assets/3-1-20.jpg"><p style="text-align:center; font-size:10px; margin-top:2px">图3-1-20 “选择”的操作</p></div>
 ===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;这里介绍的很多操作，只是PowerPoint文档操作的一部分，如要掌握更多的操作，需要读者勤加练习。
