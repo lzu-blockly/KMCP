@@ -102,7 +102,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;④设置饼形图格式。选择图表工具的【格式】选项，单击【大小】组中的 图标，进行设置。
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⑤设置第二绘图区。单击某系列点，再单击【大小】组中的 图，设置第二绘图区的包含值。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⑤设置第二绘图区。单击某系列点，再单击【大小】组中的图，设置第二绘图区的包含值。
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⑥显示数据标签。单击图表区，选择图表工具的【布局】选项，单击【标签】组中的【数据标签】命令，显示数据标签。
 
