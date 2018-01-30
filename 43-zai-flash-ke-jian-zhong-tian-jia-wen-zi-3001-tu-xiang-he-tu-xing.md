@@ -240,14 +240,12 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;【铅笔工具】与【线条工具】非常相似，所不同的是，用铅笔工具可以绘制任意线条，使用方法灵活。选择工具箱中的【铅笔工具】![](/assets/4-3-60.png)，在舞台上按下鼠标左键并拖动便可绘制任意线条，如图4-3-25所示。
 
-<div align="center"><img src="/assets/4-3-61.png"></div>
-<div align="center"><span style="font-size:10px">图4-3-25铅笔工具绘图效果</span></div>
+<div align="center"><img src="/assets/4-3-61.png"><p style="text-align:center; font-size:10px; margin-top:2px">图4-3-25铅笔工具绘图效果</p></div>
 ===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;可以在【铅笔工具】的属性面板中设置【铅笔工具】的属性，如图4-3-26所示，有三种模式可供用户设置：
 
-<div align="center"><img src="/assets/4-3-62.png"></div>
-<div align="center"><span style="font-size:10px">图4-3-26铅笔工具属性面板</span></div>
+<div align="center"><img src="/assets/4-3-62.png"><p style="text-align:center; font-size:10px; margin-top:2px">图4-3-26铅笔工具属性面板</p></div>
 ===
 
 * 在【伸直】模式下，它会把线条自动转成接近形状的直线。
@@ -264,8 +262,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;利用【刷子工具】可以绘制类似毛笔绘图的效果，应用于绘制对象或者内部填充，其使用方法与【铅笔工具】类似。但是使用【铅笔工具】绘制的图形是笔触线段，而使用【刷子工具】绘制的图形是填充颜色。在工具箱中选择【刷子工具】后，在工具箱下方的【选项区域】中将出现【刷子工具】的相关选项设置， 如图4-3-27所示。
 
-<div align="center"><img src="/assets/4-3-65.png"></div>
-<div align="center"><span style="font-size:10px">图4-3-27 刷子工具的相关选项</span></div>
+<div align="center"><img src="/assets/4-3-65.png"><p style="text-align:center; font-size:10px; margin-top:2px">图4-3-27 刷子工具的相关选项</p></div>
 ===
 
 * 对象绘制：以对象模式绘制互不干扰的多个图形。
@@ -280,12 +277,10 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;选择【刷子工具】后，在【工具】面板下方的选项中可以设置刷子的大小和样式，如图4-3-28所示，左图为刷子大小，右图为刷子的样式。单击【刷子模式】按钮钱，弹出刷子的填充模式下拉菜单，如图4-3-29所示。这几个选项的具体用法如下所述。
 
-<div align="center"><img src="/assets/4-3-63.jpg"></div>
-<div align="center"><span style="font-size:10px">图4-3-28刷子工具的大小和样式</span></div>
+<div align="center"><img src="/assets/4-3-63.jpg"><p style="text-align:center; font-size:10px; margin-top:2px">图4-3-28刷子工具的大小和样式</p></div>
 ===
 
-<div align="center"><img src="/assets/4-3-66.png"></div>
-<div align="center"><span style="font-size:10px">图4-3-29刷子工具填充模式</span></div>
+<div align="center"><img src="/assets/4-3-66.png"><p style="text-align:center; font-size:10px; margin-top:2px">图4-3-29刷子工具填充模式</p></div>
 ===
 
 * 标准绘画：不管是线条还是填充范围，只要是画笔经过的地方，都变成了画笔的颜色。
@@ -300,8 +295,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;【刷子模式】填充效果如图4-3-30所示。
 
-<div align="center"><img src="/assets/4-3-67.png"></div>
-<div align="center"><span style="font-size:10px">图4-3-30【刷子模式】填充效果</span></div>
+<div align="center"><img src="/assets/4-3-67.png"><p style="text-align:center; font-size:10px; margin-top:2px">图4-3-30【刷子模式】填充效果</p></div>
 ===
 
 ###6．颜料桶工具的使用
@@ -322,12 +316,10 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（2）打开【工具箱】中的【填充颜色】![](/assets/4-3-112.png)，打开【颜色】面板，选择“蓝色”如图4-3-32所示。
 
-<div align="center"><img src="/assets/4-3-68.png"></div>
-<div align="center"><span style="font-size:10px">图4-3-31 空隙大小选项</span></div>
+<div align="center"><img src="/assets/4-3-68.png"><p style="text-align:center; font-size:10px; margin-top:2px">图4-3-31 空隙大小选项</p></div>
 ===
 
-<div align="center"><img src="/assets/4-3-69.png"></div>
-<div align="center"><span style="font-size:10px">图4-3-32颜色面板</span></div>
+<div align="center"><img src="/assets/4-3-69.png"><p style="text-align:center; font-size:10px; margin-top:2px">图4-3-32颜色面板</p></div>
 ===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（3）把鼠标指针移至场景中，鼠标指针变为 形状。单击凸透镜和凹透镜区域填充颜色。如图4-3-33所示。
@@ -336,26 +328,22 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（4）选择【线条工具】在两个透镜中分别绘制一条垂直线条，再选择【选择工具】将线条拖动为曲线。选中刚才绘制的线条，在展开【属性】面板，设置线条颜色为黄色，最终效果如图4-3-34所示。
 
-<div align="center"><img src="/assets/4-3-71.png"></div>
-<div align="center"><span style="font-size:10px">图4-3-33填充凸透镜和凹透镜区域</span></div>
+<div align="center"><img src="/assets/4-3-71.png"><p style="text-align:center; font-size:10px; margin-top:2px">图4-3-33填充凸透镜和凹透镜区域</p></div>
 ===
 
-<div align="center"><img src="/assets/4-3-72.png"></div>
-<div align="center"><span style="font-size:10px">图4-3-34绘制透镜内部线条</span></div>
+<div align="center"><img src="/assets/4-3-72.png"><p style="text-align:center; font-size:10px; margin-top:2px">图4-3-34绘制透镜内部线条</p></div>
 ===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（5）利用【文本工具】输入课件标题“凸透镜成像”，并设置其属性( 添加一种滤镜效果)。整体效果如图4-3-35所示。
 
-<div align="center"><img src="/assets/4-3-73.png"></div>
-<div align="center"><span style="font-size:10px">图4-3-35  凸透镜成像整体效果</span></div>
+<div align="center"><img src="/assets/4-3-73.png"><p style="text-align:center; font-size:10px; margin-top:2px">图4-3-35  凸透镜成像整体效果</p></div>
 ===
 
 ###7．笔触颜色和填充颜色的使用
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;笔触颜色定义的是绘制图形外框的颜色，填充颜色定义的是所绘制图形内部的填充色。展开【属性】面板，单击【笔触颜色】按钮![](/assets/4-3-74.png)，打开【颜色】面板，鼠标指针变为【滴管工具】样式![](/assets/4-3-75.png)，设置笔触颜色为蓝色，如图4-3-36所示。
 
-<div align="center"><img src="/assets/4-3-76.png"></div>
-<div align="center"><span style="font-size:10px">图4-3-36颜色面板</span></div>
+<div align="center"><img src="/assets/4-3-76.png"><p style="text-align:center; font-size:10px; margin-top:2px">图4-3-36颜色面板</p></div>
 ===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;相关参数的含义如下所述。
@@ -390,12 +378,10 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;【任意变形工具】在工具箱中有相应的，如图4-3-38所示，可以通过这些选项对其进行设置。
 
-<div align="center"><img src="/assets/4-3-90.png"></div>
-<div align="center"><span style="font-size:10px">图4-3-37选择【渐变变形工具】</span></div>
+<div align="center"><img src="/assets/4-3-90.png"><p style="text-align:center; font-size:10px; margin-top:2px">图4-3-37选择【渐变变形工具】</p></div>
 ===
 
-<div align="center"><img src="/assets/4-3-91.png"></div>
-<div align="center"><span style="font-size:10px">图4-3-38【任意变形工具】附加选项设置</span></div>
+<div align="center"><img src="/assets/4-3-91.png"><p style="text-align:center; font-size:10px; margin-top:2px">图4-3-38【任意变形工具】附加选项设置</p></div>
 ===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;【紧贴至对象】![](/assets/4-3-92.png)：选中后变形时对象的边缘会自动紧贴。
@@ -408,12 +394,10 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;【封套】![](/assets/4-3-96.png)：可以在所选的对象边框上设置封套锚点，拖动这些封套锚点，可以对图形进行任意变形，如图4-3-40所示。
 
-<div align="center"><img src="/assets/4-3-97.png"></div>
-<div align="center"><span style="font-size:10px">图4-3-39【扭曲】效果图</span></div>
+<div align="center"><img src="/assets/4-3-97.png"><p style="text-align:center; font-size:10px; margin-top:2px">图4-3-39【扭曲】效果图</p></div>
 ===
 
-<div align="center"><img src="/assets/4-3-98.png"></div>
-<div align="center"><span style="font-size:10px">4-3-40【封套】效果</span></div>
+<div align="center"><img src="/assets/4-3-98.png"><p style="text-align:center; font-size:10px; margin-top:2px">4-3-40【封套】效果</p></div>
 ===
 
 ###9．【钢笔】工具
@@ -424,8 +408,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;选择工具箱中的【钢笔工具】![](/assets/4-3-99.png)，执行菜单中的【编辑】｜【首选参数】命令，然后在弹出的【首选参数】对话框中单击【绘画】选项，如图4-3-41所示。
 
-<div align="center"><img src="/assets/4-3-100.png"></div>
-<div align="center"><span style="font-size:10px">图4-3-41 单击“绘画”选项</span></div>
+<div align="center"><img src="/assets/4-3-100.png"><p style="text-align:center; font-size:10px; margin-top:2px">图4-3-41 单击“绘画”选项</p></div>
 ===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在工作区周围移动指针时，Flash会显示线段预览。如果未选择该复选框，则在创建线段终点之前，Flash不会显示该线段。
@@ -452,12 +435,10 @@
 
 * 闭合开放路径。方法：将钢笔工具放置到第一个锚点上。如果定位准确，就会在靠近钢笔尖的地方出现一个小圆圈，单击或拖动，即可闭合路径，如图4-3-43所示。
 
-<div align="center"><img src="/assets/4-3-101.png"></div>
-<div align="center"><span style="font-size:10px">图4-3-42继续单击创建其他直线段</span></div>
+<div align="center"><img src="/assets/4-3-101.png"><p style="text-align:center; font-size:10px; margin-top:2px">图4-3-42继续单击创建其他直线段</p></div>
 ===
 
-<div align="center"><img src="/assets/4-3-102.png"></div>
-<div align="center"><span style="font-size:10px">图4-3-43闭合路径</span></div>
+<div align="center"><img src="/assets/4-3-102.png"><p style="text-align:center; font-size:10px; margin-top:2px">图4-3-43闭合路径</p></div>
 ===
 
 **（3）使用钢笔工具绘制曲线路径**
@@ -476,16 +457,14 @@
  
 * 要绘制曲线的下一段，可以将指针放置在想要下一线段结束的位置上，然后拖动该曲线即可。
 
-<div align="center"><img src="/assets/4-3-103.png"></div>
-<div align="center"><span style="font-size:10px">图4-3-44将该线段限制为倾斜450的倍数</span></div>
+<div align="center"><img src="/assets/4-3-103.png"><p style="text-align:center; font-size:10px; margin-top:2px">图4-3-44将该线段限制为倾斜450的倍数</p></div>
 ===
 
 **(4)调整路径上的锚点**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在使用【钢笔工具】绘制曲线时，创建的是曲线点，即连续的弯曲路径上的锚点。在绘制直线段或连接到曲线段的直线时，创建的是转角点，即在直线路径或直线和曲线路径接合处的锚点上。要将线条中的线段由直线段转换为曲线段或者由曲线段转换为直线段，可以将转角点转换为曲线点或者将曲线点转换为转角点。 用户可以移动、添加或删除路径上的锚点，可以使用工具箱中的【部分选取工具】来移动锚点从而调整直线段的长度、角度，或曲线段的斜率，也可以通过轻推选定的锚点来进行微调，如图图4-3-45所示。
 
-<div align="center"><img src="/assets/4-3-104.png"></div>
-<div align="center"><span style="font-size:10px">图4-3-45 微调锚点的位置</span></div>
+<div align="center"><img src="/assets/4-3-104.png"><p style="text-align:center; font-size:10px; margin-top:2px">图4-3-45 微调锚点的位置</p></div>
 ===
 
 **(5)调整线段**
@@ -500,20 +479,17 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;选择工具箱中的![](/assets/4-3-106.png)【Deco工具】后，将光标放置到需要填充的图形处，单击鼠标，即可为其填充图案。整个流程如图4-3-46所示。
 
-<div align="center"><img src="/assets/4-3-107.png"></div>
-<div align="center"><span style="font-size:10px">图4-3-46使用Deco工具填充图形</span></div>
+<div align="center"><img src="/assets/4-3-107.png"><p style="text-align:center; font-size:10px; margin-top:2px">图4-3-46使用Deco工具填充图形</p></div>
 ===
 
 **(2) Deco工具的属性设置**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;选择 ![](/assets/4-3-106.png)【Deco工具】后，在【属性】面板中将出现其相关属性设置，其中，绘制效果包括“藤蔓式填充”、“网格填充”、“对称刷子”、“3D 刷子”、“建筑物刷子”、“装饰性刷子”、“火焰动画”、“火焰刷子”、“花刷子”、“闪电刷子”、“粒子系统”、“烟动画”和“树刷子”13 种，如图4-3-47所示。图4-3-48为选择不同绘制效果的效果比较。
 
-<div align="center"><img src="/assets/4-3-109.png"></div>
-<div align="center"><span style="font-size:10px">图4-3-47 “绘制效果”的下拉列表</span></div>
+<div align="center"><img src="/assets/4-3-109.png"><p style="text-align:center; font-size:10px; margin-top:2px">图4-3-47 “绘制效果”的下拉列表</p></div>
 ===
 
-<div align="center"><img src="/assets/4-3-110.png"></div>
-<div align="center"><span style="font-size:10px">图4-3-48选择不同绘制效果的效果比较</span></div>
+<div align="center"><img src="/assets/4-3-110.png"><p style="text-align:center; font-size:10px; margin-top:2px">图4-3-48选择不同绘制效果的效果比较</p></div>
 ===
 
 ##4.3.3 位图的应用
@@ -526,8 +502,7 @@
 
 <div align="center"><img src="/assets/4-3-10.png"></div>
 <div align="center"><img src="/assets/4-3-11.png"></div>
-<div align="center"><img src="/assets/4-3-12.png"></div>
-<div align="center"><span style="font-size:10px">图4-3-49  导入位图</span></div>
+<div align="center"><img src="/assets/4-3-12.png"><p style="text-align:center; font-size:10px; margin-top:2px">图4-3-49  导入位图</p></div>
 ===
 
 ###2.使用套索工具编辑位图
@@ -535,8 +510,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;导入的位图往往有背景，不利于课件整体分割的设计，极大影响课件效果，可以利用【套索工具】和【橡皮擦工具】来清除图像背景。以下是【套索工具】的使用方法。【套索工具】用来选择任意图形，它有套索工具、多边形工具和魔术棒3种模式。
 如图4-3-50所示。
 
-<div align="center"><img src="/assets/4-3-13.png"></div>
-<div align="center"><span style="font-size:10px">图4-3-50  套索工具</span></div>
+<div align="center"><img src="/assets/4-3-13.png"><p style="text-align:center; font-size:10px; margin-top:2px">图4-3-50  套索工具</p></div>
 ===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;【魔术棒】：使用该工具可以在位图上选择颜色相近的区域，只需在图形上单击要选择的区域，就会有连续区域被选中。
@@ -547,14 +521,12 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;【橡皮擦工具】用于擦除舞台中的图形。可以一次擦除舞台中的所有图形，也可以有选择地对舞台中的图形进行擦除。如图4-3-51所示。
 
-<div align="center"><img src="/assets/4-3-14.png"></div>
-<div align="center"><span style="font-size:10px">图4-3-51   橡皮檫工具</span></div>
+<div align="center"><img src="/assets/4-3-14.png"><p style="text-align:center; font-size:10px; margin-top:2px">图4-3-51   橡皮檫工具</p></div>
 ===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;单击【橡皮擦模式】，系统将弹出包括5种橡皮擦模式的菜单。如图4-3-52所示。
 
-<div align="center"><img src="/assets/4-3-15.png"></div>
-<div align="center"><span style="font-size:10px">图4-3-52   橡皮檫多种模式</span></div>
+<div align="center"><img src="/assets/4-3-15.png"><p style="text-align:center; font-size:10px; margin-top:2px">图4-3-52   橡皮檫多种模式</p></div>
 ===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;【标准擦除】：可以擦除舞台中位于同一图层上的任意图形的边线和填充内容。
