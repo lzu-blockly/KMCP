@@ -15,26 +15,22 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;①插入文件音频。运行PowerPoint2016软件，打开【插入】选项卡，在文件夹选择需要插入的音频文件；之后将声音文件图标拖至幻灯片合适位置，一般隐藏在幻灯片页面外。如图3-3-1所示。
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ②插入剪贴画音频。插入剪贴画音频，插入声音文件；将插入声音文件的图标同上拖至幻灯片合适位置。
 
-<div align="center"><img src="/assets/3-3-1.png"></div>
-===
-<div align="center"><span style="font-size:10px">图3-3-1 插入声音</span></div>
+<div align="center"><img src="/assets/3-3-1.png"><p style="text-align:center; font-size:10px; margin-top:2px">图3-3-1 插入声音</p></div>
 ===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;【音频选项】组有【音量】、【开始】、【循环播放，直到停止】、【放映时隐藏】和【播放完返回开头】5个选项，这些命令可以控制音频的播放。其中【音量】选项中有【低】、【中】、【高】和【静音】选项，【开始】选项中有【自动】、【单击时】和【跨幻灯片播放】。 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;自动：指幻灯片播放时，音乐同时自动播放。 
+* 自动：指幻灯片播放时，音乐同时自动播放。 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;单击时：指幻灯片播放时，单击【小喇叭】图标，音乐才能播放。如果设置了触发器，则单击触发器才能播放。 
+* 单击时：指幻灯片播放时，单击【小喇叭】图标，音乐才能播放。如果设置了触发器，则单击触发器才能播放。 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;跨幻灯片播放：指音乐播放时，幻灯片往下切换，但音乐会继续播放，不会中断，直到音乐结束。
+* 跨幻灯片播放：指音乐播放时，幻灯片往下切换，但音乐会继续播放，不会中断，直到音乐结束。
 
 ### 2.添加视频
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在课件制作中，经常添加视频来丰富课件内容，给学生们带来身临其境的感受，进一步表达主题。在课件中插入视频有两个途径：一是直接插入视频文件；二是使用控件插入。
 
-<div align="center"><img src="/assets/3-3-2.png"></div>
-===
-<div align="center"><span style="font-size:10px">图 3-3-2 插入视频</span></div>
+<div align="center"><img src="/assets/3-3-2.png"><p style="text-align:center; font-size:10px; margin-top:2px">图 3-3-2 插入视频</p></div>
 ===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;①直接插入视频文件
@@ -51,16 +47,14 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在【Windows Media Player】播放器上单击右键，选择【属性表】选项，URL输入要插入视频的路径名称。需要注意的是，用此方法视频文件并非嵌入到PPT文件中，二者是链接关系。如图3-3-3所示。
 
-<div align="center"><img src="/assets/3-3-3.png"></div>
-===
-<div align="center"><span style="font-size:10px">图 3-3-3 插入视频</span></div>
+<div align="center"><img src="/assets/3-3-3.png"><p style="text-align:center; font-size:10px; margin-top:2px">图 3-3-3 插入视频</p></div>
 ===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;【视频选项】组有【音量】、【开始】、【循环播放，直到停止】、【放映时隐藏】、【全屏播放】和【播放返回开头】6个选项，这些命令可以控制视频的播放。其中【音量】选项中有【低】、【中】、【高】、【静音】，【开始】选项中有【自动】和【单击时】。
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;自动：指幻灯片播放时，视频同时自动播放。
+* 自动：指幻灯片播放时，视频同时自动播放。
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;单击时：指幻灯片播放时，单击幻灯片的任意位置，视频开始播放，如果设置了【触发器】，则单击触发器控制视频的播放和暂停。
+* 单击时：指幻灯片播放时，单击幻灯片的任意位置，视频开始播放，如果设置了【触发器】，则单击触发器控制视频的播放和暂停。
 
 ###3.添加动画
 
@@ -70,9 +64,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;②如图3-3-4所示操作控制动画播放。
 
-<div align="center"><img src="/assets/3-3-4.png"></div>
-===
-<div align="center"><span style="font-size:10px">图 3-3-4 插入动画</span></div>
+<div align="center"><img src="/assets/3-3-4.png"><p style="text-align:center; font-size:10px; margin-top:2px">图 3-3-4 插入动画</p></div>
 ===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;值得注意的是，在PowerPont2007之后版本，执行插入操作的音频视频是直接嵌入的，复制课件到其他计算机上时，其中的音频、视频是一起搬走的。但是如果使用控件方法或者超链接方法插入时，这时音频和视频等对象与课件是链接关系。所以这时要复制课件到其他计算机时，必须要将其中插入的视频、音频等文件一起复制到该计算机中，最好是将课件文件夹（包含课件、音视频等素材）复制到该计算机上，并且保持原来的路径关系；否则，课件在目标计算机上会因为找不到文件而不能正常播放。
@@ -93,9 +85,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;④设置内容格。单击表格边框选择表格，打开【开始】选项卡，设置文字格式，并对齐，如图3-3-5所示。
 
-<div align="center"><img src="/assets/3-3-5.png"></div>
-===
-<div align="center"><span style="font-size:10px">图 3-3-5 插入表格</span></div>
+<div align="center"><img src="/assets/3-3-5.png"><p style="text-align:center; font-size:10px; margin-top:2px">图 3-3-5 插入表格</p></div>
 ===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;从Word中复制和粘贴的表格，从Excel中复制和粘贴的一组单元格，在PowerPoint中编辑的方法与创建的表格编辑方法一样；不同的是插入Excel电子表格，其编辑和美化要在打开的Excel软件界面中进行。在制作表格时，有时候需要插入/删除行和列。右击目标行或列。在弹出的快捷菜单中选择【插入】或者【删除】命令。
