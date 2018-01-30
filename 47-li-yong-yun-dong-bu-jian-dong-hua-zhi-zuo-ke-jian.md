@@ -14,24 +14,20 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（2）选择【插入】→【新建元件】命令，弹出【创建新元件】对话框。在【类型】中选中【影片剪辑】单选按钮，名称设置为“星星”，如图4-7-2所示。
 
-<div align="center"><img src="/assets/4-7-1.png"></div>
-<div align="center"><span style="font-size:10px">图4-7-1设置舞台属性</span></div>
+<div align="center"><img src="/assets/4-7-1.png"><p style="text-align:center; font-size:10px; margin-top:2px">图4-7-1设置舞台属性</p></div>
 ===
 
-<div align="center"><img src="/assets/4-7-2.png"></div>
-<div align="center"><span style="font-size:10px">图4-7-2【创建新元件】对话框</span></div>
+<div align="center"><img src="/assets/4-7-2.png"><p style="text-align:center; font-size:10px; margin-top:2px">图4-7-2【创建新元件】对话框</p></div>
 ===
                
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（3）在“星星”元件编辑区内绘制“星星”图形，如图4-7-3所示。
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（4）单击时间轴上方【场景1】按钮，返回主场景如图4-7-4所示。
 
-<div align="center"><img src="/assets/4-7-3.png"></div>
-<div align="center"><span style="font-size:10px">图4-7-3绘制“星星”图形</span></div>
+<div align="center"><img src="/assets/4-7-3.png"><p style="text-align:center; font-size:10px; margin-top:2px">图4-7-3绘制“星星”图形</p></div>
 ===
 
-<div align="center"><img src="/assets/4-7-4.png"></div>
-<div align="center"><span style="font-size:10px">图4-7-4返回主场景</span></div>
+<div align="center"><img src="/assets/4-7-4.png"><p style="text-align:center; font-size:10px; margin-top:2px">图4-7-4返回主场景</p></div>
 ===
 
                        
@@ -39,30 +35,25 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（6）在第50帧处插入关键帧，并调整“星星”的大小和位置，如图4-7-6所示。
 
-<div align="center"><img src="/assets/4-7-5.png"></div>
-<div align="center"><span style="font-size:10px">图4-7-5 将“星星”元件拖入到舞台中</span></div>
+<div align="center"><img src="/assets/4-7-5.png"><p style="text-align:center; font-size:10px; margin-top:2px">图4-7-5 将“星星”元件拖入到舞台中</p></div>
 ===
 
-<div align="center"><img src="/assets/4-7-6.png"></div>
-<div align="center"><span style="font-size:10px">图4-7-6 调整“星星”第50帧处大小和位置</span></div>
+<div align="center"><img src="/assets/4-7-6.png"><p style="text-align:center; font-size:10px; margin-top:2px">图4-7-6 调整“星星”第50帧处大小和位置</p></div>
 ===
              
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（7）右击第1—49帧之间的任意帧，在弹出的快捷菜单中选择“创建传统补间” 命令，创建动作补间动画。如图4-7-7所示。
 
-<div align="center"><img src="/assets/4-7-7.png"></div>
-<div align="center"><span style="font-size:10px">图4-7-7创建动作补间动画</span></div>
+<div align="center"><img src="/assets/4-7-7.png"><p style="text-align:center; font-size:10px; margin-top:2px">图4-7-7创建动作补间动画</p></div>
 ===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（8）这样一个星星从右往左飞得动画就制作好了，但是效果并不好。这时可以选中补间，通过属性面板对动作补间进行设置，在属性面板中设置缓动为“100”，让星星减速飞行。在属性面板中设置旋转为“顺时针”、“1”次。使星星在运行时，有一个旋转的效果。如图4-7-8所示。
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（9）选中第50帧上的“星星”元件，通过【属性】面板对元件实例的属性进行设置，调整【颜色】项目中的Alpha值为“0%”，使星星在运行到最后时完全变透明至消失，如图4-7-9所示。
 
-<div align="center"><img src="/assets/4-7-8.png"></div>
-<div align="center"><span style="font-size:10px">图4-7-8 动作补间【属性】设置</span></div>
+<div align="center"><img src="/assets/4-7-8.png"><p style="text-align:center; font-size:10px; margin-top:2px">图4-7-8 动作补间【属性】设置</p></div>
 ===
 
-<div align="center"><img src="/assets/4-7-9.png"></div>
-<div align="center"><span style="font-size:10px">图4-7-9调整颜色项目中的Alpha值为“0%”</span></div>
+<div align="center"><img src="/assets/4-7-9.png"><p style="text-align:center; font-size:10px; margin-top:2px">图4-7-9调整颜色项目中的Alpha值为“0%”</p></div>
 ===
             
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（10）测试并保存影片。
