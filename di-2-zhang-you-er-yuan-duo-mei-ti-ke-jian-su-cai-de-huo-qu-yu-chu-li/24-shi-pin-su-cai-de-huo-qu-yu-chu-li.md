@@ -1,5 +1,9 @@
 #2.4 视频素材的获取与处理
 
+<div align="center"><iframe frameborder="0" width="640" height="498" src="https://v.qq.com/iframe/player.html?vid=f0551lz5qwd&tiny=0&auto=0" allowfullscreen></iframe></div>
+<div align="center"><span style="font-size:20px">教学微视频</span></div>
+===
+
 ##2.4.1视频素材简介
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;视频素材也称影像素材，它是指在多媒体课件中所播放的一种既有活动画面又有声音的文件，一般来说，视频画面的质量要比动画要差一些。因此他不可能完全取代动画素材。

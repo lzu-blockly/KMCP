@@ -1,5 +1,9 @@
 #4.7 利用运动补间动画制作课件
 
+<div align="center"><iframe frameborder="0" width="640" height="498" src="https://v.qq.com/iframe/player.html?vid=f055140pkcz&tiny=0&auto=0" allowfullscreen></iframe></div>
+<div align="center"><span style="font-size:20px">教学微视频</span></div>
+===
+
 ###1．认识运动补间动画
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;利用补间动画来制作课件，是实现一个对象从一个位置上到另外一个位置上的过渡。动作补间动画的基本制作方法是，在一个关键帧上创建一个对象，然后在另一个关键帧改变这个对象的大小、位置、颜色、透明度、旋转、倾斜、滤镜等属性。定义好补间动画后，Flash自动补上中间的动画过程。构成动作补间动画的对象包括元件(影片剪辑元件、图形元件、按钮元件)、文字、位图、组、绘制对象等，但不能是形状，只有把形状组合成“组”或者转换成“元件”后才可以成为补间动画中的“演员”。
