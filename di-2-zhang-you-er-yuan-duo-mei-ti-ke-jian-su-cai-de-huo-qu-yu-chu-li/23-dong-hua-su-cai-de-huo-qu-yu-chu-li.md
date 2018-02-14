@@ -1,5 +1,9 @@
 #2.3 动画素材的获取与处理
 
+<div align="center"><iframe frameborder="0" width="640" height="498" src="https://v.qq.com/iframe/player.html?vid=w0553a9w26u&tiny=0&auto=0" allowfullscreen></iframe></div>
+<div align="center"><span style="font-size:20px">教学微视频</span></div>
+===
+
 ##2.3.1动画素材简介
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在多媒体教学中，动画在传递教学信息方面有着很强的表现力，尤其易于被幼儿学生所接受。动画是通过播放系列连续图像信息，在人的视觉上造成一个连续变化的动态画面，可以动态的模拟或演示一些事物的发展变化过程，易于展开生动形象的教学。在幼儿多媒体教学中，动画教学是最为常见也是学生最为接受的教学形式之一。动画能够极大地吸引学生的注意力，激发学生的求知欲和调动学生的学习积极性，可以达到事半功倍的教学效果。
