@@ -1,5 +1,9 @@
 #4.4在flash中添加音频和视频
 
+<div align="center"><iframe frameborder="0" width="640" height="498" src="https://v.qq.com/iframe/player.html?vid=i0552ymz5q3&tiny=0&auto=0" allowfullscreen></iframe></div>
+<div align="center"><span style="font-size:20px">教学微视频</span></div>
+===
+
 ##4.4.1声音的应用
 
 ###1.导入音频
